@@ -1,0 +1,7547 @@
+{
+ "version": "whatsapp-2026-10-23b",
+ "data": {
+  "gym": {
+   "wa-2026-08-10": {
+    "id": "wa-2026-08-10",
+    "date": "2026-08-10",
+    "split": "Shoulders",
+    "startedAt": 1786377030000,
+    "endedAt": 1786384260000,
+    "note": "",
+    "feel": null,
+    "entries": [
+     {
+      "id": "wa-e2026-08-10-0",
+      "exId": "wa-face-pull",
+      "name": "Face Pull",
+      "muscle": "Shoulders",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "",
+      "photo": null,
+      "startedAt": 1786377510000,
+      "doneAt": 1786378350000.0,
+      "group": null,
+      "sets": [
+       {
+        "id": "s0-0-0",
+        "ts": 1786377705348,
+        "w": 16,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s0-0-1",
+        "ts": 1786377900697,
+        "w": 21,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s0-0-2",
+        "ts": 1786378096046,
+        "w": 26,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s0-0-3",
+        "ts": 1786378291395,
+        "w": 26,
+        "reps": 18,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     },
+     {
+      "id": "wa-e2026-08-10-1",
+      "exId": "wa-rev-cable",
+      "name": "Reverse Cable Fly (Rear Delts)",
+      "muscle": "Shoulders",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "",
+      "photo": null,
+      "startedAt": 1786378410000.0,
+      "doneAt": 1786378980000,
+      "group": null,
+      "sets": [
+       {
+        "id": "s0-1-0",
+        "ts": 1786378582727,
+        "w": 42.5,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s0-1-1",
+        "ts": 1786378755454,
+        "w": 50,
+        "reps": 14,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s0-1-2",
+        "ts": 1786378928181,
+        "w": 52.5,
+        "reps": 8,
+        "drops": [
+         {
+          "w": 42.5,
+          "reps": 8
+         },
+         {
+          "w": 35,
+          "reps": 9
+         }
+        ],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     },
+     {
+      "id": "wa-e2026-08-10-2",
+      "exId": "wa-lat-raise",
+      "name": "Dumbbell Lateral Raise",
+      "muscle": "Shoulders",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "12.5 reps were unclean, 10 kg reps okay-ish",
+      "photo": null,
+      "startedAt": 1786379850000,
+      "doneAt": 1786380480000,
+      "group": null,
+      "sets": [
+       {
+        "id": "s0-2-0",
+        "ts": 1786380040909,
+        "w": 7.5,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s0-2-1",
+        "ts": 1786380231818,
+        "w": 10,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s0-2-2",
+        "ts": 1786380422727,
+        "w": 12.5,
+        "reps": 8,
+        "drops": [
+         {
+          "w": 10,
+          "reps": 11
+         }
+        ],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     },
+     {
+      "id": "wa-e2026-08-10-3",
+      "exId": "wa-upright-row",
+      "name": "Cable Upright Row (EZ bar)",
+      "muscle": "Shoulders",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "Reps not logged, assumed 15",
+      "photo": null,
+      "startedAt": 1786380870000,
+      "doneAt": 1786381500000.0,
+      "group": null,
+      "sets": [
+       {
+        "id": "s0-3-0",
+        "ts": 1786381060909,
+        "w": 20,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": [
+         "Reps est."
+        ]
+       },
+       {
+        "id": "s0-3-1",
+        "ts": 1786381251818,
+        "w": 25,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": [
+         "Reps est."
+        ]
+       },
+       {
+        "id": "s0-3-2",
+        "ts": 1786381442727,
+        "w": 30,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": [
+         "Reps est."
+        ]
+       }
+      ]
+     },
+     {
+      "id": "wa-e2026-08-10-4",
+      "exId": "wa-db-sh-press",
+      "name": "Dumbbell Shoulder Press",
+      "muscle": "Shoulders",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "Reps for the first two sets not logged, assumed 15",
+      "photo": null,
+      "startedAt": 1786381560000.0,
+      "doneAt": 1786382130000.0,
+      "group": null,
+      "sets": [
+       {
+        "id": "s0-4-0",
+        "ts": 1786381732727,
+        "w": 12.5,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": [
+         "Reps est."
+        ]
+       },
+       {
+        "id": "s0-4-1",
+        "ts": 1786381905454,
+        "w": 15,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": [
+         "Reps est."
+        ]
+       },
+       {
+        "id": "s0-4-2",
+        "ts": 1786382078181,
+        "w": 17.5,
+        "reps": 9,
+        "drops": [
+         {
+          "w": 15,
+          "reps": 2
+         }
+        ],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     },
+     {
+      "id": "wa-e2026-08-10-5",
+      "exId": "wa-sh-press",
+      "name": "Shoulder Press Machine",
+      "muscle": "Shoulders",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "",
+      "photo": null,
+      "startedAt": 1786382190000.0,
+      "doneAt": 1786382760000.0,
+      "group": null,
+      "sets": [
+       {
+        "id": "s0-5-0",
+        "ts": 1786382362727,
+        "w": 23.75,
+        "reps": 11,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s0-5-1",
+        "ts": 1786382535454,
+        "w": 23.75,
+        "reps": 11,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s0-5-2",
+        "ts": 1786382708181,
+        "w": 27.5,
+        "reps": 10,
+        "drops": [
+         {
+          "w": 20,
+          "reps": 5
+         }
+        ],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     },
+     {
+      "id": "wa-e2026-08-10-6",
+      "exId": "wa-front-raise",
+      "name": "Dumbbell Front Raise",
+      "muscle": "Shoulders",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "Last 3 reps of sets 2 and 3 were tough",
+      "photo": null,
+      "startedAt": 1786382820000.0,
+      "doneAt": 1786383390000.0,
+      "group": null,
+      "sets": [
+       {
+        "id": "s0-6-0",
+        "ts": 1786382992727,
+        "w": 7.5,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s0-6-1",
+        "ts": 1786383165454,
+        "w": 10,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s0-6-2",
+        "ts": 1786383338181,
+        "w": 10,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     },
+     {
+      "id": "wa-e2026-08-10-7",
+      "exId": "wa-shrug",
+      "name": "Shrugs",
+      "muscle": "Traps",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "",
+      "photo": null,
+      "startedAt": 1786383450000.0,
+      "doneAt": 1786384020000,
+      "group": null,
+      "sets": [
+       {
+        "id": "s0-7-0",
+        "ts": 1786383622727,
+        "w": 70,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s0-7-1",
+        "ts": 1786383795454,
+        "w": 80,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s0-7-2",
+        "ts": 1786383968181,
+        "w": 90,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     }
+    ],
+    "source": "whatsapp"
+   },
+   "wa-2026-08-11": {
+    "id": "wa-2026-08-11",
+    "date": "2026-08-11",
+    "split": "Arms",
+    "startedAt": 1786463970000,
+    "endedAt": 1786467540000,
+    "note": "",
+    "feel": null,
+    "entries": [
+     {
+      "id": "wa-e2026-08-11-0",
+      "exId": "wa-bb-curl",
+      "name": "Barbell Bicep Curl",
+      "muscle": "Biceps",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "",
+      "photo": null,
+      "startedAt": 1786464450000,
+      "doneAt": 1786465080000.0,
+      "group": null,
+      "sets": [
+       {
+        "id": "s1-0-0",
+        "ts": 1786464640909,
+        "w": 20,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s1-0-1",
+        "ts": 1786464831818,
+        "w": 25,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s1-0-2",
+        "ts": 1786465022727,
+        "w": 30,
+        "reps": 10,
+        "drops": [
+         {
+          "w": 25,
+          "reps": 3
+         }
+        ],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     },
+     {
+      "id": "wa-e2026-08-11-1",
+      "exId": "wa-hammer",
+      "name": "Hammer Curl",
+      "muscle": "Biceps",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "Third set: 12.5 then 10 kg, reps not logged",
+      "photo": null,
+      "startedAt": 1786465140000.0,
+      "doneAt": 1786465560000.0,
+      "group": null,
+      "sets": [
+       {
+        "id": "s1-1-0",
+        "ts": 1786465322608,
+        "w": 10,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s1-1-1",
+        "ts": 1786465505217,
+        "w": 12.5,
+        "reps": 7,
+        "drops": [
+         {
+          "w": 10,
+          "reps": 7
+         }
+        ],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     },
+     {
+      "id": "wa-e2026-08-11-2",
+      "exId": "wa-preacher",
+      "name": "Dumbbell Preacher Curl",
+      "muscle": "Biceps",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "",
+      "photo": null,
+      "startedAt": 1786465620000.0,
+      "doneAt": 1786466190000.0,
+      "group": null,
+      "sets": [
+       {
+        "id": "s1-2-0",
+        "ts": 1786465792727,
+        "w": 7.5,
+        "reps": 7,
+        "drops": [],
+        "dur": null,
+        "tags": [
+         "Left arm"
+        ]
+       },
+       {
+        "id": "s1-2-1",
+        "ts": 1786465965454,
+        "w": 5,
+        "reps": 20,
+        "drops": [],
+        "dur": null,
+        "tags": [
+         "Left arm"
+        ]
+       },
+       {
+        "id": "s1-2-2",
+        "ts": 1786466138181,
+        "w": 7.5,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     },
+     {
+      "id": "wa-e2026-08-11-3",
+      "exId": "wa-cg-curl",
+      "name": "Close-Grip Barbell Curl",
+      "muscle": "Biceps",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "",
+      "photo": null,
+      "startedAt": 1786466250000.0,
+      "doneAt": 1786466820000,
+      "group": null,
+      "sets": [
+       {
+        "id": "s1-3-0",
+        "ts": 1786466422727,
+        "w": 15,
+        "reps": 20,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s1-3-1",
+        "ts": 1786466595454,
+        "w": 15,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s1-3-2",
+        "ts": 1786466768181,
+        "w": 20,
+        "reps": 12,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     },
+     {
+      "id": "wa-e2026-08-11-4",
+      "exId": "wa-wg-curl",
+      "name": "Wide-Grip Barbell Curl",
+      "muscle": "Biceps",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "Stopped, worried about injury",
+      "photo": null,
+      "startedAt": 1786466880000,
+      "doneAt": 1786467300000,
+      "group": null,
+      "sets": [
+       {
+        "id": "s1-4-0",
+        "ts": 1786467062608,
+        "w": 20,
+        "reps": 8,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s1-4-1",
+        "ts": 1786467245217,
+        "w": 15,
+        "reps": 12,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     }
+    ],
+    "source": "whatsapp"
+   },
+   "wa-2026-08-15": {
+    "id": "wa-2026-08-15",
+    "date": "2026-08-15",
+    "split": "Chest + Tri",
+    "startedAt": 1786785450000,
+    "endedAt": 1786789860000,
+    "note": "",
+    "feel": null,
+    "entries": [
+     {
+      "id": "wa-e2026-08-15-0",
+      "exId": "wa-inc-press",
+      "name": "Incline Dumbbell Press",
+      "muscle": "Chest",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "",
+      "photo": null,
+      "startedAt": 1786785930000,
+      "doneAt": 1786786770000.0,
+      "group": null,
+      "sets": [
+       {
+        "id": "s2-0-0",
+        "ts": 1786786125348,
+        "w": 12.5,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": [
+         "Warm-up"
+        ]
+       },
+       {
+        "id": "s2-0-1",
+        "ts": 1786786320697,
+        "w": 17.5,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s2-0-2",
+        "ts": 1786786516046,
+        "w": 20,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s2-0-3",
+        "ts": 1786786711395,
+        "w": 22.5,
+        "reps": 10,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     },
+     {
+      "id": "wa-e2026-08-15-1",
+      "exId": "wa-inc-fly",
+      "name": "Incline Dumbbell Fly",
+      "muscle": "Chest",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "",
+      "photo": null,
+      "startedAt": 1786786830000.0,
+      "doneAt": 1786787400000.0,
+      "group": null,
+      "sets": [
+       {
+        "id": "s2-1-0",
+        "ts": 1786787002727,
+        "w": 7.5,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s2-1-1",
+        "ts": 1786787175454,
+        "w": 10,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s2-1-2",
+        "ts": 1786787348181,
+        "w": 12.5,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     },
+     {
+      "id": "wa-e2026-08-15-2",
+      "exId": "wa-squeeze",
+      "name": "Dumbbell Squeeze Press (Upper Chest)",
+      "muscle": "Chest",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "",
+      "photo": null,
+      "startedAt": 1786787460000.0,
+      "doneAt": 1786788030000.0,
+      "group": null,
+      "sets": [
+       {
+        "id": "s2-2-0",
+        "ts": 1786787632727,
+        "w": 7.5,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s2-2-1",
+        "ts": 1786787805454,
+        "w": 7.5,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s2-2-2",
+        "ts": 1786787978181,
+        "w": 10,
+        "reps": 8,
+        "drops": [
+         {
+          "w": 7.5,
+          "reps": 7
+         }
+        ],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     },
+     {
+      "id": "wa-e2026-08-15-3",
+      "exId": "wa-chest-press",
+      "name": "Chest Press Machine",
+      "muscle": "Chest",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "Set 2: 1 rep at 42.5 first, then 50\u00d711",
+      "photo": null,
+      "startedAt": 1786788090000.0,
+      "doneAt": 1786788510000.0,
+      "group": null,
+      "sets": [
+       {
+        "id": "s2-3-0",
+        "ts": 1786788272608,
+        "w": 42.5,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s2-3-1",
+        "ts": 1786788455217,
+        "w": 50,
+        "reps": 11,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     },
+     {
+      "id": "wa-e2026-08-15-4",
+      "exId": "wa-pec-deck",
+      "name": "Pec Deck Fly",
+      "muscle": "Chest",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "",
+      "photo": null,
+      "startedAt": 1786788570000.0,
+      "doneAt": 1786789140000,
+      "group": null,
+      "sets": [
+       {
+        "id": "s2-4-0",
+        "ts": 1786788742727,
+        "w": 50,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s2-4-1",
+        "ts": 1786788915454,
+        "w": 57.5,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s2-4-2",
+        "ts": 1786789088181,
+        "w": 65,
+        "reps": 10,
+        "drops": [
+         {
+          "w": 50,
+          "reps": 5
+         }
+        ],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     },
+     {
+      "id": "wa-e2026-08-15-5",
+      "exId": "wa-kneel-fly",
+      "name": "Kneeling Cable Fly (Lower Chest)",
+      "muscle": "Chest",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "",
+      "photo": null,
+      "startedAt": 1786789200000,
+      "doneAt": 1786789620000,
+      "group": null,
+      "sets": [
+       {
+        "id": "s2-5-0",
+        "ts": 1786789382608,
+        "w": 13,
+        "reps": 20,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s2-5-1",
+        "ts": 1786789565217,
+        "w": 16,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     }
+    ],
+    "source": "whatsapp"
+   },
+   "wa-2026-08-16": {
+    "id": "wa-2026-08-16",
+    "date": "2026-08-16",
+    "split": "Back + Bi",
+    "startedAt": 1786888170000,
+    "endedAt": 1786897860000,
+    "note": "",
+    "feel": null,
+    "entries": [
+     {
+      "id": "wa-e2026-08-16-0",
+      "exId": "wa-lat-pd",
+      "name": "Lat Pulldown",
+      "muscle": "Back",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "",
+      "photo": null,
+      "startedAt": 1786888650000,
+      "doneAt": 1786889280000,
+      "group": null,
+      "sets": [
+       {
+        "id": "s3-0-0",
+        "ts": 1786888840909,
+        "w": 50,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s3-0-1",
+        "ts": 1786889031818,
+        "w": 57.5,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s3-0-2",
+        "ts": 1786889222727,
+        "w": 65,
+        "reps": 14,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     },
+     {
+      "id": "wa-e2026-08-16-1",
+      "exId": "wa-face-pull",
+      "name": "Face Pull",
+      "muscle": "Shoulders",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "Straight bar",
+      "photo": null,
+      "startedAt": 1786890150000,
+      "doneAt": 1786890990000.0,
+      "group": null,
+      "sets": [
+       {
+        "id": "s3-1-0",
+        "ts": 1786890345348,
+        "w": 23.75,
+        "reps": 18,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s3-1-1",
+        "ts": 1786890540697,
+        "w": 28.75,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s3-1-2",
+        "ts": 1786890736046,
+        "w": 31.25,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s3-1-3",
+        "ts": 1786890931395,
+        "w": 33.75,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     },
+     {
+      "id": "wa-e2026-08-16-2",
+      "exId": "wa-sa-row",
+      "name": "Single-Arm Row",
+      "muscle": "Back",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "Machine",
+      "photo": null,
+      "startedAt": 1786891050000.0,
+      "doneAt": 1786891620000,
+      "group": null,
+      "sets": [
+       {
+        "id": "s3-2-0",
+        "ts": 1786891222727,
+        "w": 65,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s3-2-1",
+        "ts": 1786891395454,
+        "w": 72.5,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s3-2-2",
+        "ts": 1786891568181,
+        "w": 80,
+        "reps": 10,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     },
+     {
+      "id": "wa-e2026-08-16-3",
+      "exId": "wa-cs-row",
+      "name": "Chest-Supported Dumbbell Row",
+      "muscle": "Back",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "",
+      "photo": null,
+      "startedAt": 1786893510000,
+      "doneAt": 1786894140000,
+      "group": null,
+      "sets": [
+       {
+        "id": "s3-3-0",
+        "ts": 1786893700909,
+        "w": 15,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s3-3-1",
+        "ts": 1786893891818,
+        "w": 15,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s3-3-2",
+        "ts": 1786894082727,
+        "w": 17.5,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     },
+     {
+      "id": "wa-e2026-08-16-4",
+      "exId": "wa-tbar",
+      "name": "T-Bar Row",
+      "muscle": "Back",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "+1 cheat rep on set 2",
+      "photo": null,
+      "startedAt": 1786894770000,
+      "doneAt": 1786895400000.0,
+      "group": null,
+      "sets": [
+       {
+        "id": "s3-4-0",
+        "ts": 1786894960909,
+        "w": 35,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s3-4-1",
+        "ts": 1786895151818,
+        "w": 40,
+        "reps": 14,
+        "drops": [],
+        "dur": null,
+        "tags": [
+         "Cheat reps"
+        ]
+       },
+       {
+        "id": "s3-4-2",
+        "ts": 1786895342727,
+        "w": 45,
+        "reps": 10,
+        "drops": [
+         {
+          "w": 40,
+          "reps": 5
+         }
+        ],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     },
+     {
+      "id": "wa-e2026-08-16-5",
+      "exId": "wa-hammer",
+      "name": "Hammer Curl",
+      "muscle": "Biceps",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "",
+      "photo": null,
+      "startedAt": 1786895460000.0,
+      "doneAt": 1786895880000.0,
+      "group": null,
+      "sets": [
+       {
+        "id": "s3-5-0",
+        "ts": 1786895642608,
+        "w": 10,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s3-5-1",
+        "ts": 1786895825217,
+        "w": 12.5,
+        "reps": 10,
+        "drops": [
+         {
+          "w": 10,
+          "reps": 5
+         }
+        ],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     },
+     {
+      "id": "wa-e2026-08-16-6",
+      "exId": "wa-rope-hammer",
+      "name": "Cable Rope Hammer Curl",
+      "muscle": "Biceps",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "Set 2 with another attachment, felt like long head",
+      "photo": null,
+      "startedAt": 1786895940000.0,
+      "doneAt": 1786896360000.0,
+      "group": null,
+      "sets": [
+       {
+        "id": "s3-6-0",
+        "ts": 1786896122608,
+        "w": 21.25,
+        "reps": 8,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s3-6-1",
+        "ts": 1786896305217,
+        "w": 21.25,
+        "reps": 10,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     },
+     {
+      "id": "wa-e2026-08-16-7",
+      "exId": "wa-preacher",
+      "name": "Dumbbell Preacher Curl",
+      "muscle": "Biceps",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "Logged per arm",
+      "photo": null,
+      "startedAt": 1786896420000.0,
+      "doneAt": 1786897620000,
+      "group": null,
+      "sets": [
+       {
+        "id": "s3-7-0",
+        "ts": 1786896610476,
+        "w": 10,
+        "reps": 12,
+        "drops": [],
+        "dur": null,
+        "tags": [
+         "Right arm"
+        ]
+       },
+       {
+        "id": "s3-7-1",
+        "ts": 1786896800952,
+        "w": 10,
+        "reps": 10,
+        "drops": [],
+        "dur": null,
+        "tags": [
+         "Left arm"
+        ]
+       },
+       {
+        "id": "s3-7-2",
+        "ts": 1786896991428,
+        "w": 10,
+        "reps": 10,
+        "drops": [],
+        "dur": null,
+        "tags": [
+         "Right arm"
+        ]
+       },
+       {
+        "id": "s3-7-3",
+        "ts": 1786897181904,
+        "w": 10,
+        "reps": 6,
+        "drops": [],
+        "dur": null,
+        "tags": [
+         "Left arm"
+        ]
+       },
+       {
+        "id": "s3-7-4",
+        "ts": 1786897372380,
+        "w": 10,
+        "reps": 12,
+        "drops": [],
+        "dur": null,
+        "tags": [
+         "Right arm"
+        ]
+       },
+       {
+        "id": "s3-7-5",
+        "ts": 1786897562857,
+        "w": 10,
+        "reps": 6,
+        "drops": [],
+        "dur": null,
+        "tags": [
+         "Left arm"
+        ]
+       }
+      ]
+     }
+    ],
+    "source": "whatsapp"
+   },
+   "wa-2026-08-18": {
+    "id": "wa-2026-08-18",
+    "date": "2026-08-18",
+    "split": "Shoulders",
+    "startedAt": 1787069760000,
+    "endedAt": 1787074920000,
+    "note": "",
+    "feel": null,
+    "entries": [
+     {
+      "id": "wa-e2026-08-18-0",
+      "exId": "wa-lat-raise",
+      "name": "Dumbbell Lateral Raise",
+      "muscle": "Shoulders",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "",
+      "photo": null,
+      "startedAt": 1787070240000,
+      "doneAt": 1787070870000.0,
+      "group": null,
+      "sets": [
+       {
+        "id": "s4-0-0",
+        "ts": 1787070430909,
+        "w": 7.5,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s4-0-1",
+        "ts": 1787070621818,
+        "w": 10,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s4-0-2",
+        "ts": 1787070812727,
+        "w": 12.5,
+        "reps": 8,
+        "drops": [
+         {
+          "w": 10,
+          "reps": 10
+         },
+         {
+          "w": 7.5,
+          "reps": 7
+         }
+        ],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     },
+     {
+      "id": "wa-e2026-08-18-1",
+      "exId": "wa-front-raise",
+      "name": "Dumbbell Front Raise",
+      "muscle": "Shoulders",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "",
+      "photo": null,
+      "startedAt": 1787070930000.0,
+      "doneAt": 1787071500000,
+      "group": null,
+      "sets": [
+       {
+        "id": "s4-1-0",
+        "ts": 1787071102727,
+        "w": 7.5,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s4-1-1",
+        "ts": 1787071275454,
+        "w": 10,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s4-1-2",
+        "ts": 1787071448181,
+        "w": 12.5,
+        "reps": 8,
+        "drops": [
+         {
+          "w": 10,
+          "reps": 7
+         },
+         {
+          "w": 7.5,
+          "reps": 7
+         }
+        ],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     },
+     {
+      "id": "wa-e2026-08-18-2",
+      "exId": "wa-sh-press",
+      "name": "Shoulder Press Machine",
+      "muscle": "Shoulders",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "",
+      "photo": null,
+      "startedAt": 1787072250000,
+      "doneAt": 1787072880000,
+      "group": null,
+      "sets": [
+       {
+        "id": "s4-2-0",
+        "ts": 1787072440909,
+        "w": 23.75,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s4-2-1",
+        "ts": 1787072631818,
+        "w": 27.5,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s4-2-2",
+        "ts": 1787072822727,
+        "w": 30,
+        "reps": 9,
+        "drops": [
+         {
+          "w": 23.75,
+          "reps": 3
+         },
+         {
+          "w": 16.25,
+          "reps": 3
+         }
+        ],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     },
+     {
+      "id": "wa-e2026-08-18-3",
+      "exId": "wa-rev-fly",
+      "name": "Reverse Pec Deck (Rear Delt Fly)",
+      "muscle": "Shoulders",
+      "settingLabel": "Height",
+      "setting": "6",
+      "note": "",
+      "photo": null,
+      "startedAt": 1787073330000,
+      "doneAt": 1787073960000,
+      "group": null,
+      "sets": [
+       {
+        "id": "s4-3-0",
+        "ts": 1787073520909,
+        "w": 46.25,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s4-3-1",
+        "ts": 1787073711818,
+        "w": 50,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s4-3-2",
+        "ts": 1787073902727,
+        "w": 53.75,
+        "reps": 12,
+        "drops": [
+         {
+          "w": 46.25,
+          "reps": 6
+         }
+        ],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     },
+     {
+      "id": "wa-e2026-08-18-4",
+      "exId": "wa-face-pull",
+      "name": "Face Pull",
+      "muscle": "Shoulders",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "",
+      "photo": null,
+      "startedAt": 1787074050000,
+      "doneAt": 1787074680000,
+      "group": null,
+      "sets": [
+       {
+        "id": "s4-4-0",
+        "ts": 1787074240909,
+        "w": 23.75,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s4-4-1",
+        "ts": 1787074431818,
+        "w": 23.75,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s4-4-2",
+        "ts": 1787074622727,
+        "w": 26.25,
+        "reps": 13,
+        "drops": [
+         {
+          "w": 23.75,
+          "reps": 5
+         }
+        ],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     }
+    ],
+    "source": "whatsapp"
+   },
+   "wa-2026-08-19": {
+    "id": "wa-2026-08-19",
+    "date": "2026-08-19",
+    "split": "Arms",
+    "startedAt": 1787157150000,
+    "endedAt": 1787160840000,
+    "note": "",
+    "feel": null,
+    "entries": [
+     {
+      "id": "wa-e2026-08-19-0",
+      "exId": "wa-bb-curl",
+      "name": "Barbell Bicep Curl",
+      "muscle": "Biceps",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "",
+      "photo": null,
+      "startedAt": 1787157630000,
+      "doneAt": 1787158260000,
+      "group": null,
+      "sets": [
+       {
+        "id": "s5-0-0",
+        "ts": 1787157820909,
+        "w": 25,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s5-0-1",
+        "ts": 1787158011818,
+        "w": 30,
+        "reps": 11,
+        "drops": [
+         {
+          "w": 25,
+          "reps": 4
+         }
+        ],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s5-0-2",
+        "ts": 1787158202727,
+        "w": 30,
+        "reps": 11,
+        "drops": [
+         {
+          "w": 25,
+          "reps": 3
+         }
+        ],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     },
+     {
+      "id": "wa-e2026-08-19-1",
+      "exId": "wa-hammer",
+      "name": "Hammer Curl",
+      "muscle": "Biceps",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "",
+      "photo": null,
+      "startedAt": 1787159340000,
+      "doneAt": 1787159970000.0,
+      "group": null,
+      "sets": [
+       {
+        "id": "s5-1-0",
+        "ts": 1787159530909,
+        "w": 10,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s5-1-1",
+        "ts": 1787159721818,
+        "w": 12.5,
+        "reps": 13,
+        "drops": [
+         {
+          "w": 10,
+          "reps": 5
+         }
+        ],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s5-1-2",
+        "ts": 1787159912727,
+        "w": 10,
+        "reps": 13,
+        "drops": [
+         {
+          "w": 7.5,
+          "reps": 8
+         }
+        ],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     },
+     {
+      "id": "wa-e2026-08-19-2",
+      "exId": "wa-oh-ext",
+      "name": "Overhead Cable Tricep Extension",
+      "muscle": "Triceps",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "",
+      "photo": null,
+      "startedAt": 1787160030000.0,
+      "doneAt": 1787160600000,
+      "group": null,
+      "sets": [
+       {
+        "id": "s5-2-0",
+        "ts": 1787160202727,
+        "w": 16.25,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s5-2-1",
+        "ts": 1787160375454,
+        "w": 18.75,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s5-2-2",
+        "ts": 1787160548181,
+        "w": 21.25,
+        "reps": 12,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     }
+    ],
+    "source": "whatsapp"
+   },
+   "wa-2026-08-20": {
+    "id": "wa-2026-08-20",
+    "date": "2026-08-20",
+    "split": "Legs",
+    "startedAt": 1787242230000,
+    "endedAt": 1787246640000,
+    "note": "",
+    "feel": null,
+    "entries": [
+     {
+      "id": "wa-e2026-08-20-0",
+      "exId": "wa-sumo",
+      "name": "Dumbbell Sumo Squat",
+      "muscle": "Legs",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "",
+      "photo": null,
+      "startedAt": 1787242710000,
+      "doneAt": 1787243340000.0,
+      "group": null,
+      "sets": [
+       {
+        "id": "s6-0-0",
+        "ts": 1787242900909,
+        "w": 15,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s6-0-1",
+        "ts": 1787243091818,
+        "w": 17.5,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s6-0-2",
+        "ts": 1787243282727,
+        "w": 20,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     },
+     {
+      "id": "wa-e2026-08-20-1",
+      "exId": "wa-front-squat",
+      "name": "Front Squat",
+      "muscle": "Legs",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "",
+      "photo": null,
+      "startedAt": 1787243400000.0,
+      "doneAt": 1787243820000.0,
+      "group": null,
+      "sets": [
+       {
+        "id": "s6-1-0",
+        "ts": 1787243723076,
+        "w": 15,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     },
+     {
+      "id": "wa-e2026-08-20-2",
+      "exId": "wa-leg-ext",
+      "name": "Leg Extension",
+      "muscle": "Legs",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "Plus the 3.75 kg add-on each set",
+      "photo": null,
+      "startedAt": 1787243880000.0,
+      "doneAt": 1787244450000.0,
+      "group": null,
+      "sets": [
+       {
+        "id": "s6-2-0",
+        "ts": 1787244052727,
+        "w": 57.5,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s6-2-1",
+        "ts": 1787244225454,
+        "w": 65,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s6-2-2",
+        "ts": 1787244398181,
+        "w": 72.5,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     },
+     {
+      "id": "wa-e2026-08-20-3",
+      "exId": "wa-leg-curl",
+      "name": "Leg Curl Machine",
+      "muscle": "Legs",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "Plus the 3.75 kg add-on each set",
+      "photo": null,
+      "startedAt": 1787244510000.0,
+      "doneAt": 1787245080000,
+      "group": null,
+      "sets": [
+       {
+        "id": "s6-3-0",
+        "ts": 1787244682727,
+        "w": 65,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s6-3-1",
+        "ts": 1787244855454,
+        "w": 72.5,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s6-3-2",
+        "ts": 1787245028181,
+        "w": 80,
+        "reps": 13,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     },
+     {
+      "id": "wa-e2026-08-20-4",
+      "exId": "wa-leg-press",
+      "name": "Leg Press",
+      "muscle": "Legs",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "Plus the 3.75 kg add-on",
+      "photo": null,
+      "startedAt": 1787245140000,
+      "doneAt": 1787245770000.0,
+      "group": null,
+      "sets": [
+       {
+        "id": "s6-4-0",
+        "ts": 1787245330909,
+        "w": 65,
+        "reps": 22,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s6-4-1",
+        "ts": 1787245521818,
+        "w": 80,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s6-4-2",
+        "ts": 1787245712727,
+        "w": 102.5,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     },
+     {
+      "id": "wa-e2026-08-20-5",
+      "exId": "wa-leg-ext",
+      "name": "Leg Extension",
+      "muscle": "Legs",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "Second round",
+      "photo": null,
+      "startedAt": 1787245830000.0,
+      "doneAt": 1787246400000,
+      "group": null,
+      "sets": [
+       {
+        "id": "s6-5-0",
+        "ts": 1787246002727,
+        "w": 80,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s6-5-1",
+        "ts": 1787246175454,
+        "w": 87.5,
+        "reps": 12,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s6-5-2",
+        "ts": 1787246348181,
+        "w": 95,
+        "reps": 8,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     }
+    ],
+    "source": "whatsapp"
+   },
+   "wa-2026-08-22": {
+    "id": "wa-2026-08-22",
+    "date": "2026-08-22",
+    "split": "Chest + Tri",
+    "startedAt": 1787414940000,
+    "endedAt": 1787419320000,
+    "note": "",
+    "feel": null,
+    "entries": [
+     {
+      "id": "wa-e2026-08-22-0",
+      "exId": "wa-inc-press",
+      "name": "Incline Dumbbell Press",
+      "muscle": "Chest",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "",
+      "photo": null,
+      "startedAt": 1787415420000,
+      "doneAt": 1787416260000,
+      "group": null,
+      "sets": [
+       {
+        "id": "s7-0-0",
+        "ts": 1787415615348,
+        "w": 12.5,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": [
+         "Warm-up"
+        ]
+       },
+       {
+        "id": "s7-0-1",
+        "ts": 1787415810697,
+        "w": 17.5,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s7-0-2",
+        "ts": 1787416006046,
+        "w": 20,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s7-0-3",
+        "ts": 1787416201395,
+        "w": 22.5,
+        "reps": 9,
+        "drops": [
+         {
+          "w": 17.5,
+          "reps": 5
+         }
+        ],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     },
+     {
+      "id": "wa-e2026-08-22-1",
+      "exId": "wa-inc-fly",
+      "name": "Incline Dumbbell Fly",
+      "muscle": "Chest",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "",
+      "photo": null,
+      "startedAt": 1787416830000,
+      "doneAt": 1787417460000,
+      "group": null,
+      "sets": [
+       {
+        "id": "s7-1-0",
+        "ts": 1787417020909,
+        "w": 7.5,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s7-1-1",
+        "ts": 1787417211818,
+        "w": 10,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s7-1-2",
+        "ts": 1787417402727,
+        "w": 12.5,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     },
+     {
+      "id": "wa-e2026-08-22-2",
+      "exId": "wa-chest-press",
+      "name": "Chest Press Machine",
+      "muscle": "Chest",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "Set 1 was 14 and a half reps",
+      "photo": null,
+      "startedAt": 1787418450000,
+      "doneAt": 1787419080000,
+      "group": null,
+      "sets": [
+       {
+        "id": "s7-2-0",
+        "ts": 1787418640909,
+        "w": 42.5,
+        "reps": 14,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s7-2-1",
+        "ts": 1787418831818,
+        "w": 50,
+        "reps": 8,
+        "drops": [
+         {
+          "w": 42.5,
+          "reps": 3
+         }
+        ],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s7-2-2",
+        "ts": 1787419022727,
+        "w": 60,
+        "reps": 6,
+        "drops": [
+         {
+          "w": 42.5,
+          "reps": 2
+         }
+        ],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     }
+    ],
+    "source": "whatsapp"
+   },
+   "wa-2026-08-24": {
+    "id": "wa-2026-08-24",
+    "date": "2026-08-24",
+    "split": "Legs",
+    "startedAt": 1787588670000,
+    "endedAt": 1787596440000,
+    "note": "",
+    "feel": null,
+    "entries": [
+     {
+      "id": "wa-e2026-08-24-0",
+      "exId": "wa-bw-squat",
+      "name": "Bodyweight Squat",
+      "muscle": "Legs",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "",
+      "photo": null,
+      "startedAt": 1787589150000,
+      "doneAt": 1787589780000.0,
+      "group": null,
+      "sets": [
+       {
+        "id": "s8-0-0",
+        "ts": 1787589340909,
+        "w": 0,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s8-0-1",
+        "ts": 1787589531818,
+        "w": 0,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s8-0-2",
+        "ts": 1787589722727,
+        "w": 0,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     },
+     {
+      "id": "wa-e2026-08-24-1",
+      "exId": "wa-leg-ext",
+      "name": "Leg Extension",
+      "muscle": "Legs",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "",
+      "photo": null,
+      "startedAt": 1787589840000.0,
+      "doneAt": 1787590620000,
+      "group": null,
+      "sets": [
+       {
+        "id": "s8-1-0",
+        "ts": 1787590021395,
+        "w": 80,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s8-1-1",
+        "ts": 1787590202790,
+        "w": 87.5,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s8-1-2",
+        "ts": 1787590384186,
+        "w": 95,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s8-1-3",
+        "ts": 1787590565581,
+        "w": 102.5,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     },
+     {
+      "id": "wa-e2026-08-24-2",
+      "exId": "wa-leg-curl",
+      "name": "Leg Curl Machine",
+      "muscle": "Legs",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "",
+      "photo": null,
+      "startedAt": 1787591670000,
+      "doneAt": 1787592300000,
+      "group": null,
+      "sets": [
+       {
+        "id": "s8-2-0",
+        "ts": 1787591860909,
+        "w": 72.5,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s8-2-1",
+        "ts": 1787592051818,
+        "w": 80,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s8-2-2",
+        "ts": 1787592242727,
+        "w": 87.5,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     },
+     {
+      "id": "wa-e2026-08-24-3",
+      "exId": "wa-leg-press",
+      "name": "Leg Press",
+      "muscle": "Legs",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "",
+      "photo": null,
+      "startedAt": 1787595360000,
+      "doneAt": 1787596200000,
+      "group": null,
+      "sets": [
+       {
+        "id": "s8-3-0",
+        "ts": 1787595555348,
+        "w": 72.5,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s8-3-1",
+        "ts": 1787595750697,
+        "w": 95,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s8-3-2",
+        "ts": 1787595946046,
+        "w": 110,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s8-3-3",
+        "ts": 1787596141395,
+        "w": 125,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     }
+    ],
+    "source": "whatsapp"
+   },
+   "wa-2026-08-30": {
+    "id": "wa-2026-08-30",
+    "date": "2026-08-30",
+    "split": "Legs",
+    "startedAt": 1788105780000,
+    "endedAt": 1788107760000,
+    "note": "Only leg extensions and leg curls were logged.",
+    "feel": null,
+    "entries": [
+     {
+      "id": "wa-e2026-08-30-0",
+      "exId": "wa-leg-ext",
+      "name": "Leg Extension",
+      "muscle": "Legs",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "",
+      "photo": null,
+      "startedAt": 1788106260000,
+      "doneAt": 1788106890000.0,
+      "group": null,
+      "sets": [
+       {
+        "id": "s9-0-0",
+        "ts": 1788106450909,
+        "w": 80,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s9-0-1",
+        "ts": 1788106641818,
+        "w": 87.5,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s9-0-2",
+        "ts": 1788106832727,
+        "w": 95,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     },
+     {
+      "id": "wa-e2026-08-30-1",
+      "exId": "wa-leg-curl",
+      "name": "Leg Curl Machine",
+      "muscle": "Legs",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "",
+      "photo": null,
+      "startedAt": 1788106950000.0,
+      "doneAt": 1788107520000,
+      "group": null,
+      "sets": [
+       {
+        "id": "s9-1-0",
+        "ts": 1788107122727,
+        "w": 72.5,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s9-1-1",
+        "ts": 1788107295454,
+        "w": 80,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s9-1-2",
+        "ts": 1788107468181,
+        "w": 87.5,
+        "reps": 12,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     }
+    ],
+    "source": "whatsapp"
+   },
+   "wa-2026-09-02": {
+    "id": "wa-2026-09-02",
+    "date": "2026-09-02",
+    "split": "Legs",
+    "startedAt": 1788364080000,
+    "endedAt": 1788368880000,
+    "note": "",
+    "feel": null,
+    "entries": [
+     {
+      "id": "wa-e2026-09-02-0",
+      "exId": "wa-sumo",
+      "name": "Dumbbell Sumo Squat",
+      "muscle": "Legs",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "",
+      "photo": null,
+      "startedAt": 1788364560000,
+      "doneAt": 1788365190000.0,
+      "group": null,
+      "sets": [
+       {
+        "id": "s10-0-0",
+        "ts": 1788364750909,
+        "w": 20,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s10-0-1",
+        "ts": 1788364941818,
+        "w": 20,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s10-0-2",
+        "ts": 1788365132727,
+        "w": 20,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     },
+     {
+      "id": "wa-e2026-09-02-1",
+      "exId": "wa-bw-squat",
+      "name": "Bodyweight Squat",
+      "muscle": "Legs",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "",
+      "photo": null,
+      "startedAt": 1788365250000.0,
+      "doneAt": 1788365670000.0,
+      "group": null,
+      "sets": [
+       {
+        "id": "s10-1-0",
+        "ts": 1788365432608,
+        "w": 0,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s10-1-1",
+        "ts": 1788365615217,
+        "w": 0,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     },
+     {
+      "id": "wa-e2026-09-02-2",
+      "exId": "wa-leg-ext",
+      "name": "Leg Extension",
+      "muscle": "Legs",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "",
+      "photo": null,
+      "startedAt": 1788365730000.0,
+      "doneAt": 1788366300000,
+      "group": null,
+      "sets": [
+       {
+        "id": "s10-2-0",
+        "ts": 1788365902727,
+        "w": 87.5,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s10-2-1",
+        "ts": 1788366075454,
+        "w": 95,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s10-2-2",
+        "ts": 1788366248181,
+        "w": 102.5,
+        "reps": 14,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     },
+     {
+      "id": "wa-e2026-09-02-3",
+      "exId": "wa-leg-curl",
+      "name": "Leg Curl Machine",
+      "muscle": "Legs",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "",
+      "photo": null,
+      "startedAt": 1788366390000,
+      "doneAt": 1788367020000,
+      "group": null,
+      "sets": [
+       {
+        "id": "s10-3-0",
+        "ts": 1788366580909,
+        "w": 80,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s10-3-1",
+        "ts": 1788366771818,
+        "w": 87.5,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s10-3-2",
+        "ts": 1788366962727,
+        "w": 90,
+        "reps": 10,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     },
+     {
+      "id": "wa-e2026-09-02-4",
+      "exId": "wa-leg-press",
+      "name": "Leg Press",
+      "muscle": "Legs",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "Machine broke on the last set",
+      "photo": null,
+      "startedAt": 1788368010000,
+      "doneAt": 1788368640000,
+      "group": null,
+      "sets": [
+       {
+        "id": "s10-4-0",
+        "ts": 1788368200909,
+        "w": 110,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s10-4-1",
+        "ts": 1788368391818,
+        "w": 117.5,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s10-4-2",
+        "ts": 1788368582727,
+        "w": 125,
+        "reps": 6,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     }
+    ],
+    "source": "whatsapp"
+   },
+   "wa-2026-09-13": {
+    "id": "wa-2026-09-13",
+    "date": "2026-09-13",
+    "split": "Chest + Tri",
+    "startedAt": 1789288890000,
+    "endedAt": 1789292640000,
+    "note": "Logged the next morning; assumed to be the afternoon session before the 15:15 run.",
+    "feel": null,
+    "entries": [
+     {
+      "id": "wa-e2026-09-13-0",
+      "exId": "wa-inc-press",
+      "name": "Incline Dumbbell Press",
+      "muscle": "Chest",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "",
+      "photo": null,
+      "startedAt": 1789289370000,
+      "doneAt": 1789290000000,
+      "group": null,
+      "sets": [
+       {
+        "id": "s11-0-0",
+        "ts": 1789289560909,
+        "w": 17.5,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s11-0-1",
+        "ts": 1789289751818,
+        "w": 20,
+        "reps": 10,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s11-0-2",
+        "ts": 1789289942727,
+        "w": 20,
+        "reps": 8,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     },
+     {
+      "id": "wa-e2026-09-13-1",
+      "exId": "wa-inc-fly",
+      "name": "Incline Dumbbell Fly",
+      "muscle": "Chest",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "",
+      "photo": null,
+      "startedAt": 1789290570000,
+      "doneAt": 1789291200000,
+      "group": null,
+      "sets": [
+       {
+        "id": "s11-1-0",
+        "ts": 1789290760909,
+        "w": 7.5,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s11-1-1",
+        "ts": 1789290951818,
+        "w": 10,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s11-1-2",
+        "ts": 1789291142727,
+        "w": 12.5,
+        "reps": 8,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     },
+     {
+      "id": "wa-e2026-09-13-2",
+      "exId": "wa-chest-press",
+      "name": "Chest Press Machine",
+      "muscle": "Chest",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "",
+      "photo": null,
+      "startedAt": 1789291770000,
+      "doneAt": 1789292400000,
+      "group": null,
+      "sets": [
+       {
+        "id": "s11-2-0",
+        "ts": 1789291960909,
+        "w": 47.5,
+        "reps": 6,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s11-2-1",
+        "ts": 1789292151818,
+        "w": 47.5,
+        "reps": 8,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s11-2-2",
+        "ts": 1789292342727,
+        "w": 47.5,
+        "reps": 8,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     }
+    ],
+    "source": "whatsapp"
+   },
+   "wa-2026-09-15": {
+    "id": "wa-2026-09-15",
+    "date": "2026-09-15",
+    "split": "Back + Bi",
+    "startedAt": 1789485930000,
+    "endedAt": 1789491780000,
+    "note": "",
+    "feel": null,
+    "entries": [
+     {
+      "id": "wa-e2026-09-15-0",
+      "exId": "wa-lat-pd",
+      "name": "Lat Pulldown",
+      "muscle": "Back",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "Drop reps were half reps",
+      "photo": null,
+      "startedAt": 1789486410000,
+      "doneAt": 1789487040000,
+      "group": null,
+      "sets": [
+       {
+        "id": "s12-0-0",
+        "ts": 1789486600909,
+        "w": 50,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s12-0-1",
+        "ts": 1789486791818,
+        "w": 57.5,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s12-0-2",
+        "ts": 1789486982727,
+        "w": 65,
+        "reps": 8,
+        "drops": [
+         {
+          "w": 57.5,
+          "reps": 4
+         }
+        ],
+        "dur": null,
+        "tags": [
+         "Partial"
+        ]
+       }
+      ]
+     },
+     {
+      "id": "wa-e2026-09-15-1",
+      "exId": "wa-face-pull",
+      "name": "Face Pull",
+      "muscle": "Shoulders",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "Set 1 bar, sets 2\u20133 rope",
+      "photo": null,
+      "startedAt": 1789487820000,
+      "doneAt": 1789488450000.0,
+      "group": null,
+      "sets": [
+       {
+        "id": "s12-1-0",
+        "ts": 1789488010909,
+        "w": 28.75,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s12-1-1",
+        "ts": 1789488201818,
+        "w": 28.75,
+        "reps": 12,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s12-1-2",
+        "ts": 1789488392727,
+        "w": 28.75,
+        "reps": 12,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     },
+     {
+      "id": "wa-e2026-09-15-2",
+      "exId": "wa-tbar",
+      "name": "T-Bar Row",
+      "muscle": "Back",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "Apparently wrong form",
+      "photo": null,
+      "startedAt": 1789488510000.0,
+      "doneAt": 1789489080000,
+      "group": null,
+      "sets": [
+       {
+        "id": "s12-2-0",
+        "ts": 1789488682727,
+        "w": 35,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s12-2-1",
+        "ts": 1789488855454,
+        "w": 40,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s12-2-2",
+        "ts": 1789489028181,
+        "w": 40,
+        "reps": 12,
+        "drops": [
+         {
+          "w": 35,
+          "reps": 4
+         }
+        ],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     },
+     {
+      "id": "wa-e2026-09-15-3",
+      "exId": "wa-curl",
+      "name": "Dumbbell Bicep Curl",
+      "muscle": "Biceps",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "Set 3 started with a 20 kg barbell",
+      "photo": null,
+      "startedAt": 1789489440000,
+      "doneAt": 1789490070000.0,
+      "group": null,
+      "sets": [
+       {
+        "id": "s12-3-0",
+        "ts": 1789489630909,
+        "w": 10,
+        "reps": 8,
+        "drops": [
+         {
+          "w": 7.5,
+          "reps": 7
+         }
+        ],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s12-3-1",
+        "ts": 1789489821818,
+        "w": 10,
+        "reps": 6,
+        "drops": [
+         {
+          "w": 7.5,
+          "reps": 9
+         }
+        ],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s12-3-2",
+        "ts": 1789490012727,
+        "w": 20,
+        "reps": 8,
+        "drops": [
+         {
+          "w": 7.5,
+          "reps": 10
+         }
+        ],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     },
+     {
+      "id": "wa-e2026-09-15-4",
+      "exId": "wa-hammer",
+      "name": "Hammer Curl",
+      "muscle": "Biceps",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "",
+      "photo": null,
+      "startedAt": 1789490130000.0,
+      "doneAt": 1789490700000,
+      "group": null,
+      "sets": [
+       {
+        "id": "s12-4-0",
+        "ts": 1789490302727,
+        "w": 10,
+        "reps": 10,
+        "drops": [
+         {
+          "w": 7.5,
+          "reps": 5
+         }
+        ],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s12-4-1",
+        "ts": 1789490475454,
+        "w": 7.5,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s12-4-2",
+        "ts": 1789490648181,
+        "w": 10,
+        "reps": 15,
+        "drops": [
+         {
+          "w": 7.5,
+          "reps": 10
+         }
+        ],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     },
+     {
+      "id": "wa-e2026-09-15-5",
+      "exId": "wa-curl",
+      "name": "Dumbbell Bicep Curl",
+      "muscle": "Biceps",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "Finisher",
+      "photo": null,
+      "startedAt": 1789491060000,
+      "doneAt": 1789491540000,
+      "group": null,
+      "sets": [
+       {
+        "id": "s12-5-0",
+        "ts": 1789491429230,
+        "w": 10,
+        "reps": 5,
+        "drops": [
+         {
+          "w": 7.5,
+          "reps": 30
+         }
+        ],
+        "dur": null,
+        "tags": [
+         "To failure"
+        ]
+       }
+      ]
+     }
+    ],
+    "source": "whatsapp"
+   },
+   "wa-2026-09-16": {
+    "id": "wa-2026-09-16",
+    "date": "2026-09-16",
+    "split": "Legs",
+    "startedAt": 1789573530000,
+    "endedAt": 1789575840000,
+    "note": "",
+    "feel": null,
+    "entries": [
+     {
+      "id": "wa-e2026-09-16-0",
+      "exId": "wa-bw-squat",
+      "name": "Bodyweight Squat",
+      "muscle": "Legs",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "Done, no numbers logged",
+      "photo": null,
+      "startedAt": 1789574010000,
+      "doneAt": 1789574490000.0,
+      "group": null,
+      "sets": []
+     },
+     {
+      "id": "wa-e2026-09-16-1",
+      "exId": "wa-sumo",
+      "name": "Dumbbell Sumo Squat",
+      "muscle": "Legs",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "Done, no numbers logged",
+      "photo": null,
+      "startedAt": 1789574550000.0,
+      "doneAt": 1789574970000.0,
+      "group": null,
+      "sets": []
+     },
+     {
+      "id": "wa-e2026-09-16-2",
+      "exId": "wa-leg-ext",
+      "name": "Leg Extension",
+      "muscle": "Legs",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "",
+      "photo": null,
+      "startedAt": 1789575030000.0,
+      "doneAt": 1789575600000,
+      "group": null,
+      "sets": [
+       {
+        "id": "s13-2-0",
+        "ts": 1789575202727,
+        "w": 87.5,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s13-2-1",
+        "ts": 1789575375454,
+        "w": 95,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s13-2-2",
+        "ts": 1789575548181,
+        "w": 102.5,
+        "reps": 8,
+        "drops": [
+         {
+          "w": 95,
+          "reps": 4
+         }
+        ],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     }
+    ],
+    "source": "whatsapp"
+   },
+   "wa-2026-09-17": {
+    "id": "wa-2026-09-17",
+    "date": "2026-09-17",
+    "split": "Shoulders",
+    "startedAt": 1789659630000,
+    "endedAt": 1789664580000,
+    "note": "",
+    "feel": null,
+    "entries": [
+     {
+      "id": "wa-e2026-09-17-0",
+      "exId": "wa-front-raise",
+      "name": "Dumbbell Front Raise",
+      "muscle": "Shoulders",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "",
+      "photo": null,
+      "startedAt": 1789660110000,
+      "doneAt": 1789660740000,
+      "group": null,
+      "sets": [
+       {
+        "id": "s14-0-0",
+        "ts": 1789660300909,
+        "w": 7.5,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s14-0-1",
+        "ts": 1789660491818,
+        "w": 10,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s14-0-2",
+        "ts": 1789660682727,
+        "w": 12.5,
+        "reps": 8,
+        "drops": [
+         {
+          "w": 10,
+          "reps": 7
+         }
+        ],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     },
+     {
+      "id": "wa-e2026-09-17-1",
+      "exId": "wa-sh-press",
+      "name": "Shoulder Press Machine",
+      "muscle": "Shoulders",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "",
+      "photo": null,
+      "startedAt": 1789661490000,
+      "doneAt": 1789662120000.0,
+      "group": null,
+      "sets": [
+       {
+        "id": "s14-1-0",
+        "ts": 1789661680909,
+        "w": 23.75,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s14-1-1",
+        "ts": 1789661871818,
+        "w": 27.5,
+        "reps": 13,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s14-1-2",
+        "ts": 1789662062727,
+        "w": 27.5,
+        "reps": 14,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     },
+     {
+      "id": "wa-e2026-09-17-2",
+      "exId": "wa-lat-raise",
+      "name": "Dumbbell Lateral Raise",
+      "muscle": "Shoulders",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "",
+      "photo": null,
+      "startedAt": 1789662180000.0,
+      "doneAt": 1789662750000.0,
+      "group": null,
+      "sets": [
+       {
+        "id": "s14-2-0",
+        "ts": 1789662352727,
+        "w": 10,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s14-2-1",
+        "ts": 1789662525454,
+        "w": 10,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s14-2-2",
+        "ts": 1789662698181,
+        "w": 10,
+        "reps": 13,
+        "drops": [
+         {
+          "w": 7.5,
+          "reps": 7
+         }
+        ],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     },
+     {
+      "id": "wa-e2026-09-17-3",
+      "exId": "wa-upright-row",
+      "name": "Cable Upright Row (EZ bar)",
+      "muscle": "Shoulders",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "",
+      "photo": null,
+      "startedAt": 1789662810000.0,
+      "doneAt": 1789663380000,
+      "group": null,
+      "sets": [
+       {
+        "id": "s14-3-0",
+        "ts": 1789662982727,
+        "w": 20,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s14-3-1",
+        "ts": 1789663155454,
+        "w": 25,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s14-3-2",
+        "ts": 1789663328181,
+        "w": 30,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     },
+     {
+      "id": "wa-e2026-09-17-4",
+      "exId": "wa-rev-fly",
+      "name": "Reverse Pec Deck (Rear Delt Fly)",
+      "muscle": "Shoulders",
+      "settingLabel": "Height",
+      "setting": "6",
+      "note": "",
+      "photo": null,
+      "startedAt": 1789663710000,
+      "doneAt": 1789664340000,
+      "group": null,
+      "sets": [
+       {
+        "id": "s14-4-0",
+        "ts": 1789663900909,
+        "w": 46.25,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s14-4-1",
+        "ts": 1789664091818,
+        "w": 50,
+        "reps": 14,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s14-4-2",
+        "ts": 1789664282727,
+        "w": 50,
+        "reps": 12,
+        "drops": [
+         {
+          "w": 35,
+          "reps": 5
+         }
+        ],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     }
+    ],
+    "source": "whatsapp"
+   },
+   "wa-2026-09-18": {
+    "id": "wa-2026-09-18",
+    "date": "2026-09-18",
+    "split": "Arms",
+    "startedAt": 1789750050000,
+    "endedAt": 1789755600000,
+    "note": "",
+    "feel": null,
+    "entries": [
+     {
+      "id": "wa-e2026-09-18-0",
+      "exId": "wa-curl",
+      "name": "Dumbbell Bicep Curl",
+      "muscle": "Biceps",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "",
+      "photo": null,
+      "startedAt": 1789750530000,
+      "doneAt": 1789751160000,
+      "group": null,
+      "sets": [
+       {
+        "id": "s15-0-0",
+        "ts": 1789750720909,
+        "w": 10,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s15-0-1",
+        "ts": 1789750911818,
+        "w": 12.5,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s15-0-2",
+        "ts": 1789751102727,
+        "w": 15,
+        "reps": 7,
+        "drops": [
+         {
+          "w": 12.5,
+          "reps": 6
+         }
+        ],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     },
+     {
+      "id": "wa-e2026-09-18-1",
+      "exId": "wa-pushdown",
+      "name": "Cable Tricep Pushdown",
+      "muscle": "Triceps",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "",
+      "photo": null,
+      "startedAt": 1789752720000,
+      "doneAt": 1789753350000.0,
+      "group": null,
+      "sets": [
+       {
+        "id": "s15-1-0",
+        "ts": 1789752910909,
+        "w": 23.75,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s15-1-1",
+        "ts": 1789753101818,
+        "w": 26.25,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s15-1-2",
+        "ts": 1789753292727,
+        "w": 28.75,
+        "reps": 12,
+        "drops": [
+         {
+          "w": 26.25,
+          "reps": 3
+         }
+        ],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     },
+     {
+      "id": "wa-e2026-09-18-2",
+      "exId": "wa-hammer",
+      "name": "Hammer Curl",
+      "muscle": "Biceps",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "",
+      "photo": null,
+      "startedAt": 1789753410000.0,
+      "doneAt": 1789753980000,
+      "group": null,
+      "sets": [
+       {
+        "id": "s15-2-0",
+        "ts": 1789753582727,
+        "w": 10,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s15-2-1",
+        "ts": 1789753755454,
+        "w": 12.5,
+        "reps": 4,
+        "drops": [
+         {
+          "w": 10,
+          "reps": 8
+         },
+         {
+          "w": 7.5,
+          "reps": 8
+         }
+        ],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s15-2-2",
+        "ts": 1789753928181,
+        "w": 10,
+        "reps": 12,
+        "drops": [
+         {
+          "w": 7.5,
+          "reps": 12
+         }
+        ],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     },
+     {
+      "id": "wa-e2026-09-18-3",
+      "exId": "wa-oh-ext",
+      "name": "Overhead Cable Tricep Extension",
+      "muscle": "Triceps",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "",
+      "photo": null,
+      "startedAt": 1789754730000,
+      "doneAt": 1789755360000,
+      "group": null,
+      "sets": [
+       {
+        "id": "s15-3-0",
+        "ts": 1789754920909,
+        "w": 16.25,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s15-3-1",
+        "ts": 1789755111818,
+        "w": 18.75,
+        "reps": 12,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s15-3-2",
+        "ts": 1789755302727,
+        "w": 18.75,
+        "reps": 9,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     }
+    ],
+    "source": "whatsapp"
+   },
+   "wa-2026-09-19": {
+    "id": "wa-2026-09-19",
+    "date": "2026-09-19",
+    "split": "Chest + Tri",
+    "startedAt": 1789833570000,
+    "endedAt": 1789839780000,
+    "note": "",
+    "feel": null,
+    "entries": [
+     {
+      "id": "wa-e2026-09-19-0",
+      "exId": "wa-inc-press",
+      "name": "Incline Dumbbell Press",
+      "muscle": "Chest",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "",
+      "photo": null,
+      "startedAt": 1789834050000,
+      "doneAt": 1789834680000.0,
+      "group": null,
+      "sets": [
+       {
+        "id": "s16-0-0",
+        "ts": 1789834240909,
+        "w": 17.5,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s16-0-1",
+        "ts": 1789834431818,
+        "w": 20,
+        "reps": 13,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s16-0-2",
+        "ts": 1789834622727,
+        "w": 20,
+        "reps": 11,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     },
+     {
+      "id": "wa-e2026-09-19-1",
+      "exId": "wa-inc-fly",
+      "name": "Incline Dumbbell Fly",
+      "muscle": "Chest",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "",
+      "photo": null,
+      "startedAt": 1789834740000.0,
+      "doneAt": 1789835310000.0,
+      "group": null,
+      "sets": [
+       {
+        "id": "s16-1-0",
+        "ts": 1789834912727,
+        "w": 7.5,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s16-1-1",
+        "ts": 1789835085454,
+        "w": 10,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s16-1-2",
+        "ts": 1789835258181,
+        "w": 12.5,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     },
+     {
+      "id": "wa-e2026-09-19-2",
+      "exId": "wa-squeeze",
+      "name": "Dumbbell Squeeze Press (Upper Chest)",
+      "muscle": "Chest",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "",
+      "photo": null,
+      "startedAt": 1789835370000.0,
+      "doneAt": 1789835940000,
+      "group": null,
+      "sets": [
+       {
+        "id": "s16-2-0",
+        "ts": 1789835542727,
+        "w": 5,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s16-2-1",
+        "ts": 1789835715454,
+        "w": 7.5,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s16-2-2",
+        "ts": 1789835888181,
+        "w": 7.5,
+        "reps": 15,
+        "drops": [
+         {
+          "w": 5,
+          "reps": 10
+         }
+        ],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     },
+     {
+      "id": "wa-e2026-09-19-3",
+      "exId": "wa-chest-press",
+      "name": "Chest Press Machine",
+      "muscle": "Chest",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "Set 2: +2 reps on the left arm before dropping",
+      "photo": null,
+      "startedAt": 1789837770000,
+      "doneAt": 1789838400000,
+      "group": null,
+      "sets": [
+       {
+        "id": "s16-3-0",
+        "ts": 1789837960909,
+        "w": 42.5,
+        "reps": 14,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s16-3-1",
+        "ts": 1789838151818,
+        "w": 50,
+        "reps": 5,
+        "drops": [
+         {
+          "w": 35,
+          "reps": 4
+         }
+        ],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s16-3-2",
+        "ts": 1789838342727,
+        "w": 50,
+        "reps": 5,
+        "drops": [
+         {
+          "w": 42.5,
+          "reps": 5
+         }
+        ],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     },
+     {
+      "id": "wa-e2026-09-19-4",
+      "exId": "wa-pec-deck",
+      "name": "Pec Deck Fly",
+      "muscle": "Chest",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "",
+      "photo": null,
+      "startedAt": 1789838910000,
+      "doneAt": 1789839540000,
+      "group": null,
+      "sets": [
+       {
+        "id": "s16-4-0",
+        "ts": 1789839100909,
+        "w": 50,
+        "reps": 14,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s16-4-1",
+        "ts": 1789839291818,
+        "w": 50,
+        "reps": 12,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s16-4-2",
+        "ts": 1789839482727,
+        "w": 57.5,
+        "reps": 10,
+        "drops": [
+         {
+          "w": 50,
+          "reps": 2
+         },
+         {
+          "w": 42.5,
+          "reps": 2
+         }
+        ],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     }
+    ],
+    "source": "whatsapp"
+   },
+   "wa-2026-09-22": {
+    "id": "wa-2026-09-22",
+    "date": "2026-09-22",
+    "split": "Shoulders",
+    "startedAt": 1790087670000,
+    "endedAt": 1790095440000,
+    "note": "",
+    "feel": null,
+    "entries": [
+     {
+      "id": "wa-e2026-09-22-0",
+      "exId": "wa-lat-raise",
+      "name": "Dumbbell Lateral Raise",
+      "muscle": "Shoulders",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "",
+      "photo": null,
+      "startedAt": 1790088150000,
+      "doneAt": 1790088780000,
+      "group": null,
+      "sets": [
+       {
+        "id": "s17-0-0",
+        "ts": 1790088340909,
+        "w": 7.5,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s17-0-1",
+        "ts": 1790088531818,
+        "w": 10,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s17-0-2",
+        "ts": 1790088722727,
+        "w": 12.5,
+        "reps": 11,
+        "drops": [
+         {
+          "w": 10,
+          "reps": 8
+         }
+        ],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     },
+     {
+      "id": "wa-e2026-09-22-1",
+      "exId": "wa-rev-fly",
+      "name": "Reverse Pec Deck (Rear Delt Fly)",
+      "muscle": "Shoulders",
+      "settingLabel": "Height",
+      "setting": "6",
+      "note": "",
+      "photo": null,
+      "startedAt": 1790089950000,
+      "doneAt": 1790091000000.0,
+      "group": null,
+      "sets": [
+       {
+        "id": "s17-1-0",
+        "ts": 1790090148113,
+        "w": 46.25,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s17-1-1",
+        "ts": 1790090346226,
+        "w": 50,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s17-1-2",
+        "ts": 1790090544339,
+        "w": 53.75,
+        "reps": 13,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s17-1-3",
+        "ts": 1790090742452,
+        "w": 57.5,
+        "reps": 12,
+        "drops": [
+         {
+          "w": 50,
+          "reps": 3
+         }
+        ],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s17-1-4",
+        "ts": 1790090940566,
+        "w": 65,
+        "reps": 6,
+        "drops": [
+         {
+          "w": 57.5,
+          "reps": 4
+         },
+         {
+          "w": 50,
+          "reps": 5
+         }
+        ],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     },
+     {
+      "id": "wa-e2026-09-22-2",
+      "exId": "wa-upright-row",
+      "name": "Cable Upright Row (EZ bar)",
+      "muscle": "Shoulders",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "",
+      "photo": null,
+      "startedAt": 1790091060000.0,
+      "doneAt": 1790091630000.0,
+      "group": null,
+      "sets": [
+       {
+        "id": "s17-2-0",
+        "ts": 1790091232727,
+        "w": 25,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s17-2-1",
+        "ts": 1790091405454,
+        "w": 30,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s17-2-2",
+        "ts": 1790091578181,
+        "w": 30,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     },
+     {
+      "id": "wa-e2026-09-22-3",
+      "exId": "wa-front-raise",
+      "name": "Dumbbell Front Raise",
+      "muscle": "Shoulders",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "",
+      "photo": null,
+      "startedAt": 1790091690000.0,
+      "doneAt": 1790092260000,
+      "group": null,
+      "sets": [
+       {
+        "id": "s17-3-0",
+        "ts": 1790091862727,
+        "w": 7.5,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s17-3-1",
+        "ts": 1790092035454,
+        "w": 10,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s17-3-2",
+        "ts": 1790092208181,
+        "w": 12.5,
+        "reps": 6,
+        "drops": [
+         {
+          "w": 10,
+          "reps": 9
+         }
+        ],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     },
+     {
+      "id": "wa-e2026-09-22-4",
+      "exId": "wa-sh-press",
+      "name": "Shoulder Press Machine",
+      "muscle": "Shoulders",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "",
+      "photo": null,
+      "startedAt": 1790092890000,
+      "doneAt": 1790093520000,
+      "group": null,
+      "sets": [
+       {
+        "id": "s17-4-0",
+        "ts": 1790093080909,
+        "w": 23.75,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s17-4-1",
+        "ts": 1790093271818,
+        "w": 27.5,
+        "reps": 14,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s17-4-2",
+        "ts": 1790093462727,
+        "w": 35,
+        "reps": 6,
+        "drops": [
+         {
+          "w": 27.5,
+          "reps": 3
+         },
+         {
+          "w": 20,
+          "reps": 6
+         }
+        ],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     },
+     {
+      "id": "wa-e2026-09-22-5",
+      "exId": "wa-shrug",
+      "name": "Shrugs",
+      "muscle": "Traps",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "",
+      "photo": null,
+      "startedAt": 1790094570000,
+      "doneAt": 1790095200000,
+      "group": null,
+      "sets": [
+       {
+        "id": "s17-5-0",
+        "ts": 1790094760909,
+        "w": 90,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s17-5-1",
+        "ts": 1790094951818,
+        "w": 110,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s17-5-2",
+        "ts": 1790095142727,
+        "w": 120,
+        "reps": 12,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     }
+    ],
+    "source": "whatsapp"
+   },
+   "wa-2026-09-25": {
+    "id": "wa-2026-09-25",
+    "date": "2026-09-25",
+    "split": "Chest + Tri",
+    "startedAt": 1790350110000,
+    "endedAt": 1790359020000,
+    "note": "",
+    "feel": null,
+    "entries": [
+     {
+      "id": "wa-e2026-09-25-0",
+      "exId": "wa-inc-press",
+      "name": "Incline Dumbbell Press",
+      "muscle": "Chest",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "+2 spotted reps on the last set",
+      "photo": null,
+      "startedAt": 1790350590000,
+      "doneAt": 1790351220000,
+      "group": null,
+      "sets": [
+       {
+        "id": "s18-0-0",
+        "ts": 1790350780909,
+        "w": 17.5,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s18-0-1",
+        "ts": 1790350971818,
+        "w": 20,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s18-0-2",
+        "ts": 1790351162727,
+        "w": 22.5,
+        "reps": 10,
+        "drops": [],
+        "dur": null,
+        "tags": [
+         "Spotted"
+        ]
+       }
+      ]
+     },
+     {
+      "id": "wa-e2026-09-25-1",
+      "exId": "wa-inc-fly",
+      "name": "Incline Dumbbell Fly",
+      "muscle": "Chest",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "",
+      "photo": null,
+      "startedAt": 1790352390000,
+      "doneAt": 1790353020000,
+      "group": null,
+      "sets": [
+       {
+        "id": "s18-1-0",
+        "ts": 1790352580909,
+        "w": 10,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s18-1-1",
+        "ts": 1790352771818,
+        "w": 12.5,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s18-1-2",
+        "ts": 1790352962727,
+        "w": 12.5,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     },
+     {
+      "id": "wa-e2026-09-25-2",
+      "exId": "wa-squeeze",
+      "name": "Dumbbell Squeeze Press (Upper Chest)",
+      "muscle": "Chest",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "Last set: 12 reps, rest-pause 3 more, then dropped to 7.5",
+      "photo": null,
+      "startedAt": 1790353350000,
+      "doneAt": 1790353980000,
+      "group": null,
+      "sets": [
+       {
+        "id": "s18-2-0",
+        "ts": 1790353540909,
+        "w": 7.5,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s18-2-1",
+        "ts": 1790353731818,
+        "w": 7.5,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s18-2-2",
+        "ts": 1790353922727,
+        "w": 10,
+        "reps": 12,
+        "drops": [
+         {
+          "w": 10,
+          "reps": 3
+         },
+         {
+          "w": 7.5,
+          "reps": 8
+         }
+        ],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     },
+     {
+      "id": "wa-e2026-09-25-3",
+      "exId": "wa-chest-press",
+      "name": "Chest Press Machine",
+      "muscle": "Chest",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "",
+      "photo": null,
+      "startedAt": 1790354310000,
+      "doneAt": 1790354940000,
+      "group": null,
+      "sets": [
+       {
+        "id": "s18-3-0",
+        "ts": 1790354500909,
+        "w": 42.5,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s18-3-1",
+        "ts": 1790354691818,
+        "w": 50,
+        "reps": 13,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s18-3-2",
+        "ts": 1790354882727,
+        "w": 57.5,
+        "reps": 6,
+        "drops": [
+         {
+          "w": 50,
+          "reps": 2
+         },
+         {
+          "w": 35,
+          "reps": 5
+         }
+        ],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     },
+     {
+      "id": "wa-e2026-09-25-4",
+      "exId": "wa-pec-deck",
+      "name": "Pec Deck Fly",
+      "muscle": "Chest",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "",
+      "photo": null,
+      "startedAt": 1790356530000,
+      "doneAt": 1790357160000,
+      "group": null,
+      "sets": [
+       {
+        "id": "s18-4-0",
+        "ts": 1790356720909,
+        "w": 42.5,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s18-4-1",
+        "ts": 1790356911818,
+        "w": 50,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s18-4-2",
+        "ts": 1790357102727,
+        "w": 57.5,
+        "reps": 11,
+        "drops": [
+         {
+          "w": 50,
+          "reps": 4
+         },
+         {
+          "w": 42.5,
+          "reps": 6
+         }
+        ],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     },
+     {
+      "id": "wa-e2026-09-25-5",
+      "exId": "wa-pushdown",
+      "name": "Cable Tricep Pushdown",
+      "muscle": "Triceps",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "",
+      "photo": null,
+      "startedAt": 1790357430000,
+      "doneAt": 1790358060000,
+      "group": null,
+      "sets": [
+       {
+        "id": "s18-5-0",
+        "ts": 1790357620909,
+        "w": 23.75,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s18-5-1",
+        "ts": 1790357811818,
+        "w": 26.25,
+        "reps": 13,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s18-5-2",
+        "ts": 1790358002727,
+        "w": 26.25,
+        "reps": 9,
+        "drops": [
+         {
+          "w": 23.75,
+          "reps": 2
+         }
+        ],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     },
+     {
+      "id": "wa-e2026-09-25-6",
+      "exId": "wa-oh-ext",
+      "name": "Overhead Cable Tricep Extension",
+      "muscle": "Triceps",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "",
+      "photo": null,
+      "startedAt": 1790358300000,
+      "doneAt": 1790358780000,
+      "group": null,
+      "sets": [
+       {
+        "id": "s18-6-0",
+        "ts": 1790358508695,
+        "w": 16.25,
+        "reps": 12,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s18-6-1",
+        "ts": 1790358717391,
+        "w": 16.25,
+        "reps": 12,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     }
+    ],
+    "source": "whatsapp"
+   },
+   "wa-2026-09-26": {
+    "id": "wa-2026-09-26",
+    "date": "2026-09-26",
+    "split": "Back + Bi",
+    "startedAt": 1790439120000,
+    "endedAt": 1790442840000,
+    "note": "",
+    "feel": null,
+    "entries": [
+     {
+      "id": "wa-e2026-09-26-0",
+      "exId": "wa-tbar",
+      "name": "T-Bar Row",
+      "muscle": "Back",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "",
+      "photo": null,
+      "startedAt": 1790439600000,
+      "doneAt": 1790440230000.0,
+      "group": null,
+      "sets": [
+       {
+        "id": "s19-0-0",
+        "ts": 1790439790909,
+        "w": 35,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s19-0-1",
+        "ts": 1790439981818,
+        "w": 40,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s19-0-2",
+        "ts": 1790440172727,
+        "w": 50,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     },
+     {
+      "id": "wa-e2026-09-26-1",
+      "exId": "wa-rev-fly",
+      "name": "Reverse Pec Deck (Rear Delt Fly)",
+      "muscle": "Shoulders",
+      "settingLabel": "Height",
+      "setting": "6",
+      "note": "",
+      "photo": null,
+      "startedAt": 1790440290000.0,
+      "doneAt": 1790440860000,
+      "group": null,
+      "sets": [
+       {
+        "id": "s19-1-0",
+        "ts": 1790440462727,
+        "w": 46.25,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s19-1-1",
+        "ts": 1790440635454,
+        "w": 50,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s19-1-2",
+        "ts": 1790440808181,
+        "w": 53.75,
+        "reps": 8,
+        "drops": [
+         {
+          "w": 50,
+          "reps": 3
+         },
+         {
+          "w": 42.5,
+          "reps": 3
+         }
+        ],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     },
+     {
+      "id": "wa-e2026-09-26-2",
+      "exId": "wa-curl",
+      "name": "Dumbbell Bicep Curl",
+      "muscle": "Biceps",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "Spotted on the last set",
+      "photo": null,
+      "startedAt": 1790441340000,
+      "doneAt": 1790441970000.0,
+      "group": null,
+      "sets": [
+       {
+        "id": "s19-2-0",
+        "ts": 1790441530909,
+        "w": 10,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s19-2-1",
+        "ts": 1790441721818,
+        "w": 12.5,
+        "reps": 8,
+        "drops": [
+         {
+          "w": 10,
+          "reps": 4
+         }
+        ],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s19-2-2",
+        "ts": 1790441912727,
+        "w": 12.5,
+        "reps": 8,
+        "drops": [
+         {
+          "w": 10,
+          "reps": 9
+         }
+        ],
+        "dur": null,
+        "tags": [
+         "Spotted"
+        ]
+       }
+      ]
+     },
+     {
+      "id": "wa-e2026-09-26-3",
+      "exId": "wa-cs-row",
+      "name": "Chest-Supported Dumbbell Row",
+      "muscle": "Back",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "",
+      "photo": null,
+      "startedAt": 1790442030000.0,
+      "doneAt": 1790442600000,
+      "group": null,
+      "sets": [
+       {
+        "id": "s19-3-0",
+        "ts": 1790442202727,
+        "w": 20,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s19-3-1",
+        "ts": 1790442375454,
+        "w": 22.5,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s19-3-2",
+        "ts": 1790442548181,
+        "w": 20,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     }
+    ],
+    "source": "whatsapp"
+   },
+   "wa-2026-09-27": {
+    "id": "wa-2026-09-27",
+    "date": "2026-09-27",
+    "split": "Shoulders",
+    "startedAt": 1790490120000,
+    "endedAt": 1790494200000,
+    "note": "",
+    "feel": null,
+    "entries": [
+     {
+      "id": "wa-e2026-09-27-0",
+      "exId": "wa-lat-raise",
+      "name": "Dumbbell Lateral Raise",
+      "muscle": "Shoulders",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "",
+      "photo": null,
+      "startedAt": 1790490600000,
+      "doneAt": 1790491230000.0,
+      "group": null,
+      "sets": [
+       {
+        "id": "s20-0-0",
+        "ts": 1790490790909,
+        "w": 10,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s20-0-1",
+        "ts": 1790490981818,
+        "w": 12.5,
+        "reps": 10,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s20-0-2",
+        "ts": 1790491172727,
+        "w": 12.5,
+        "reps": 10,
+        "drops": [
+         {
+          "w": 10,
+          "reps": 10
+         }
+        ],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     },
+     {
+      "id": "wa-e2026-09-27-1",
+      "exId": "wa-upright-row",
+      "name": "Cable Upright Row (EZ bar)",
+      "muscle": "Shoulders",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "",
+      "photo": null,
+      "startedAt": 1790491290000.0,
+      "doneAt": 1790491860000,
+      "group": null,
+      "sets": [
+       {
+        "id": "s20-1-0",
+        "ts": 1790491462727,
+        "w": 25,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s20-1-1",
+        "ts": 1790491635454,
+        "w": 30,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s20-1-2",
+        "ts": 1790491808181,
+        "w": 35,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     },
+     {
+      "id": "wa-e2026-09-27-2",
+      "exId": "wa-front-raise",
+      "name": "Dumbbell Front Raise",
+      "muscle": "Shoulders",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "",
+      "photo": null,
+      "startedAt": 1790492700000,
+      "doneAt": 1790493330000.0,
+      "group": null,
+      "sets": [
+       {
+        "id": "s20-2-0",
+        "ts": 1790492890909,
+        "w": 10,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s20-2-1",
+        "ts": 1790493081818,
+        "w": 12.5,
+        "reps": 10,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s20-2-2",
+        "ts": 1790493272727,
+        "w": 12.5,
+        "reps": 15,
+        "drops": [
+         {
+          "w": 10,
+          "reps": 15
+         }
+        ],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     },
+     {
+      "id": "wa-e2026-09-27-3",
+      "exId": "wa-sh-press",
+      "name": "Shoulder Press Machine",
+      "muscle": "Shoulders",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "",
+      "photo": null,
+      "startedAt": 1790493390000.0,
+      "doneAt": 1790493960000,
+      "group": null,
+      "sets": [
+       {
+        "id": "s20-3-0",
+        "ts": 1790493562727,
+        "w": 27.5,
+        "reps": 12,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s20-3-1",
+        "ts": 1790493735454,
+        "w": 35,
+        "reps": 6,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s20-3-2",
+        "ts": 1790493908181,
+        "w": 35,
+        "reps": 7,
+        "drops": [
+         {
+          "w": 27.5,
+          "reps": 2
+         },
+         {
+          "w": 20,
+          "reps": 2
+         }
+        ],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     }
+    ],
+    "source": "whatsapp"
+   },
+   "wa-2026-09-28": {
+    "id": "wa-2026-09-28",
+    "date": "2026-09-28",
+    "split": "Arms",
+    "startedAt": 1790613210000,
+    "endedAt": 1790618100000,
+    "note": "Low energy: couldn't carry the evening meal, had a paneer dosa instead.",
+    "feel": "Tired",
+    "entries": [
+     {
+      "id": "wa-e2026-09-28-0",
+      "exId": "wa-curl",
+      "name": "Dumbbell Bicep Curl",
+      "muscle": "Biceps",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "",
+      "photo": null,
+      "startedAt": 1790613690000,
+      "doneAt": 1790614320000,
+      "group": null,
+      "sets": [
+       {
+        "id": "s21-0-0",
+        "ts": 1790613880909,
+        "w": 10,
+        "reps": 10,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s21-0-1",
+        "ts": 1790614071818,
+        "w": 12.5,
+        "reps": 10,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s21-0-2",
+        "ts": 1790614262727,
+        "w": 15,
+        "reps": 7,
+        "drops": [
+         {
+          "w": 10,
+          "reps": 8
+         }
+        ],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     },
+     {
+      "id": "wa-e2026-09-28-1",
+      "exId": "wa-hammer",
+      "name": "Hammer Curl",
+      "muscle": "Biceps",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "",
+      "photo": null,
+      "startedAt": 1790615190000,
+      "doneAt": 1790615820000,
+      "group": null,
+      "sets": [
+       {
+        "id": "s21-1-0",
+        "ts": 1790615380909,
+        "w": 10,
+        "reps": 10,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s21-1-1",
+        "ts": 1790615571818,
+        "w": 12.5,
+        "reps": 8,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s21-1-2",
+        "ts": 1790615762727,
+        "w": 15,
+        "reps": 3,
+        "drops": [
+         {
+          "w": 12.5,
+          "reps": 4
+         },
+         {
+          "w": 10,
+          "reps": 9
+         }
+        ],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     },
+     {
+      "id": "wa-e2026-09-28-2",
+      "exId": "wa-curl",
+      "name": "Dumbbell Bicep Curl",
+      "muscle": "Biceps",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "Finisher drop set",
+      "photo": null,
+      "startedAt": 1790615880000,
+      "doneAt": 1790616300000,
+      "group": null,
+      "sets": [
+       {
+        "id": "s21-2-0",
+        "ts": 1790616203076,
+        "w": 15,
+        "reps": 1,
+        "drops": [
+         {
+          "w": 12.5,
+          "reps": 5
+         },
+         {
+          "w": 10,
+          "reps": 6
+         }
+        ],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     },
+     {
+      "id": "wa-e2026-09-28-3",
+      "exId": "wa-pushdown",
+      "name": "Cable Tricep Pushdown",
+      "muscle": "Triceps",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "",
+      "photo": null,
+      "startedAt": 1790616450000,
+      "doneAt": 1790617080000,
+      "group": null,
+      "sets": [
+       {
+        "id": "s21-3-0",
+        "ts": 1790616640909,
+        "w": 26.25,
+        "reps": 10,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s21-3-1",
+        "ts": 1790616831818,
+        "w": 28.75,
+        "reps": 10,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s21-3-2",
+        "ts": 1790617022727,
+        "w": 31.25,
+        "reps": 6,
+        "drops": [
+         {
+          "w": 26.25,
+          "reps": 4
+         }
+        ],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     },
+     {
+      "id": "wa-e2026-09-28-4",
+      "exId": "wa-oh-ext",
+      "name": "Overhead Cable Tricep Extension",
+      "muscle": "Triceps",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "",
+      "photo": null,
+      "startedAt": 1790617230000,
+      "doneAt": 1790617860000,
+      "group": null,
+      "sets": [
+       {
+        "id": "s21-4-0",
+        "ts": 1790617420909,
+        "w": 18.75,
+        "reps": 10,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s21-4-1",
+        "ts": 1790617611818,
+        "w": 21.25,
+        "reps": 10,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s21-4-2",
+        "ts": 1790617802727,
+        "w": 23.75,
+        "reps": 9,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     }
+    ],
+    "source": "whatsapp"
+   },
+   "wa-2026-09-29": {
+    "id": "wa-2026-09-29",
+    "date": "2026-09-29",
+    "split": "Legs",
+    "startedAt": 1790699220000,
+    "endedAt": 1790701620000,
+    "note": "Only leg extensions and leg curls were logged.",
+    "feel": null,
+    "entries": [
+     {
+      "id": "wa-e2026-09-29-0",
+      "exId": "wa-leg-ext",
+      "name": "Leg Extension",
+      "muscle": "Legs",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "",
+      "photo": null,
+      "startedAt": 1790699700000,
+      "doneAt": 1790700750000.0,
+      "group": null,
+      "sets": [
+       {
+        "id": "s22-0-0",
+        "ts": 1790699898113,
+        "w": 87.5,
+        "reps": 12,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s22-0-1",
+        "ts": 1790700096226,
+        "w": 95,
+        "reps": 12,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s22-0-2",
+        "ts": 1790700294339,
+        "w": 102.5,
+        "reps": 12,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s22-0-3",
+        "ts": 1790700492452,
+        "w": 110,
+        "reps": 12,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s22-0-4",
+        "ts": 1790700690566,
+        "w": 117.5,
+        "reps": 11,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     },
+     {
+      "id": "wa-e2026-09-29-1",
+      "exId": "wa-leg-curl",
+      "name": "Leg Curl Machine",
+      "muscle": "Legs",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "",
+      "photo": null,
+      "startedAt": 1790700810000.0,
+      "doneAt": 1790701380000,
+      "group": null,
+      "sets": [
+       {
+        "id": "s22-1-0",
+        "ts": 1790700982727,
+        "w": 80,
+        "reps": 12,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s22-1-1",
+        "ts": 1790701155454,
+        "w": 87.5,
+        "reps": 12,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s22-1-2",
+        "ts": 1790701328181,
+        "w": 95,
+        "reps": 8,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     }
+    ],
+    "source": "whatsapp"
+   },
+   "wa-2026-10-05": {
+    "id": "wa-2026-10-05",
+    "date": "2026-10-05",
+    "split": "Shoulders",
+    "startedAt": 1791195600000,
+    "endedAt": 1791200280000,
+    "note": "",
+    "feel": null,
+    "entries": [
+     {
+      "id": "wa-e2026-10-05-0",
+      "exId": "wa-lat-raise",
+      "name": "Dumbbell Lateral Raise",
+      "muscle": "Shoulders",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "",
+      "photo": null,
+      "startedAt": 1791196080000,
+      "doneAt": 1791196710000.0,
+      "group": null,
+      "sets": [
+       {
+        "id": "s23-0-0",
+        "ts": 1791196270909,
+        "w": 10,
+        "reps": 15,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s23-0-1",
+        "ts": 1791196461818,
+        "w": 12.5,
+        "reps": 10,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s23-0-2",
+        "ts": 1791196652727,
+        "w": 15,
+        "reps": 6,
+        "drops": [
+         {
+          "w": 12.5,
+          "reps": 4
+         }
+        ],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     },
+     {
+      "id": "wa-e2026-10-05-1",
+      "exId": "wa-upright-row",
+      "name": "Cable Upright Row (EZ bar)",
+      "muscle": "Shoulders",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "",
+      "photo": null,
+      "startedAt": 1791196770000.0,
+      "doneAt": 1791197340000.0,
+      "group": null,
+      "sets": [
+       {
+        "id": "s23-1-0",
+        "ts": 1791196942727,
+        "w": 25,
+        "reps": 12,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s23-1-1",
+        "ts": 1791197115454,
+        "w": 30,
+        "reps": 12,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s23-1-2",
+        "ts": 1791197288181,
+        "w": 33.25,
+        "reps": 12,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     },
+     {
+      "id": "wa-e2026-10-05-2",
+      "exId": "wa-rev-fly",
+      "name": "Reverse Pec Deck (Rear Delt Fly)",
+      "muscle": "Shoulders",
+      "settingLabel": "Height",
+      "setting": "6",
+      "note": "",
+      "photo": null,
+      "startedAt": 1791197400000.0,
+      "doneAt": 1791197970000.0,
+      "group": null,
+      "sets": [
+       {
+        "id": "s23-2-0",
+        "ts": 1791197572727,
+        "w": 50,
+        "reps": 12,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s23-2-1",
+        "ts": 1791197745454,
+        "w": 57.5,
+        "reps": 12,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s23-2-2",
+        "ts": 1791197918181,
+        "w": 65,
+        "reps": 12,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     },
+     {
+      "id": "wa-e2026-10-05-3",
+      "exId": "wa-face-pull",
+      "name": "Face Pull",
+      "muscle": "Shoulders",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "3 light sets, form corrected with help from Rushil. No weights logged.",
+      "photo": null,
+      "startedAt": 1791198030000.0,
+      "doneAt": 1791198450000.0,
+      "group": null,
+      "sets": []
+     },
+     {
+      "id": "wa-e2026-10-05-4",
+      "exId": "wa-front-raise",
+      "name": "Dumbbell Front Raise",
+      "muscle": "Shoulders",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "Elbow pain, stopped after 2 sets",
+      "photo": null,
+      "startedAt": 1791198510000.0,
+      "doneAt": 1791198930000.0,
+      "group": null,
+      "sets": [
+       {
+        "id": "s23-4-0",
+        "ts": 1791198692608,
+        "w": 10,
+        "reps": 10,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s23-4-1",
+        "ts": 1791198875217,
+        "w": 12.5,
+        "reps": 10,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     },
+     {
+      "id": "wa-e2026-10-05-5",
+      "exId": "wa-sh-press",
+      "name": "Shoulder Press Machine",
+      "muscle": "Shoulders",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "",
+      "photo": null,
+      "startedAt": 1791198990000.0,
+      "doneAt": 1791199560000,
+      "group": null,
+      "sets": [
+       {
+        "id": "s23-5-0",
+        "ts": 1791199162727,
+        "w": 27.5,
+        "reps": 10,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s23-5-1",
+        "ts": 1791199335454,
+        "w": 35,
+        "reps": 10,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s23-5-2",
+        "ts": 1791199508181,
+        "w": 42.5,
+        "reps": 6,
+        "drops": [
+         {
+          "w": 35,
+          "reps": 2
+         }
+        ],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     },
+     {
+      "id": "wa-e2026-10-05-6",
+      "exId": "wa-rev-fly",
+      "name": "Reverse Pec Deck (Rear Delt Fly)",
+      "muscle": "Shoulders",
+      "settingLabel": "Height",
+      "setting": "6",
+      "note": "Heavy finisher set",
+      "photo": null,
+      "startedAt": 1791199620000,
+      "doneAt": 1791200040000,
+      "group": null,
+      "sets": [
+       {
+        "id": "s23-6-0",
+        "ts": 1791199943076,
+        "w": 72.5,
+        "reps": 7,
+        "drops": [
+         {
+          "w": 57.5,
+          "reps": 5
+         }
+        ],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     }
+    ],
+    "source": "whatsapp"
+   },
+   "wa-2026-10-06": {
+    "id": "wa-2026-10-06",
+    "date": "2026-10-06",
+    "split": "Back + Bi",
+    "startedAt": 1791299550000,
+    "endedAt": 1791303540000,
+    "note": "",
+    "feel": null,
+    "entries": [
+     {
+      "id": "wa-e2026-10-06-0",
+      "exId": "wa-lat-pd",
+      "name": "Lat Pulldown",
+      "muscle": "Back",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "",
+      "photo": null,
+      "startedAt": 1791300030000,
+      "doneAt": 1791301080000,
+      "group": null,
+      "sets": [
+       {
+        "id": "s24-0-0",
+        "ts": 1791300228113,
+        "w": 57.5,
+        "reps": 10,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s24-0-1",
+        "ts": 1791300426226,
+        "w": 65,
+        "reps": 10,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s24-0-2",
+        "ts": 1791300624339,
+        "w": 72.5,
+        "reps": 10,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s24-0-3",
+        "ts": 1791300822452,
+        "w": 80,
+        "reps": 8,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s24-0-4",
+        "ts": 1791301020566,
+        "w": 87.5,
+        "reps": 6,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     },
+     {
+      "id": "wa-e2026-10-06-1",
+      "exId": "wa-sa-row",
+      "name": "Single-Arm Row",
+      "muscle": "Back",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "Last set split by arm: right 87.5\u00d78, left 87.5\u00d73 then 80\u00d74",
+      "photo": null,
+      "startedAt": 1791302040000,
+      "doneAt": 1791303300000,
+      "group": null,
+      "sets": [
+       {
+        "id": "s24-1-0",
+        "ts": 1791302240000,
+        "w": 65,
+        "reps": 10,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s24-1-1",
+        "ts": 1791302440000,
+        "w": 72.5,
+        "reps": 10,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s24-1-2",
+        "ts": 1791302640000,
+        "w": 80,
+        "reps": 10,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s24-1-3",
+        "ts": 1791302840000,
+        "w": 87.5,
+        "reps": 8,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s24-1-4",
+        "ts": 1791303040000,
+        "w": 87.5,
+        "reps": 8,
+        "drops": [],
+        "dur": null,
+        "tags": [
+         "Right arm"
+        ]
+       },
+       {
+        "id": "s24-1-5",
+        "ts": 1791303240000,
+        "w": 87.5,
+        "reps": 3,
+        "drops": [
+         {
+          "w": 80,
+          "reps": 4
+         }
+        ],
+        "dur": null,
+        "tags": [
+         "Left arm"
+        ]
+       }
+      ]
+     }
+    ],
+    "source": "whatsapp"
+   },
+   "wa-2026-10-20": {
+    "id": "wa-2026-10-20",
+    "date": "2026-10-20",
+    "split": "Chest + Tri",
+    "startedAt": 1792511970000,
+    "endedAt": 1792525140000,
+    "note": "First session back after being ill (7\u201313 Oct).",
+    "feel": null,
+    "entries": [
+     {
+      "id": "wa-e2026-10-20-0",
+      "exId": "wa-chest-press",
+      "name": "Chest Press Machine",
+      "muscle": "Chest",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "Last set: 5 and a half reps",
+      "photo": null,
+      "startedAt": 1792512450000,
+      "doneAt": 1792513290000.0,
+      "group": null,
+      "sets": [
+       {
+        "id": "s25-0-0",
+        "ts": 1792512645348,
+        "w": 27.5,
+        "reps": 14,
+        "drops": [],
+        "dur": null,
+        "tags": [
+         "Warm-up"
+        ]
+       },
+       {
+        "id": "s25-0-1",
+        "ts": 1792512840697,
+        "w": 50,
+        "reps": 8,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s25-0-2",
+        "ts": 1792513036046,
+        "w": 57.5,
+        "reps": 8,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s25-0-3",
+        "ts": 1792513231395,
+        "w": 65,
+        "reps": 5,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     },
+     {
+      "id": "wa-e2026-10-20-1",
+      "exId": "wa-inc-press",
+      "name": "Incline Dumbbell Press",
+      "muscle": "Chest",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "",
+      "photo": null,
+      "startedAt": 1792513350000.0,
+      "doneAt": 1792513920000,
+      "group": null,
+      "sets": [
+       {
+        "id": "s25-1-0",
+        "ts": 1792513522727,
+        "w": 17.5,
+        "reps": 8,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s25-1-1",
+        "ts": 1792513695454,
+        "w": 20,
+        "reps": 8,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s25-1-2",
+        "ts": 1792513868181,
+        "w": 22.5,
+        "reps": 8,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     },
+     {
+      "id": "wa-e2026-10-20-2",
+      "exId": "wa-squeeze",
+      "name": "Dumbbell Squeeze Press (Upper Chest)",
+      "muscle": "Chest",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "",
+      "photo": null,
+      "startedAt": 1792514100000,
+      "doneAt": 1792514730000.0,
+      "group": null,
+      "sets": [
+       {
+        "id": "s25-2-0",
+        "ts": 1792514290909,
+        "w": 10,
+        "reps": 8,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s25-2-1",
+        "ts": 1792514481818,
+        "w": 12.5,
+        "reps": 8,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s25-2-2",
+        "ts": 1792514672727,
+        "w": 12.5,
+        "reps": 8,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     },
+     {
+      "id": "wa-e2026-10-20-3",
+      "exId": "wa-inc-fly",
+      "name": "Incline Dumbbell Fly",
+      "muscle": "Chest",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "",
+      "photo": null,
+      "startedAt": 1792514790000.0,
+      "doneAt": 1792515360000,
+      "group": null,
+      "sets": [
+       {
+        "id": "s25-3-0",
+        "ts": 1792514962727,
+        "w": 10,
+        "reps": 8,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s25-3-1",
+        "ts": 1792515135454,
+        "w": 12.5,
+        "reps": 8,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s25-3-2",
+        "ts": 1792515308181,
+        "w": 12.5,
+        "reps": 6,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     },
+     {
+      "id": "wa-e2026-10-20-4",
+      "exId": "wa-pushdown",
+      "name": "Cable Tricep Pushdown",
+      "muscle": "Triceps",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "",
+      "photo": null,
+      "startedAt": 1792516530000,
+      "doneAt": 1792517160000,
+      "group": null,
+      "sets": [
+       {
+        "id": "s25-4-0",
+        "ts": 1792516720909,
+        "w": 26.25,
+        "reps": 8,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s25-4-1",
+        "ts": 1792516911818,
+        "w": 28.75,
+        "reps": 8,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s25-4-2",
+        "ts": 1792517102727,
+        "w": 31.25,
+        "reps": 7,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     },
+     {
+      "id": "wa-e2026-10-20-5",
+      "exId": "wa-oh-ext",
+      "name": "Overhead Cable Tricep Extension",
+      "muscle": "Triceps",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "",
+      "photo": null,
+      "startedAt": 1792523640000,
+      "doneAt": 1792524270000.0,
+      "group": null,
+      "sets": [
+       {
+        "id": "s25-5-0",
+        "ts": 1792523830909,
+        "w": 21.25,
+        "reps": 8,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s25-5-1",
+        "ts": 1792524021818,
+        "w": 21.25,
+        "reps": 8,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s25-5-2",
+        "ts": 1792524212727,
+        "w": 23.75,
+        "reps": 7,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     },
+     {
+      "id": "wa-e2026-10-20-6",
+      "exId": "wa-pec-deck",
+      "name": "Pec Deck Fly",
+      "muscle": "Chest",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "",
+      "photo": null,
+      "startedAt": 1792524330000.0,
+      "doneAt": 1792524900000,
+      "group": null,
+      "sets": [
+       {
+        "id": "s25-6-0",
+        "ts": 1792524502727,
+        "w": 57.5,
+        "reps": 8,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s25-6-1",
+        "ts": 1792524675454,
+        "w": 57.5,
+        "reps": 8,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s25-6-2",
+        "ts": 1792524848181,
+        "w": 65,
+        "reps": 7,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     }
+    ],
+    "source": "whatsapp"
+   },
+   "wa-2026-10-22": {
+    "id": "wa-2026-10-22",
+    "date": "2026-10-22",
+    "split": "Back + Bi",
+    "startedAt": 1792664700000,
+    "endedAt": 1792667220000,
+    "note": "",
+    "feel": null,
+    "entries": [
+     {
+      "id": "wa-e2026-10-22-0",
+      "exId": "wa-lat-pd",
+      "name": "Lat Pulldown",
+      "muscle": "Back",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "Last set: not full reps",
+      "photo": null,
+      "startedAt": 1792665180000,
+      "doneAt": 1792666020000,
+      "group": null,
+      "sets": [
+       {
+        "id": "s26-0-0",
+        "ts": 1792665375348,
+        "w": 65,
+        "reps": 8,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s26-0-1",
+        "ts": 1792665570697,
+        "w": 72.5,
+        "reps": 8,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s26-0-2",
+        "ts": 1792665766046,
+        "w": 80,
+        "reps": 8,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s26-0-3",
+        "ts": 1792665961395,
+        "w": 87.5,
+        "reps": 6,
+        "drops": [],
+        "dur": null,
+        "tags": [
+         "Partial"
+        ]
+       }
+      ]
+     },
+     {
+      "id": "wa-e2026-10-22-1",
+      "exId": "wa-sa-row",
+      "name": "Single-Arm Row",
+      "muscle": "Back",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "Cable",
+      "photo": null,
+      "startedAt": 1792666350000,
+      "doneAt": 1792666980000,
+      "group": null,
+      "sets": [
+       {
+        "id": "s26-1-0",
+        "ts": 1792666540909,
+        "w": 65,
+        "reps": 8,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s26-1-1",
+        "ts": 1792666731818,
+        "w": 72.5,
+        "reps": 8,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       },
+       {
+        "id": "s26-1-2",
+        "ts": 1792666922727,
+        "w": 80,
+        "reps": 8,
+        "drops": [],
+        "dur": null,
+        "tags": []
+       }
+      ]
+     }
+    ],
+    "source": "whatsapp"
+   }
+  },
+  "cardio": {
+   "wa-c00": {
+    "id": "wa-c00",
+    "date": "2026-06-03",
+    "ts": 1780467060000,
+    "type": "Elliptical",
+    "dur": 1241,
+    "dist": 2.37,
+    "kcal": 218,
+    "avgHr": 160,
+    "maxHr": null,
+    "incline": null,
+    "speed": null,
+    "level": 13,
+    "note": "Heart rate is the machine reading at the end",
+    "photo": "data/photos/img_3415.jpg",
+    "createdAt": 1780467060000
+   },
+   "wa-c01": {
+    "id": "wa-c01",
+    "date": "2026-06-04",
+    "ts": 1780544880000,
+    "type": "Elliptical",
+    "dur": 1218,
+    "dist": 2.56,
+    "kcal": 240,
+    "avgHr": 160,
+    "maxHr": null,
+    "incline": null,
+    "speed": null,
+    "level": 14,
+    "note": "Heart rate is the machine reading at the end",
+    "photo": "data/photos/img_3434.jpg",
+    "createdAt": 1780544880000
+   },
+   "wa-c02": {
+    "id": "wa-c02",
+    "date": "2026-06-06",
+    "ts": 1780746180000,
+    "type": "Elliptical",
+    "dur": 1521,
+    "dist": 3.04,
+    "kcal": 308,
+    "avgHr": 162,
+    "maxHr": null,
+    "incline": null,
+    "speed": null,
+    "level": 15,
+    "note": "Heart rate is the machine reading at the end",
+    "photo": "data/photos/img_3461.jpg",
+    "createdAt": 1780746180000
+   },
+   "wa-c03": {
+    "id": "wa-c03",
+    "date": "2026-06-07",
+    "ts": 1780844400000,
+    "type": "Elliptical",
+    "dur": 600,
+    "dist": 1.14,
+    "kcal": 114,
+    "avgHr": 160,
+    "maxHr": null,
+    "incline": null,
+    "speed": null,
+    "level": 14,
+    "note": "Heart rate is the machine reading at the end",
+    "photo": "data/photos/img_3478.jpg",
+    "createdAt": 1780844400000
+   },
+   "wa-c04": {
+    "id": "wa-c04",
+    "date": "2026-06-08",
+    "ts": 1780887540000,
+    "type": "Cycle",
+    "dur": 600,
+    "dist": 4.66,
+    "kcal": 110,
+    "avgHr": 106,
+    "maxHr": null,
+    "incline": null,
+    "speed": null,
+    "level": 15,
+    "note": "Heart rate is the machine reading at the end",
+    "photo": "data/photos/img_3480.jpg",
+    "createdAt": 1780887540000
+   },
+   "wa-c05": {
+    "id": "wa-c05",
+    "date": "2026-06-09",
+    "ts": 1780993860000,
+    "type": "Elliptical",
+    "dur": 1804,
+    "dist": 3.61,
+    "kcal": 356,
+    "avgHr": 158,
+    "maxHr": null,
+    "incline": null,
+    "speed": null,
+    "level": 14,
+    "note": "Heart rate is the machine reading at the end",
+    "photo": "data/photos/img_3498.jpg",
+    "createdAt": 1780993860000
+   },
+   "wa-c06": {
+    "id": "wa-c06",
+    "date": "2026-06-11",
+    "ts": 1781193000000,
+    "type": "Cycle",
+    "dur": 1802,
+    "dist": 14.0,
+    "kcal": 333,
+    "avgHr": 147,
+    "maxHr": null,
+    "incline": null,
+    "speed": null,
+    "level": 15,
+    "note": "Heart rate is the machine reading at the end",
+    "photo": "data/photos/img_3565.jpg",
+    "createdAt": 1781193000000
+   },
+   "wa-c07": {
+    "id": "wa-c07",
+    "date": "2026-06-16",
+    "ts": 1781628660000,
+    "type": "Elliptical",
+    "dur": 1205,
+    "dist": 2.32,
+    "kcal": 213,
+    "avgHr": 152,
+    "maxHr": null,
+    "incline": null,
+    "speed": null,
+    "level": 13,
+    "note": "Heart rate is the machine reading at the end",
+    "photo": "data/photos/img_3870.jpg",
+    "createdAt": 1781628660000
+   },
+   "wa-c08": {
+    "id": "wa-c08",
+    "date": "2026-06-19",
+    "ts": 1781893500000,
+    "type": "Elliptical",
+    "dur": 1800,
+    "dist": 3.47,
+    "kcal": 356,
+    "avgHr": 149,
+    "maxHr": null,
+    "incline": null,
+    "speed": null,
+    "level": 15,
+    "note": "Heart rate is the machine reading at the end",
+    "photo": "data/photos/img_3911.jpg",
+    "createdAt": 1781893500000
+   },
+   "wa-c09": {
+    "id": "wa-c09",
+    "date": "2026-06-21",
+    "ts": 1782034740000,
+    "type": "Cycle",
+    "dur": 1804,
+    "dist": 14.4,
+    "kcal": 354,
+    "avgHr": 161,
+    "maxHr": null,
+    "incline": null,
+    "speed": null,
+    "level": 15,
+    "note": "Heart rate is the machine reading at the end",
+    "photo": "data/photos/img_3921.jpg",
+    "createdAt": 1782034740000
+   },
+   "wa-c10": {
+    "id": "wa-c10",
+    "date": "2026-06-22",
+    "ts": 1782148320000,
+    "type": "Elliptical",
+    "dur": 3619,
+    "dist": 7.03,
+    "kcal": 721,
+    "avgHr": 157,
+    "maxHr": null,
+    "incline": null,
+    "speed": null,
+    "level": 15,
+    "note": "Heart rate is the machine reading at the end",
+    "photo": "data/photos/img_3950.jpg",
+    "createdAt": 1782148320000
+   },
+   "wa-c11": {
+    "id": "wa-c11",
+    "date": "2026-06-23",
+    "ts": 1782236760000,
+    "type": "Elliptical",
+    "dur": 1800,
+    "dist": 3.54,
+    "kcal": 402,
+    "avgHr": 155,
+    "maxHr": null,
+    "incline": null,
+    "speed": null,
+    "level": 16,
+    "note": "Heart rate is the machine reading at the end",
+    "photo": "data/photos/img_3961.jpg",
+    "createdAt": 1782236760000
+   },
+   "wa-c12": {
+    "id": "wa-c12",
+    "date": "2026-06-24",
+    "ts": 1782321000000,
+    "type": "Cycle",
+    "dur": 1801,
+    "dist": 14.1,
+    "kcal": 336,
+    "avgHr": 129,
+    "maxHr": null,
+    "incline": null,
+    "speed": null,
+    "level": 15,
+    "note": "Heart rate is the machine reading at the end",
+    "photo": "data/photos/img_3971.jpg",
+    "createdAt": 1782321000000
+   },
+   "wa-c13": {
+    "id": "wa-c13",
+    "date": "2026-06-26",
+    "ts": 1782474600000,
+    "type": "Elliptical",
+    "dur": 1828,
+    "dist": 3.26,
+    "kcal": 351,
+    "avgHr": 157,
+    "maxHr": null,
+    "incline": null,
+    "speed": null,
+    "level": 15,
+    "note": "Part 1 of 2 (collage photo). Heart rate is the machine reading at the end",
+    "photo": "data/photos/79cd26a0-085.jpg",
+    "createdAt": 1782474600000
+   },
+   "wa-c14": {
+    "id": "wa-c14",
+    "date": "2026-06-26",
+    "ts": 1782474660000,
+    "type": "Elliptical",
+    "dur": 1815,
+    "dist": 3.44,
+    "kcal": 362,
+    "avgHr": 156,
+    "maxHr": null,
+    "incline": null,
+    "speed": null,
+    "level": 15,
+    "note": "Part 2 of 2 (collage photo). Heart rate is the machine reading at the end",
+    "photo": "data/photos/79cd26a0-085.jpg",
+    "createdAt": 1782474660000
+   },
+   "wa-c15": {
+    "id": "wa-c15",
+    "date": "2026-06-27",
+    "ts": 1782563940000,
+    "type": "Elliptical",
+    "dur": 3628,
+    "dist": 7.0,
+    "kcal": 750,
+    "avgHr": 157,
+    "maxHr": null,
+    "incline": null,
+    "speed": null,
+    "level": 15,
+    "note": "Heart rate is the machine reading at the end",
+    "photo": "data/photos/img_4003.jpg",
+    "createdAt": 1782563940000
+   },
+   "wa-c16": {
+    "id": "wa-c16",
+    "date": "2026-06-29",
+    "ts": 1782754920000,
+    "type": "Elliptical",
+    "dur": 3632,
+    "dist": 6.72,
+    "kcal": 788,
+    "avgHr": 165,
+    "maxHr": null,
+    "incline": null,
+    "speed": null,
+    "level": 16,
+    "note": "Heart rate is the machine reading at the end",
+    "photo": "data/photos/img_4127.jpg",
+    "createdAt": 1782754920000
+   },
+   "wa-c17": {
+    "id": "wa-c17",
+    "date": "2026-06-30",
+    "ts": 1782828300000,
+    "type": "Elliptical",
+    "dur": 3624,
+    "dist": 7.02,
+    "kcal": 704,
+    "avgHr": 154,
+    "maxHr": null,
+    "incline": null,
+    "speed": null,
+    "level": 14,
+    "note": "Heart rate is the machine reading at the end",
+    "photo": "data/photos/img_4130.jpg",
+    "createdAt": 1782828300000
+   },
+   "wa-c18": {
+    "id": "wa-c18",
+    "date": "2026-07-01",
+    "ts": 1782930840000,
+    "type": "Elliptical",
+    "dur": 3614,
+    "dist": 6.94,
+    "kcal": 705,
+    "avgHr": 151,
+    "maxHr": null,
+    "incline": null,
+    "speed": null,
+    "level": 15,
+    "note": "Heart rate is the machine reading at the end",
+    "photo": "data/photos/img_4228.jpg",
+    "createdAt": 1782930840000
+   },
+   "wa-c19": {
+    "id": "wa-c19",
+    "date": "2026-07-08",
+    "ts": 1783494300000,
+    "type": "Elliptical",
+    "dur": 3630,
+    "dist": 7.47,
+    "kcal": 728,
+    "avgHr": 145,
+    "maxHr": null,
+    "incline": null,
+    "speed": null,
+    "level": 14,
+    "note": "Heart rate is the machine reading at the end",
+    "photo": "data/photos/img_4323.jpg",
+    "createdAt": 1783494300000
+   },
+   "wa-c20": {
+    "id": "wa-c20",
+    "date": "2026-07-09",
+    "ts": 1783623300000,
+    "type": "Elliptical",
+    "dur": 3601,
+    "dist": 7.21,
+    "kcal": 774,
+    "avgHr": 150,
+    "maxHr": null,
+    "incline": null,
+    "speed": null,
+    "level": 16,
+    "note": "Heart rate is the machine reading at the end",
+    "photo": "data/photos/img_4343.jpg",
+    "createdAt": 1783623300000
+   },
+   "wa-c21": {
+    "id": "wa-c21",
+    "date": "2026-07-10",
+    "ts": 1783708080000,
+    "type": "Cycle",
+    "dur": 1841,
+    "dist": 14.2,
+    "kcal": 339,
+    "avgHr": 103,
+    "maxHr": null,
+    "incline": null,
+    "speed": null,
+    "level": 15,
+    "note": "Heart rate is the machine reading at the end",
+    "photo": "data/photos/img_4349.jpg",
+    "createdAt": 1783708080000
+   },
+   "wa-c22": {
+    "id": "wa-c22",
+    "date": "2026-07-13",
+    "ts": 1783968780000,
+    "type": "Elliptical",
+    "dur": 3612,
+    "dist": 6.96,
+    "kcal": 714,
+    "avgHr": 155,
+    "maxHr": null,
+    "incline": null,
+    "speed": null,
+    "level": 15,
+    "note": "Heart rate is the machine reading at the end",
+    "photo": "data/photos/img_4373.jpg",
+    "createdAt": 1783968780000
+   },
+   "wa-c23": {
+    "id": "wa-c23",
+    "date": "2026-07-14",
+    "ts": 1784054100000,
+    "type": "Elliptical",
+    "dur": 2402,
+    "dist": 4.26,
+    "kcal": 526,
+    "avgHr": 159,
+    "maxHr": null,
+    "incline": null,
+    "speed": null,
+    "level": 16,
+    "note": "Heart rate is the machine reading at the end",
+    "photo": "data/photos/img_4378.jpg",
+    "createdAt": 1784054100000
+   },
+   "wa-c24": {
+    "id": "wa-c24",
+    "date": "2026-07-16",
+    "ts": 1784227620000,
+    "type": "Elliptical",
+    "dur": 1804,
+    "dist": 2.95,
+    "kcal": 371,
+    "avgHr": 156,
+    "maxHr": null,
+    "incline": null,
+    "speed": null,
+    "level": 16,
+    "note": "Part 1 of 2 (collage photo). Heart rate is the machine reading at the end",
+    "photo": "data/photos/b3f7f404-bb9.jpg",
+    "createdAt": 1784227620000
+   },
+   "wa-c25": {
+    "id": "wa-c25",
+    "date": "2026-07-16",
+    "ts": 1784227680000,
+    "type": "Elliptical",
+    "dur": 1804,
+    "dist": 3.19,
+    "kcal": 389,
+    "avgHr": 160,
+    "maxHr": null,
+    "incline": null,
+    "speed": null,
+    "level": 16,
+    "note": "Part 2 of 2 (collage photo). Heart rate is the machine reading at the end",
+    "photo": "data/photos/b3f7f404-bb9.jpg",
+    "createdAt": 1784227680000
+   },
+   "wa-c26": {
+    "id": "wa-c26",
+    "date": "2026-07-17",
+    "ts": 1784313120000,
+    "type": "Elliptical",
+    "dur": 3610,
+    "dist": 6.57,
+    "kcal": 719,
+    "avgHr": 150,
+    "maxHr": null,
+    "incline": null,
+    "speed": null,
+    "level": 15,
+    "note": "Heart rate is the machine reading at the end",
+    "photo": "data/photos/img_4401.jpg",
+    "createdAt": 1784313120000
+   },
+   "wa-c27": {
+    "id": "wa-c27",
+    "date": "2026-07-18",
+    "ts": 1784400360000,
+    "type": "Elliptical",
+    "dur": 3605,
+    "dist": 6.56,
+    "kcal": 716,
+    "avgHr": 152,
+    "maxHr": null,
+    "incline": null,
+    "speed": null,
+    "level": 15,
+    "note": "Heart rate is the machine reading at the end",
+    "photo": "data/photos/img_4405.jpg",
+    "createdAt": 1784400360000
+   },
+   "wa-c28": {
+    "id": "wa-c28",
+    "date": "2026-07-20",
+    "ts": 1784569860000,
+    "type": "Incline walk",
+    "dur": 3735,
+    "dist": 3.94,
+    "kcal": 600,
+    "avgHr": 151,
+    "maxHr": null,
+    "incline": 14.3,
+    "speed": 3.8,
+    "level": null,
+    "note": "Climbed 562 m",
+    "photo": "data/photos/img_4462.jpg",
+    "createdAt": 1784569860000
+   },
+   "wa-c29": {
+    "id": "wa-c29",
+    "date": "2026-07-21",
+    "ts": 1784657580000,
+    "type": "Incline walk",
+    "dur": 3801,
+    "dist": 4.0,
+    "kcal": 600,
+    "avgHr": 153,
+    "maxHr": null,
+    "incline": 14.0,
+    "speed": 3.8,
+    "level": null,
+    "note": "Climbed 559 m",
+    "photo": "data/photos/img_4466.jpg",
+    "createdAt": 1784657580000
+   },
+   "wa-c30": {
+    "id": "wa-c30",
+    "date": "2026-07-22",
+    "ts": 1784745720000,
+    "type": "Incline walk",
+    "dur": 2727,
+    "dist": 2.74,
+    "kcal": 428,
+    "avgHr": 149,
+    "maxHr": null,
+    "incline": 14.7,
+    "speed": 3.6,
+    "level": null,
+    "note": "Climbed 402 m",
+    "photo": "data/photos/img_4474.jpg",
+    "createdAt": 1784745720000
+   },
+   "wa-c31": {
+    "id": "wa-c31",
+    "date": "2026-07-24",
+    "ts": 1784904120000,
+    "type": "Incline walk",
+    "dur": 3698,
+    "dist": 3.62,
+    "kcal": 564,
+    "avgHr": 159,
+    "maxHr": null,
+    "incline": 14.6,
+    "speed": 3.5,
+    "level": null,
+    "note": "Climbed 527 m",
+    "photo": "data/photos/img_4493.jpg",
+    "createdAt": 1784904120000
+   },
+   "wa-c32": {
+    "id": "wa-c32",
+    "date": "2026-07-26",
+    "ts": 1785073860000,
+    "type": "Incline walk",
+    "dur": 3692,
+    "dist": 3.83,
+    "kcal": 592,
+    "avgHr": 156,
+    "maxHr": null,
+    "incline": 14.6,
+    "speed": 3.7,
+    "level": null,
+    "note": "Climbed 558 m",
+    "photo": "data/photos/img_4514.jpg",
+    "createdAt": 1785073860000
+   },
+   "wa-c33": {
+    "id": "wa-c33",
+    "date": "2026-07-28",
+    "ts": 1785264000000,
+    "type": "Incline walk",
+    "dur": 3599,
+    "dist": 3.75,
+    "kcal": 585,
+    "avgHr": 153,
+    "maxHr": null,
+    "incline": 14.9,
+    "speed": 3.8,
+    "level": null,
+    "note": "Climbed 557 m",
+    "photo": "data/photos/img_4533.jpg",
+    "createdAt": 1785264000000
+   },
+   "wa-c34": {
+    "id": "wa-c34",
+    "date": "2026-07-30",
+    "ts": 1785436440000,
+    "type": "Incline walk",
+    "dur": 3684,
+    "dist": 3.61,
+    "kcal": 564,
+    "avgHr": 144,
+    "maxHr": null,
+    "incline": 14.7,
+    "speed": 3.5,
+    "level": null,
+    "note": "Climbed 529 m",
+    "photo": "data/photos/img_4568.jpg",
+    "createdAt": 1785436440000
+   },
+   "wa-c35": {
+    "id": "wa-c35",
+    "date": "2026-07-31",
+    "ts": 1785522780000,
+    "type": "Elliptical",
+    "dur": 2100,
+    "dist": 3.46,
+    "kcal": 476,
+    "avgHr": 147,
+    "maxHr": null,
+    "incline": null,
+    "speed": null,
+    "level": 17,
+    "note": "Heart rate is the machine reading at the end",
+    "photo": "data/photos/img_4575.jpg",
+    "createdAt": 1785522780000
+   },
+   "wa-c36": {
+    "id": "wa-c36",
+    "date": "2026-08-01",
+    "ts": 1785609480000,
+    "type": "Elliptical",
+    "dur": 1804,
+    "dist": 2.91,
+    "kcal": 376,
+    "avgHr": 161,
+    "maxHr": null,
+    "incline": null,
+    "speed": null,
+    "level": 16,
+    "note": "Heart rate is the machine reading at the end",
+    "photo": "data/photos/img_4589.jpg",
+    "createdAt": 1785609480000
+   },
+   "wa-c37": {
+    "id": "wa-c37",
+    "date": "2026-08-04",
+    "ts": 1785865020000,
+    "type": "Incline walk",
+    "dur": 3840,
+    "dist": 3.99,
+    "kcal": 601,
+    "avgHr": 155,
+    "maxHr": null,
+    "incline": 13.8,
+    "speed": 3.7,
+    "level": null,
+    "note": "Climbed 551 m",
+    "photo": "data/photos/img_4650.jpg",
+    "createdAt": 1785865020000
+   },
+   "wa-c38": {
+    "id": "wa-c38",
+    "date": "2026-08-08",
+    "ts": 1786186020000,
+    "type": "Elliptical",
+    "dur": 3635,
+    "dist": 6.86,
+    "kcal": 759,
+    "avgHr": 152,
+    "maxHr": null,
+    "incline": null,
+    "speed": null,
+    "level": 15,
+    "note": "Heart rate is the machine reading at the end",
+    "photo": "data/photos/img_4704.jpg",
+    "createdAt": 1786186020000
+   },
+   "wa-c39": {
+    "id": "wa-c39",
+    "date": "2026-08-09",
+    "ts": 1786285500000,
+    "type": "Elliptical",
+    "dur": 3645,
+    "dist": 7.04,
+    "kcal": 761,
+    "avgHr": 155,
+    "maxHr": null,
+    "incline": null,
+    "speed": null,
+    "level": 15,
+    "note": "Heart rate is the machine reading at the end",
+    "photo": "data/photos/img_4724.jpg",
+    "createdAt": 1786285500000
+   },
+   "wa-c40": {
+    "id": "wa-c40",
+    "date": "2026-08-10",
+    "ts": 1786386960000,
+    "type": "Elliptical",
+    "dur": 1802,
+    "dist": 3.14,
+    "kcal": 390,
+    "avgHr": 151,
+    "maxHr": null,
+    "incline": null,
+    "speed": null,
+    "level": 16,
+    "note": "Heart rate is the machine reading at the end",
+    "photo": "data/photos/img_4730.jpg",
+    "createdAt": 1786386960000
+   },
+   "wa-c41": {
+    "id": "wa-c41",
+    "date": "2026-08-11",
+    "ts": 1786473360000,
+    "type": "Cycle",
+    "dur": 2702,
+    "dist": 20.0,
+    "kcal": 457,
+    "avgHr": 131,
+    "maxHr": null,
+    "incline": null,
+    "speed": null,
+    "level": 15,
+    "note": "Heart rate is the machine reading at the end",
+    "photo": "data/photos/img_4736.jpg",
+    "createdAt": 1786473360000
+   },
+   "wa-c42": {
+    "id": "wa-c42",
+    "date": "2026-08-14",
+    "ts": 1786710420000,
+    "type": "Cycle",
+    "dur": 3629,
+    "dist": 26.8,
+    "kcal": 611,
+    "avgHr": 119,
+    "maxHr": null,
+    "incline": null,
+    "speed": null,
+    "level": 14,
+    "note": "Heart rate is the machine reading at the end",
+    "photo": "data/photos/img_4814.jpg",
+    "createdAt": 1786710420000
+   },
+   "wa-c43": {
+    "id": "wa-c43",
+    "date": "2026-08-15",
+    "ts": 1786795860000,
+    "type": "Elliptical",
+    "dur": 2688,
+    "dist": 5.2,
+    "kcal": 554,
+    "avgHr": 157,
+    "maxHr": null,
+    "incline": null,
+    "speed": null,
+    "level": 15,
+    "note": "Heart rate is the machine reading at the end",
+    "photo": "data/photos/img_4821.jpg",
+    "createdAt": 1786795860000
+   },
+   "wa-c44": {
+    "id": "wa-c44",
+    "date": "2026-08-16",
+    "ts": 1786901400000,
+    "type": "Elliptical",
+    "dur": 3600,
+    "dist": null,
+    "kcal": 710,
+    "avgHr": null,
+    "maxHr": null,
+    "incline": null,
+    "speed": null,
+    "level": null,
+    "note": "No photo; from your note: 710 calories, 60 min cross trainer",
+    "photo": null,
+    "createdAt": 1786901400000
+   },
+   "wa-c45": {
+    "id": "wa-c45",
+    "date": "2026-08-18",
+    "ts": 1787078040000,
+    "type": "Elliptical",
+    "dur": 1803,
+    "dist": 2.96,
+    "kcal": 371,
+    "avgHr": 153,
+    "maxHr": null,
+    "incline": null,
+    "speed": null,
+    "level": 16,
+    "note": "Heart rate is the machine reading at the end",
+    "photo": "data/photos/img_4888.jpg",
+    "createdAt": 1787078040000
+   },
+   "wa-c46": {
+    "id": "wa-c46",
+    "date": "2026-08-19",
+    "ts": 1787164800000,
+    "type": "Elliptical",
+    "dur": 3610,
+    "dist": 6.44,
+    "kcal": 723,
+    "avgHr": 151,
+    "maxHr": null,
+    "incline": null,
+    "speed": null,
+    "level": 15,
+    "note": "Heart rate is the machine reading at the end",
+    "photo": "data/photos/img_4898.jpg",
+    "createdAt": 1787164800000
+   },
+   "wa-c47": {
+    "id": "wa-c47",
+    "date": "2026-08-24",
+    "ts": 1787596260000,
+    "type": "Incline walk",
+    "dur": 1878,
+    "dist": 2.23,
+    "kcal": 339,
+    "avgHr": 159,
+    "maxHr": null,
+    "incline": 14.5,
+    "speed": 4.3,
+    "level": null,
+    "note": "Climbed 324 m",
+    "photo": "data/photos/img_5008.jpg",
+    "createdAt": 1787596260000
+   },
+   "wa-c48": {
+    "id": "wa-c48",
+    "date": "2026-08-27",
+    "ts": 1787846640000,
+    "type": "Elliptical",
+    "dur": 3626,
+    "dist": 6.16,
+    "kcal": 706,
+    "avgHr": 143,
+    "maxHr": null,
+    "incline": null,
+    "speed": null,
+    "level": 15,
+    "note": "Heart rate is the machine reading at the end",
+    "photo": "data/photos/img_5036.jpg",
+    "createdAt": 1787846640000
+   },
+   "wa-c49": {
+    "id": "wa-c49",
+    "date": "2026-08-31",
+    "ts": 1788199560000,
+    "type": "Elliptical",
+    "dur": 3659,
+    "dist": 6.33,
+    "kcal": 717,
+    "avgHr": 143,
+    "maxHr": null,
+    "incline": null,
+    "speed": null,
+    "level": 15,
+    "note": "Heart rate is the machine reading at the end",
+    "photo": "data/photos/img_5131.jpg",
+    "createdAt": 1788199560000
+   },
+   "wa-c50": {
+    "id": "wa-c50",
+    "date": "2026-09-02",
+    "ts": 1788373920000,
+    "type": "Incline walk",
+    "dur": 3667,
+    "dist": 3.92,
+    "kcal": 607,
+    "avgHr": 155,
+    "maxHr": null,
+    "incline": 14.7,
+    "speed": 3.9,
+    "level": null,
+    "note": "Climbed 577 m",
+    "photo": "data/photos/img_5138.jpg",
+    "createdAt": 1788373920000
+   },
+   "wa-c51": {
+    "id": "wa-c51",
+    "date": "2026-09-13",
+    "ts": 1789294140000,
+    "type": "Treadmill",
+    "dur": 1460,
+    "dist": 3.13,
+    "kcal": 258,
+    "avgHr": 164,
+    "maxHr": null,
+    "incline": 0,
+    "speed": 7.7,
+    "level": null,
+    "note": "",
+    "photo": "data/photos/img_5201.jpg",
+    "createdAt": 1789294140000
+   },
+   "wa-c52": {
+    "id": "wa-c52",
+    "date": "2026-09-15",
+    "ts": 1789494480000,
+    "type": "Treadmill",
+    "dur": 1853,
+    "dist": 4.09,
+    "kcal": 340,
+    "avgHr": 165,
+    "maxHr": null,
+    "incline": 0,
+    "speed": 8.0,
+    "level": null,
+    "note": "",
+    "photo": "data/photos/img_5222.jpg",
+    "createdAt": 1789494480000
+   },
+   "wa-c53": {
+    "id": "wa-c53",
+    "date": "2026-09-16",
+    "ts": 1789581660000,
+    "type": "Treadmill",
+    "dur": 2334,
+    "dist": 5.07,
+    "kcal": 420,
+    "avgHr": 160,
+    "maxHr": null,
+    "incline": 0,
+    "speed": 7.8,
+    "level": null,
+    "note": "",
+    "photo": "data/photos/img_5255.jpg",
+    "createdAt": 1789581660000
+   },
+   "wa-c54": {
+    "id": "wa-c54",
+    "date": "2026-09-17",
+    "ts": 1789668540000,
+    "type": "Treadmill",
+    "dur": 2204,
+    "dist": 5.11,
+    "kcal": 420,
+    "avgHr": 176,
+    "maxHr": null,
+    "incline": 0,
+    "speed": 8.4,
+    "level": null,
+    "note": "",
+    "photo": "data/photos/img_5279.jpg",
+    "createdAt": 1789668540000
+   },
+   "wa-c55": {
+    "id": "wa-c55",
+    "date": "2026-09-18",
+    "ts": 1789756260000,
+    "type": "Treadmill",
+    "dur": 600,
+    "dist": 1.42,
+    "kcal": 112,
+    "avgHr": 169,
+    "maxHr": null,
+    "incline": 0,
+    "speed": 8.5,
+    "level": null,
+    "note": "",
+    "photo": "data/photos/img_5297.jpg",
+    "createdAt": 1789756260000
+   },
+   "wa-c56": {
+    "id": "wa-c56",
+    "date": "2026-09-19",
+    "ts": 1789843860000,
+    "type": "Treadmill",
+    "dur": 2258,
+    "dist": 5.0,
+    "kcal": 417,
+    "avgHr": null,
+    "maxHr": null,
+    "incline": 0,
+    "speed": 8.0,
+    "level": null,
+    "note": "",
+    "photo": "data/photos/img_5306.jpg",
+    "createdAt": 1789843860000
+   },
+   "wa-c57": {
+    "id": "wa-c57",
+    "date": "2026-09-22",
+    "ts": 1790097720000,
+    "type": "Treadmill",
+    "dur": 2125,
+    "dist": 5.0,
+    "kcal": 414,
+    "avgHr": 176,
+    "maxHr": null,
+    "incline": 0,
+    "speed": 8.5,
+    "level": null,
+    "note": "",
+    "photo": "data/photos/img_5375.jpg",
+    "createdAt": 1790097720000
+   },
+   "wa-c58": {
+    "id": "wa-c58",
+    "date": "2026-09-25",
+    "ts": 1790361540000,
+    "type": "Treadmill",
+    "dur": 2148,
+    "dist": 5.0,
+    "kcal": 414,
+    "avgHr": null,
+    "maxHr": null,
+    "incline": 0,
+    "speed": 8.4,
+    "level": null,
+    "note": "",
+    "photo": "data/photos/img_5386.jpg",
+    "createdAt": 1790361540000
+   },
+   "wa-c59": {
+    "id": "wa-c59",
+    "date": "2026-09-27",
+    "ts": 1790497680000,
+    "type": "Treadmill",
+    "dur": 2099,
+    "dist": 5.0,
+    "kcal": 413,
+    "avgHr": null,
+    "maxHr": null,
+    "incline": 0,
+    "speed": 8.6,
+    "level": null,
+    "note": "",
+    "photo": "data/photos/img_5403.jpg",
+    "createdAt": 1790497680000
+   },
+   "wa-c60": {
+    "id": "wa-c60",
+    "date": "2026-09-28",
+    "ts": 1790620740000,
+    "type": "Treadmill",
+    "dur": 1500,
+    "dist": 3.29,
+    "kcal": 275,
+    "avgHr": null,
+    "maxHr": null,
+    "incline": 0,
+    "speed": 7.9,
+    "level": null,
+    "note": "",
+    "photo": "data/photos/img_5432.jpg",
+    "createdAt": 1790620740000
+   },
+   "wa-c61": {
+    "id": "wa-c61",
+    "date": "2026-10-05",
+    "ts": 1791203700000,
+    "type": "Treadmill",
+    "dur": 2018,
+    "dist": 5.0,
+    "kcal": 411,
+    "avgHr": null,
+    "maxHr": null,
+    "incline": 0,
+    "speed": 8.9,
+    "level": null,
+    "note": "",
+    "photo": "data/photos/img_5594.jpg",
+    "createdAt": 1791203700000
+   },
+   "wa-c62": {
+    "id": "wa-c62",
+    "date": "2026-10-06",
+    "ts": 1791310080000,
+    "type": "Treadmill",
+    "dur": 1981,
+    "dist": 5.0,
+    "kcal": 659,
+    "avgHr": null,
+    "maxHr": null,
+    "incline": 0,
+    "speed": 9.1,
+    "level": null,
+    "note": "",
+    "photo": "data/photos/img_5624.jpg",
+    "createdAt": 1791310080000
+   },
+   "wa-c63": {
+    "id": "wa-c63",
+    "date": "2026-10-22",
+    "ts": 1792673580000,
+    "type": "Treadmill",
+    "dur": 2410,
+    "dist": 4.97,
+    "kcal": 611,
+    "avgHr": 162,
+    "maxHr": null,
+    "incline": 0,
+    "speed": 7.4,
+    "level": null,
+    "note": "",
+    "photo": "data/photos/img_5698.jpg",
+    "createdAt": 1792673580000
+   }
+  },
+  "body": {
+   "wa-b0": {
+    "id": "wa-b0",
+    "date": "2026-08-12",
+    "ts": 1786505400000,
+    "weight": 114.7,
+    "bf": 31.9,
+    "muscle": null,
+    "protein": null,
+    "water": null,
+    "note": "Time of day not recorded",
+    "photo": null,
+    "createdAt": 1786505400000
+   },
+   "wa-b1": {
+    "id": "wa-b1",
+    "date": "2026-08-14",
+    "ts": 1786678200000,
+    "weight": 115.1,
+    "bf": 31.1,
+    "muscle": null,
+    "protein": null,
+    "water": null,
+    "note": "Time of day not recorded",
+    "photo": null,
+    "createdAt": 1786678200000
+   },
+   "wa-b2": {
+    "id": "wa-b2",
+    "date": "2026-08-15",
+    "ts": 1786764600000,
+    "weight": 114.9,
+    "bf": 33.4,
+    "muscle": null,
+    "protein": null,
+    "water": null,
+    "note": "Time of day not recorded",
+    "photo": null,
+    "createdAt": 1786764600000
+   },
+   "wa-b3": {
+    "id": "wa-b3",
+    "date": "2026-08-15",
+    "ts": 1786811400000,
+    "weight": 113.9,
+    "bf": 31.6,
+    "muscle": null,
+    "protein": null,
+    "water": null,
+    "note": "Time of day not recorded. BMI 32.5 on the scale app",
+    "photo": "data/photos/img_4856.jpg",
+    "createdAt": 1786811400000
+   }
+  },
+  "food": {},
+  "exercises": {
+   "wa-lat-raise": {
+    "id": "wa-lat-raise",
+    "name": "Dumbbell Lateral Raise",
+    "muscle": "Shoulders",
+    "settingLabel": "Machine setting",
+    "setting": null,
+    "photo": null,
+    "note": "You logged this as: Lateral raises",
+    "createdAt": 1786372200000
+   },
+   "wa-rev-fly": {
+    "id": "wa-rev-fly",
+    "name": "Reverse Pec Deck (Rear Delt Fly)",
+    "muscle": "Shoulders",
+    "settingLabel": "Height",
+    "setting": "6",
+    "photo": null,
+    "note": "You logged this as: Reverse flies rear delts / Rear delts / Pec dec rear delts",
+    "createdAt": 1786372200000
+   },
+   "wa-rev-cable": {
+    "id": "wa-rev-cable",
+    "name": "Reverse Cable Fly (Rear Delts)",
+    "muscle": "Shoulders",
+    "settingLabel": "Machine setting",
+    "setting": null,
+    "photo": null,
+    "note": "You logged this as: Reverse cable flies for rear delts",
+    "createdAt": 1786372200000
+   },
+   "wa-upright-row": {
+    "id": "wa-upright-row",
+    "name": "Cable Upright Row (EZ bar)",
+    "muscle": "Shoulders",
+    "settingLabel": "Machine setting",
+    "setting": null,
+    "photo": null,
+    "note": "You logged this as: Arch bar pull / Arch bar side delts pull / Archbar lateral delts pull",
+    "createdAt": 1786372200000
+   },
+   "wa-front-raise": {
+    "id": "wa-front-raise",
+    "name": "Dumbbell Front Raise",
+    "muscle": "Shoulders",
+    "settingLabel": "Machine setting",
+    "setting": null,
+    "photo": null,
+    "note": "You logged this as: Front raises / Fromt raises",
+    "createdAt": 1786372200000
+   },
+   "wa-sh-press": {
+    "id": "wa-sh-press",
+    "name": "Shoulder Press Machine",
+    "muscle": "Shoulders",
+    "settingLabel": "Machine setting",
+    "setting": null,
+    "photo": null,
+    "note": "You logged this as: Shoulder press machine / Shoulder press front delts",
+    "createdAt": 1786372200000
+   },
+   "wa-db-sh-press": {
+    "id": "wa-db-sh-press",
+    "name": "Dumbbell Shoulder Press",
+    "muscle": "Shoulders",
+    "settingLabel": "Machine setting",
+    "setting": null,
+    "photo": null,
+    "note": "You logged this as: Shoulder press",
+    "createdAt": 1786372200000
+   },
+   "wa-face-pull": {
+    "id": "wa-face-pull",
+    "name": "Face Pull",
+    "muscle": "Shoulders",
+    "settingLabel": "Machine setting",
+    "setting": null,
+    "photo": null,
+    "note": "You logged this as: Face pull rear delts / Face pull rod / Face pull bar",
+    "createdAt": 1786372200000
+   },
+   "wa-shrug": {
+    "id": "wa-shrug",
+    "name": "Shrugs",
+    "muscle": "Traps",
+    "settingLabel": "Machine setting",
+    "setting": null,
+    "photo": null,
+    "note": "You logged this as: Shrugs",
+    "createdAt": 1786372200000
+   },
+   "wa-inc-press": {
+    "id": "wa-inc-press",
+    "name": "Incline Dumbbell Press",
+    "muscle": "Chest",
+    "settingLabel": "Machine setting",
+    "setting": null,
+    "photo": null,
+    "note": "You logged this as: Incline dumbbell press / Inclined press / Inclined",
+    "createdAt": 1786372200000
+   },
+   "wa-inc-fly": {
+    "id": "wa-inc-fly",
+    "name": "Incline Dumbbell Fly",
+    "muscle": "Chest",
+    "settingLabel": "Machine setting",
+    "setting": null,
+    "photo": null,
+    "note": "You logged this as: Incline flies / Inclined flies / DB incline flies",
+    "createdAt": 1786372200000
+   },
+   "wa-squeeze": {
+    "id": "wa-squeeze",
+    "name": "Dumbbell Squeeze Press (Upper Chest)",
+    "muscle": "Chest",
+    "settingLabel": "Machine setting",
+    "setting": null,
+    "photo": null,
+    "note": "You logged this as: Upper chest dumbbell forward push / Dumbbell pulls upperchest / DB upper chest pull",
+    "createdAt": 1786372200000
+   },
+   "wa-chest-press": {
+    "id": "wa-chest-press",
+    "name": "Chest Press Machine",
+    "muscle": "Chest",
+    "settingLabel": "Machine setting",
+    "setting": null,
+    "photo": null,
+    "note": "You logged this as: Chest press",
+    "createdAt": 1786372200000
+   },
+   "wa-pec-deck": {
+    "id": "wa-pec-deck",
+    "name": "Pec Deck Fly",
+    "muscle": "Chest",
+    "settingLabel": "Machine setting",
+    "setting": null,
+    "photo": null,
+    "note": "You logged this as: Pecdeck flies / Chest flies pec deck / Pec deck chest",
+    "createdAt": 1786372200000
+   },
+   "wa-kneel-fly": {
+    "id": "wa-kneel-fly",
+    "name": "Kneeling Cable Fly (Lower Chest)",
+    "muscle": "Chest",
+    "settingLabel": "Machine setting",
+    "setting": null,
+    "photo": null,
+    "note": "You logged this as: Cable lower chest knees",
+    "createdAt": 1786372200000
+   },
+   "wa-pushdown": {
+    "id": "wa-pushdown",
+    "name": "Cable Tricep Pushdown",
+    "muscle": "Triceps",
+    "settingLabel": "Machine setting",
+    "setting": null,
+    "photo": null,
+    "note": "You logged this as: Tricep pushdown",
+    "createdAt": 1786372200000
+   },
+   "wa-oh-ext": {
+    "id": "wa-oh-ext",
+    "name": "Overhead Cable Tricep Extension",
+    "muscle": "Triceps",
+    "settingLabel": "Machine setting",
+    "setting": null,
+    "photo": null,
+    "note": "You logged this as: Overhead / Tricep overhead",
+    "createdAt": 1786372200000
+   },
+   "wa-curl": {
+    "id": "wa-curl",
+    "name": "Dumbbell Bicep Curl",
+    "muscle": "Biceps",
+    "settingLabel": "Machine setting",
+    "setting": null,
+    "photo": null,
+    "note": "You logged this as: Bicep curls / Curls",
+    "createdAt": 1786372200000
+   },
+   "wa-bb-curl": {
+    "id": "wa-bb-curl",
+    "name": "Barbell Bicep Curl",
+    "muscle": "Biceps",
+    "settingLabel": "Machine setting",
+    "setting": null,
+    "photo": null,
+    "note": "You logged this as: Bicep curls barbell / Bicep barbell curls",
+    "createdAt": 1786372200000
+   },
+   "wa-cg-curl": {
+    "id": "wa-cg-curl",
+    "name": "Close-Grip Barbell Curl",
+    "muscle": "Biceps",
+    "settingLabel": "Machine setting",
+    "setting": null,
+    "photo": null,
+    "note": "You logged this as: Barbell close grip",
+    "createdAt": 1786372200000
+   },
+   "wa-wg-curl": {
+    "id": "wa-wg-curl",
+    "name": "Wide-Grip Barbell Curl",
+    "muscle": "Biceps",
+    "settingLabel": "Machine setting",
+    "setting": null,
+    "photo": null,
+    "note": "You logged this as: Barbell wide grip",
+    "createdAt": 1786372200000
+   },
+   "wa-hammer": {
+    "id": "wa-hammer",
+    "name": "Hammer Curl",
+    "muscle": "Biceps",
+    "settingLabel": "Machine setting",
+    "setting": null,
+    "photo": null,
+    "note": "You logged this as: Hammers / Hammer curls",
+    "createdAt": 1786372200000
+   },
+   "wa-rope-hammer": {
+    "id": "wa-rope-hammer",
+    "name": "Cable Rope Hammer Curl",
+    "muscle": "Biceps",
+    "settingLabel": "Machine setting",
+    "setting": null,
+    "photo": null,
+    "note": "You logged this as: Rope / Other accessory",
+    "createdAt": 1786372200000
+   },
+   "wa-preacher": {
+    "id": "wa-preacher",
+    "name": "Dumbbell Preacher Curl",
+    "muscle": "Biceps",
+    "settingLabel": "Machine setting",
+    "setting": null,
+    "photo": null,
+    "note": "You logged this as: Preacher / Preacher dumbbells",
+    "createdAt": 1786372200000
+   },
+   "wa-tbar": {
+    "id": "wa-tbar",
+    "name": "T-Bar Row",
+    "muscle": "Back",
+    "settingLabel": "Machine setting",
+    "setting": null,
+    "photo": null,
+    "note": "You logged this as: T bar / T barbell pulls",
+    "createdAt": 1786372200000
+   },
+   "wa-cs-row": {
+    "id": "wa-cs-row",
+    "name": "Chest-Supported Dumbbell Row",
+    "muscle": "Back",
+    "settingLabel": "Machine setting",
+    "setting": null,
+    "photo": null,
+    "note": "You logged this as: Chest supported dumbbell pull T / t pulls",
+    "createdAt": 1786372200000
+   },
+   "wa-lat-pd": {
+    "id": "wa-lat-pd",
+    "name": "Lat Pulldown",
+    "muscle": "Back",
+    "settingLabel": "Machine setting",
+    "setting": null,
+    "photo": null,
+    "note": "You logged this as: Lat pull down",
+    "createdAt": 1786372200000
+   },
+   "wa-sa-row": {
+    "id": "wa-sa-row",
+    "name": "Single-Arm Row",
+    "muscle": "Back",
+    "settingLabel": "Machine setting",
+    "setting": null,
+    "photo": null,
+    "note": "You logged this as: Single hand machine rows / Single hand cable rows / Single arm cable rows",
+    "createdAt": 1786372200000
+   },
+   "wa-leg-ext": {
+    "id": "wa-leg-ext",
+    "name": "Leg Extension",
+    "muscle": "Legs",
+    "settingLabel": "Machine setting",
+    "setting": null,
+    "photo": "data/photos/img_5457.jpg",
+    "note": "You logged this as: Leg extensions",
+    "createdAt": 1786372200000
+   },
+   "wa-leg-curl": {
+    "id": "wa-leg-curl",
+    "name": "Leg Curl Machine",
+    "muscle": "Legs",
+    "settingLabel": "Machine setting",
+    "setting": null,
+    "photo": null,
+    "note": "You logged this as: Leg curls",
+    "createdAt": 1786372200000
+   },
+   "wa-leg-press": {
+    "id": "wa-leg-press",
+    "name": "Leg Press",
+    "muscle": "Legs",
+    "settingLabel": "Machine setting",
+    "setting": null,
+    "photo": null,
+    "note": "You logged this as: Leg press / Leg press quads",
+    "createdAt": 1786372200000
+   },
+   "wa-sumo": {
+    "id": "wa-sumo",
+    "name": "Dumbbell Sumo Squat",
+    "muscle": "Legs",
+    "settingLabel": "Machine setting",
+    "setting": null,
+    "photo": null,
+    "note": "You logged this as: Sumo squats",
+    "createdAt": 1786372200000
+   },
+   "wa-front-squat": {
+    "id": "wa-front-squat",
+    "name": "Front Squat",
+    "muscle": "Legs",
+    "settingLabel": "Machine setting",
+    "setting": null,
+    "photo": null,
+    "note": "You logged this as: Front squats",
+    "createdAt": 1786372200000
+   },
+   "wa-bw-squat": {
+    "id": "wa-bw-squat",
+    "name": "Bodyweight Squat",
+    "muscle": "Legs",
+    "settingLabel": "Machine setting",
+    "setting": null,
+    "photo": null,
+    "note": "You logged this as: Squats / Free squats",
+    "createdAt": 1786372200000
+   }
+  },
+  "meta": {
+   "settings": {
+    "kcal": 2000,
+    "protein": 140,
+    "carbs": 200,
+    "fat": 60,
+    "goalWeight": null,
+    "splits": [
+     "Chest + Tri",
+     "Back + Bi",
+     "Shoulders",
+     "Arms",
+     "Legs",
+     "Push",
+     "Pull",
+     "Full body"
+    ]
+   }
+  }
+ }
+}
