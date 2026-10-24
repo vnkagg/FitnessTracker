@@ -1,7 +1,7 @@
 // Offline support: the app opens without a connection after the first visit.
 // Bump VERSION whenever you change index.html so phones pick up the new copy.
-const VERSION = 'ftf-v2';
-const SHELL = ['./', './index.html', './manifest.webmanifest', './vendor/chart.umd.min.js',
+const VERSION = 'ftf-v3';
+const SHELL = ['./', './index.html', './manifest.webmanifest', './vendor/chart.umd.min.js', './guide-data.js',
   './icons/icon-192.png', './icons/icon-512.png', './icons/apple-touch-icon.png'];
 
 self.addEventListener('install', e => {

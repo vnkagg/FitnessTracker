@@ -1,5 +1,5 @@
 {
- "version": "whatsapp-2026-10-23b",
+ "version": "seed-2026-10-24",
  "data": {
   "gym": {
    "wa-2026-08-10": {
@@ -13,7 +13,7 @@
     "entries": [
      {
       "id": "wa-e2026-08-10-0",
-      "exId": "wa-face-pull",
+      "exId": "shoulders-face-pull",
       "name": "Face Pull",
       "muscle": "Shoulders",
       "settingLabel": "Machine setting",
@@ -64,7 +64,7 @@
      },
      {
       "id": "wa-e2026-08-10-1",
-      "exId": "wa-rev-cable",
+      "exId": "shoulders-reverse-cable-fly-rear-delts",
       "name": "Reverse Cable Fly (Rear Delts)",
       "muscle": "Shoulders",
       "settingLabel": "Machine setting",
@@ -115,7 +115,7 @@
      },
      {
       "id": "wa-e2026-08-10-2",
-      "exId": "wa-lat-raise",
+      "exId": "shoulders-dumbbell-lateral-raise",
       "name": "Dumbbell Lateral Raise",
       "muscle": "Shoulders",
       "settingLabel": "Machine setting",
@@ -162,8 +162,8 @@
      },
      {
       "id": "wa-e2026-08-10-3",
-      "exId": "wa-upright-row",
-      "name": "Cable Upright Row (EZ bar)",
+      "exId": "shoulders-upright-row",
+      "name": "Upright Row",
       "muscle": "Shoulders",
       "settingLabel": "Machine setting",
       "setting": null,
@@ -210,8 +210,8 @@
      },
      {
       "id": "wa-e2026-08-10-4",
-      "exId": "wa-db-sh-press",
-      "name": "Dumbbell Shoulder Press",
+      "exId": "shoulders-seated-dumbbell-press",
+      "name": "Seated Dumbbell Press",
       "muscle": "Shoulders",
       "settingLabel": "Machine setting",
       "setting": null,
@@ -261,7 +261,7 @@
      },
      {
       "id": "wa-e2026-08-10-5",
-      "exId": "wa-sh-press",
+      "exId": "shoulders-shoulder-press-machine",
       "name": "Shoulder Press Machine",
       "muscle": "Shoulders",
       "settingLabel": "Machine setting",
@@ -308,8 +308,8 @@
      },
      {
       "id": "wa-e2026-08-10-6",
-      "exId": "wa-front-raise",
-      "name": "Dumbbell Front Raise",
+      "exId": "shoulders-front-raise",
+      "name": "Front Raise",
       "muscle": "Shoulders",
       "settingLabel": "Machine setting",
       "setting": null,
@@ -350,8 +350,8 @@
      },
      {
       "id": "wa-e2026-08-10-7",
-      "exId": "wa-shrug",
-      "name": "Shrugs",
+      "exId": "traps-dumbbell-shrug",
+      "name": "Dumbbell Shrug",
       "muscle": "Traps",
       "settingLabel": "Machine setting",
       "setting": null,
@@ -404,8 +404,8 @@
     "entries": [
      {
       "id": "wa-e2026-08-11-0",
-      "exId": "wa-bb-curl",
-      "name": "Barbell Bicep Curl",
+      "exId": "biceps-barbell-curl",
+      "name": "Barbell Curl",
       "muscle": "Biceps",
       "settingLabel": "Machine setting",
       "setting": null,
@@ -451,7 +451,7 @@
      },
      {
       "id": "wa-e2026-08-11-1",
-      "exId": "wa-hammer",
+      "exId": "biceps-hammer-curl",
       "name": "Hammer Curl",
       "muscle": "Biceps",
       "settingLabel": "Machine setting",
@@ -489,8 +489,8 @@
      },
      {
       "id": "wa-e2026-08-11-2",
-      "exId": "wa-preacher",
-      "name": "Dumbbell Preacher Curl",
+      "exId": "biceps-single-arm-preacher-curl",
+      "name": "Single-Arm Preacher Curl",
       "muscle": "Biceps",
       "settingLabel": "Machine setting",
       "setting": null,
@@ -535,7 +535,7 @@
      },
      {
       "id": "wa-e2026-08-11-3",
-      "exId": "wa-cg-curl",
+      "exId": "biceps-close-grip-barbell-curl",
       "name": "Close-Grip Barbell Curl",
       "muscle": "Biceps",
       "settingLabel": "Machine setting",
@@ -577,7 +577,7 @@
      },
      {
       "id": "wa-e2026-08-11-4",
-      "exId": "wa-wg-curl",
+      "exId": "biceps-wide-grip-barbell-curl",
       "name": "Wide-Grip Barbell Curl",
       "muscle": "Biceps",
       "settingLabel": "Machine setting",
@@ -622,7 +622,7 @@
     "entries": [
      {
       "id": "wa-e2026-08-15-0",
-      "exId": "wa-inc-press",
+      "exId": "chest-incline-dumbbell-press",
       "name": "Incline Dumbbell Press",
       "muscle": "Chest",
       "settingLabel": "Machine setting",
@@ -675,7 +675,7 @@
      },
      {
       "id": "wa-e2026-08-15-1",
-      "exId": "wa-inc-fly",
+      "exId": "chest-incline-dumbbell-fly",
       "name": "Incline Dumbbell Fly",
       "muscle": "Chest",
       "settingLabel": "Machine setting",
@@ -717,7 +717,7 @@
      },
      {
       "id": "wa-e2026-08-15-2",
-      "exId": "wa-squeeze",
+      "exId": "chest-dumbbell-squeeze-press-upper-chest",
       "name": "Dumbbell Squeeze Press (Upper Chest)",
       "muscle": "Chest",
       "settingLabel": "Machine setting",
@@ -764,7 +764,7 @@
      },
      {
       "id": "wa-e2026-08-15-3",
-      "exId": "wa-chest-press",
+      "exId": "chest-chest-press-machine",
       "name": "Chest Press Machine",
       "muscle": "Chest",
       "settingLabel": "Machine setting",
@@ -797,8 +797,8 @@
      },
      {
       "id": "wa-e2026-08-15-4",
-      "exId": "wa-pec-deck",
-      "name": "Pec Deck Fly",
+      "exId": "chest-pec-deck",
+      "name": "Pec Deck",
       "muscle": "Chest",
       "settingLabel": "Machine setting",
       "setting": null,
@@ -844,7 +844,7 @@
      },
      {
       "id": "wa-e2026-08-15-5",
-      "exId": "wa-kneel-fly",
+      "exId": "chest-kneeling-cable-fly-lower-chest",
       "name": "Kneeling Cable Fly (Lower Chest)",
       "muscle": "Chest",
       "settingLabel": "Machine setting",
@@ -889,7 +889,7 @@
     "entries": [
      {
       "id": "wa-e2026-08-16-0",
-      "exId": "wa-lat-pd",
+      "exId": "back-lat-pulldown",
       "name": "Lat Pulldown",
       "muscle": "Back",
       "settingLabel": "Machine setting",
@@ -931,7 +931,7 @@
      },
      {
       "id": "wa-e2026-08-16-1",
-      "exId": "wa-face-pull",
+      "exId": "shoulders-face-pull",
       "name": "Face Pull",
       "muscle": "Shoulders",
       "settingLabel": "Machine setting",
@@ -982,8 +982,8 @@
      },
      {
       "id": "wa-e2026-08-16-2",
-      "exId": "wa-sa-row",
-      "name": "Single-Arm Row",
+      "exId": "back-single-arm-cable-row",
+      "name": "Single-Arm Cable Row",
       "muscle": "Back",
       "settingLabel": "Machine setting",
       "setting": null,
@@ -1024,7 +1024,7 @@
      },
      {
       "id": "wa-e2026-08-16-3",
-      "exId": "wa-cs-row",
+      "exId": "back-chest-supported-dumbbell-row",
       "name": "Chest-Supported Dumbbell Row",
       "muscle": "Back",
       "settingLabel": "Machine setting",
@@ -1066,7 +1066,7 @@
      },
      {
       "id": "wa-e2026-08-16-4",
-      "exId": "wa-tbar",
+      "exId": "back-t-bar-row",
       "name": "T-Bar Row",
       "muscle": "Back",
       "settingLabel": "Machine setting",
@@ -1115,7 +1115,7 @@
      },
      {
       "id": "wa-e2026-08-16-5",
-      "exId": "wa-hammer",
+      "exId": "biceps-hammer-curl",
       "name": "Hammer Curl",
       "muscle": "Biceps",
       "settingLabel": "Machine setting",
@@ -1153,7 +1153,7 @@
      },
      {
       "id": "wa-e2026-08-16-6",
-      "exId": "wa-rope-hammer",
+      "exId": "biceps-cable-rope-hammer-curl",
       "name": "Cable Rope Hammer Curl",
       "muscle": "Biceps",
       "settingLabel": "Machine setting",
@@ -1186,8 +1186,8 @@
      },
      {
       "id": "wa-e2026-08-16-7",
-      "exId": "wa-preacher",
-      "name": "Dumbbell Preacher Curl",
+      "exId": "biceps-single-arm-preacher-curl",
+      "name": "Single-Arm Preacher Curl",
       "muscle": "Biceps",
       "settingLabel": "Machine setting",
       "setting": null,
@@ -1279,7 +1279,7 @@
     "entries": [
      {
       "id": "wa-e2026-08-18-0",
-      "exId": "wa-lat-raise",
+      "exId": "shoulders-dumbbell-lateral-raise",
       "name": "Dumbbell Lateral Raise",
       "muscle": "Shoulders",
       "settingLabel": "Machine setting",
@@ -1330,8 +1330,8 @@
      },
      {
       "id": "wa-e2026-08-18-1",
-      "exId": "wa-front-raise",
-      "name": "Dumbbell Front Raise",
+      "exId": "shoulders-front-raise",
+      "name": "Front Raise",
       "muscle": "Shoulders",
       "settingLabel": "Machine setting",
       "setting": null,
@@ -1381,7 +1381,7 @@
      },
      {
       "id": "wa-e2026-08-18-2",
-      "exId": "wa-sh-press",
+      "exId": "shoulders-shoulder-press-machine",
       "name": "Shoulder Press Machine",
       "muscle": "Shoulders",
       "settingLabel": "Machine setting",
@@ -1432,8 +1432,8 @@
      },
      {
       "id": "wa-e2026-08-18-3",
-      "exId": "wa-rev-fly",
-      "name": "Reverse Pec Deck (Rear Delt Fly)",
+      "exId": "shoulders-reverse-pec-deck",
+      "name": "Reverse Pec Deck",
       "muscle": "Shoulders",
       "settingLabel": "Height",
       "setting": "6",
@@ -1479,7 +1479,7 @@
      },
      {
       "id": "wa-e2026-08-18-4",
-      "exId": "wa-face-pull",
+      "exId": "shoulders-face-pull",
       "name": "Face Pull",
       "muscle": "Shoulders",
       "settingLabel": "Machine setting",
@@ -1538,8 +1538,8 @@
     "entries": [
      {
       "id": "wa-e2026-08-19-0",
-      "exId": "wa-bb-curl",
-      "name": "Barbell Bicep Curl",
+      "exId": "biceps-barbell-curl",
+      "name": "Barbell Curl",
       "muscle": "Biceps",
       "settingLabel": "Machine setting",
       "setting": null,
@@ -1590,7 +1590,7 @@
      },
      {
       "id": "wa-e2026-08-19-1",
-      "exId": "wa-hammer",
+      "exId": "biceps-hammer-curl",
       "name": "Hammer Curl",
       "muscle": "Biceps",
       "settingLabel": "Machine setting",
@@ -1642,8 +1642,8 @@
      },
      {
       "id": "wa-e2026-08-19-2",
-      "exId": "wa-oh-ext",
-      "name": "Overhead Cable Tricep Extension",
+      "exId": "triceps-cable-overhead-rope-extension",
+      "name": "Cable Overhead Rope Extension",
       "muscle": "Triceps",
       "settingLabel": "Machine setting",
       "setting": null,
@@ -1696,7 +1696,7 @@
     "entries": [
      {
       "id": "wa-e2026-08-20-0",
-      "exId": "wa-sumo",
+      "exId": "glutes-dumbbell-sumo-squat",
       "name": "Dumbbell Sumo Squat",
       "muscle": "Legs",
       "settingLabel": "Machine setting",
@@ -1738,7 +1738,7 @@
      },
      {
       "id": "wa-e2026-08-20-1",
-      "exId": "wa-front-squat",
+      "exId": "quads-front-squat",
       "name": "Front Squat",
       "muscle": "Legs",
       "settingLabel": "Machine setting",
@@ -1762,7 +1762,7 @@
      },
      {
       "id": "wa-e2026-08-20-2",
-      "exId": "wa-leg-ext",
+      "exId": "quads-leg-extension",
       "name": "Leg Extension",
       "muscle": "Legs",
       "settingLabel": "Machine setting",
@@ -1804,8 +1804,8 @@
      },
      {
       "id": "wa-e2026-08-20-3",
-      "exId": "wa-leg-curl",
-      "name": "Leg Curl Machine",
+      "exId": "hamstrings-seated-leg-curl",
+      "name": "Seated Leg Curl",
       "muscle": "Legs",
       "settingLabel": "Machine setting",
       "setting": null,
@@ -1846,7 +1846,7 @@
      },
      {
       "id": "wa-e2026-08-20-4",
-      "exId": "wa-leg-press",
+      "exId": "quads-leg-press",
       "name": "Leg Press",
       "muscle": "Legs",
       "settingLabel": "Machine setting",
@@ -1888,7 +1888,7 @@
      },
      {
       "id": "wa-e2026-08-20-5",
-      "exId": "wa-leg-ext",
+      "exId": "quads-leg-extension",
       "name": "Leg Extension",
       "muscle": "Legs",
       "settingLabel": "Machine setting",
@@ -1942,7 +1942,7 @@
     "entries": [
      {
       "id": "wa-e2026-08-22-0",
-      "exId": "wa-inc-press",
+      "exId": "chest-incline-dumbbell-press",
       "name": "Incline Dumbbell Press",
       "muscle": "Chest",
       "settingLabel": "Machine setting",
@@ -2000,7 +2000,7 @@
      },
      {
       "id": "wa-e2026-08-22-1",
-      "exId": "wa-inc-fly",
+      "exId": "chest-incline-dumbbell-fly",
       "name": "Incline Dumbbell Fly",
       "muscle": "Chest",
       "settingLabel": "Machine setting",
@@ -2042,7 +2042,7 @@
      },
      {
       "id": "wa-e2026-08-22-2",
-      "exId": "wa-chest-press",
+      "exId": "chest-chest-press-machine",
       "name": "Chest Press Machine",
       "muscle": "Chest",
       "settingLabel": "Machine setting",
@@ -2106,7 +2106,7 @@
     "entries": [
      {
       "id": "wa-e2026-08-24-0",
-      "exId": "wa-bw-squat",
+      "exId": "quads-bodyweight-squat",
       "name": "Bodyweight Squat",
       "muscle": "Legs",
       "settingLabel": "Machine setting",
@@ -2148,7 +2148,7 @@
      },
      {
       "id": "wa-e2026-08-24-1",
-      "exId": "wa-leg-ext",
+      "exId": "quads-leg-extension",
       "name": "Leg Extension",
       "muscle": "Legs",
       "settingLabel": "Machine setting",
@@ -2199,8 +2199,8 @@
      },
      {
       "id": "wa-e2026-08-24-2",
-      "exId": "wa-leg-curl",
-      "name": "Leg Curl Machine",
+      "exId": "hamstrings-seated-leg-curl",
+      "name": "Seated Leg Curl",
       "muscle": "Legs",
       "settingLabel": "Machine setting",
       "setting": null,
@@ -2241,7 +2241,7 @@
      },
      {
       "id": "wa-e2026-08-24-3",
-      "exId": "wa-leg-press",
+      "exId": "quads-leg-press",
       "name": "Leg Press",
       "muscle": "Legs",
       "settingLabel": "Machine setting",
@@ -2304,7 +2304,7 @@
     "entries": [
      {
       "id": "wa-e2026-08-30-0",
-      "exId": "wa-leg-ext",
+      "exId": "quads-leg-extension",
       "name": "Leg Extension",
       "muscle": "Legs",
       "settingLabel": "Machine setting",
@@ -2346,8 +2346,8 @@
      },
      {
       "id": "wa-e2026-08-30-1",
-      "exId": "wa-leg-curl",
-      "name": "Leg Curl Machine",
+      "exId": "hamstrings-seated-leg-curl",
+      "name": "Seated Leg Curl",
       "muscle": "Legs",
       "settingLabel": "Machine setting",
       "setting": null,
@@ -2400,7 +2400,7 @@
     "entries": [
      {
       "id": "wa-e2026-09-02-0",
-      "exId": "wa-sumo",
+      "exId": "glutes-dumbbell-sumo-squat",
       "name": "Dumbbell Sumo Squat",
       "muscle": "Legs",
       "settingLabel": "Machine setting",
@@ -2442,7 +2442,7 @@
      },
      {
       "id": "wa-e2026-09-02-1",
-      "exId": "wa-bw-squat",
+      "exId": "quads-bodyweight-squat",
       "name": "Bodyweight Squat",
       "muscle": "Legs",
       "settingLabel": "Machine setting",
@@ -2475,7 +2475,7 @@
      },
      {
       "id": "wa-e2026-09-02-2",
-      "exId": "wa-leg-ext",
+      "exId": "quads-leg-extension",
       "name": "Leg Extension",
       "muscle": "Legs",
       "settingLabel": "Machine setting",
@@ -2517,8 +2517,8 @@
      },
      {
       "id": "wa-e2026-09-02-3",
-      "exId": "wa-leg-curl",
-      "name": "Leg Curl Machine",
+      "exId": "hamstrings-seated-leg-curl",
+      "name": "Seated Leg Curl",
       "muscle": "Legs",
       "settingLabel": "Machine setting",
       "setting": null,
@@ -2559,7 +2559,7 @@
      },
      {
       "id": "wa-e2026-09-02-4",
-      "exId": "wa-leg-press",
+      "exId": "quads-leg-press",
       "name": "Leg Press",
       "muscle": "Legs",
       "settingLabel": "Machine setting",
@@ -2613,7 +2613,7 @@
     "entries": [
      {
       "id": "wa-e2026-09-13-0",
-      "exId": "wa-inc-press",
+      "exId": "chest-incline-dumbbell-press",
       "name": "Incline Dumbbell Press",
       "muscle": "Chest",
       "settingLabel": "Machine setting",
@@ -2655,7 +2655,7 @@
      },
      {
       "id": "wa-e2026-09-13-1",
-      "exId": "wa-inc-fly",
+      "exId": "chest-incline-dumbbell-fly",
       "name": "Incline Dumbbell Fly",
       "muscle": "Chest",
       "settingLabel": "Machine setting",
@@ -2697,7 +2697,7 @@
      },
      {
       "id": "wa-e2026-09-13-2",
-      "exId": "wa-chest-press",
+      "exId": "chest-chest-press-machine",
       "name": "Chest Press Machine",
       "muscle": "Chest",
       "settingLabel": "Machine setting",
@@ -2751,7 +2751,7 @@
     "entries": [
      {
       "id": "wa-e2026-09-15-0",
-      "exId": "wa-lat-pd",
+      "exId": "back-lat-pulldown",
       "name": "Lat Pulldown",
       "muscle": "Back",
       "settingLabel": "Machine setting",
@@ -2800,7 +2800,7 @@
      },
      {
       "id": "wa-e2026-09-15-1",
-      "exId": "wa-face-pull",
+      "exId": "shoulders-face-pull",
       "name": "Face Pull",
       "muscle": "Shoulders",
       "settingLabel": "Machine setting",
@@ -2842,7 +2842,7 @@
      },
      {
       "id": "wa-e2026-09-15-2",
-      "exId": "wa-tbar",
+      "exId": "back-t-bar-row",
       "name": "T-Bar Row",
       "muscle": "Back",
       "settingLabel": "Machine setting",
@@ -2889,8 +2889,8 @@
      },
      {
       "id": "wa-e2026-09-15-3",
-      "exId": "wa-curl",
-      "name": "Dumbbell Bicep Curl",
+      "exId": "biceps-alternating-dumbbell-curl",
+      "name": "Alternating Dumbbell Curl",
       "muscle": "Biceps",
       "settingLabel": "Machine setting",
       "setting": null,
@@ -2946,7 +2946,7 @@
      },
      {
       "id": "wa-e2026-09-15-4",
-      "exId": "wa-hammer",
+      "exId": "biceps-hammer-curl",
       "name": "Hammer Curl",
       "muscle": "Biceps",
       "settingLabel": "Machine setting",
@@ -2998,8 +2998,8 @@
      },
      {
       "id": "wa-e2026-09-15-5",
-      "exId": "wa-curl",
-      "name": "Dumbbell Bicep Curl",
+      "exId": "biceps-alternating-dumbbell-curl",
+      "name": "Alternating Dumbbell Curl",
       "muscle": "Biceps",
       "settingLabel": "Machine setting",
       "setting": null,
@@ -3041,7 +3041,7 @@
     "entries": [
      {
       "id": "wa-e2026-09-16-0",
-      "exId": "wa-bw-squat",
+      "exId": "quads-bodyweight-squat",
       "name": "Bodyweight Squat",
       "muscle": "Legs",
       "settingLabel": "Machine setting",
@@ -3055,7 +3055,7 @@
      },
      {
       "id": "wa-e2026-09-16-1",
-      "exId": "wa-sumo",
+      "exId": "glutes-dumbbell-sumo-squat",
       "name": "Dumbbell Sumo Squat",
       "muscle": "Legs",
       "settingLabel": "Machine setting",
@@ -3069,7 +3069,7 @@
      },
      {
       "id": "wa-e2026-09-16-2",
-      "exId": "wa-leg-ext",
+      "exId": "quads-leg-extension",
       "name": "Leg Extension",
       "muscle": "Legs",
       "settingLabel": "Machine setting",
@@ -3128,8 +3128,8 @@
     "entries": [
      {
       "id": "wa-e2026-09-17-0",
-      "exId": "wa-front-raise",
-      "name": "Dumbbell Front Raise",
+      "exId": "shoulders-front-raise",
+      "name": "Front Raise",
       "muscle": "Shoulders",
       "settingLabel": "Machine setting",
       "setting": null,
@@ -3175,7 +3175,7 @@
      },
      {
       "id": "wa-e2026-09-17-1",
-      "exId": "wa-sh-press",
+      "exId": "shoulders-shoulder-press-machine",
       "name": "Shoulder Press Machine",
       "muscle": "Shoulders",
       "settingLabel": "Machine setting",
@@ -3217,7 +3217,7 @@
      },
      {
       "id": "wa-e2026-09-17-2",
-      "exId": "wa-lat-raise",
+      "exId": "shoulders-dumbbell-lateral-raise",
       "name": "Dumbbell Lateral Raise",
       "muscle": "Shoulders",
       "settingLabel": "Machine setting",
@@ -3264,8 +3264,8 @@
      },
      {
       "id": "wa-e2026-09-17-3",
-      "exId": "wa-upright-row",
-      "name": "Cable Upright Row (EZ bar)",
+      "exId": "shoulders-upright-row",
+      "name": "Upright Row",
       "muscle": "Shoulders",
       "settingLabel": "Machine setting",
       "setting": null,
@@ -3306,8 +3306,8 @@
      },
      {
       "id": "wa-e2026-09-17-4",
-      "exId": "wa-rev-fly",
-      "name": "Reverse Pec Deck (Rear Delt Fly)",
+      "exId": "shoulders-reverse-pec-deck",
+      "name": "Reverse Pec Deck",
       "muscle": "Shoulders",
       "settingLabel": "Height",
       "setting": "6",
@@ -3365,8 +3365,8 @@
     "entries": [
      {
       "id": "wa-e2026-09-18-0",
-      "exId": "wa-curl",
-      "name": "Dumbbell Bicep Curl",
+      "exId": "biceps-alternating-dumbbell-curl",
+      "name": "Alternating Dumbbell Curl",
       "muscle": "Biceps",
       "settingLabel": "Machine setting",
       "setting": null,
@@ -3412,8 +3412,8 @@
      },
      {
       "id": "wa-e2026-09-18-1",
-      "exId": "wa-pushdown",
-      "name": "Cable Tricep Pushdown",
+      "exId": "triceps-rope-pushdown",
+      "name": "Rope Pushdown",
       "muscle": "Triceps",
       "settingLabel": "Machine setting",
       "setting": null,
@@ -3459,7 +3459,7 @@
      },
      {
       "id": "wa-e2026-09-18-2",
-      "exId": "wa-hammer",
+      "exId": "biceps-hammer-curl",
       "name": "Hammer Curl",
       "muscle": "Biceps",
       "settingLabel": "Machine setting",
@@ -3515,8 +3515,8 @@
      },
      {
       "id": "wa-e2026-09-18-3",
-      "exId": "wa-oh-ext",
-      "name": "Overhead Cable Tricep Extension",
+      "exId": "triceps-cable-overhead-rope-extension",
+      "name": "Cable Overhead Rope Extension",
       "muscle": "Triceps",
       "settingLabel": "Machine setting",
       "setting": null,
@@ -3569,7 +3569,7 @@
     "entries": [
      {
       "id": "wa-e2026-09-19-0",
-      "exId": "wa-inc-press",
+      "exId": "chest-incline-dumbbell-press",
       "name": "Incline Dumbbell Press",
       "muscle": "Chest",
       "settingLabel": "Machine setting",
@@ -3611,7 +3611,7 @@
      },
      {
       "id": "wa-e2026-09-19-1",
-      "exId": "wa-inc-fly",
+      "exId": "chest-incline-dumbbell-fly",
       "name": "Incline Dumbbell Fly",
       "muscle": "Chest",
       "settingLabel": "Machine setting",
@@ -3653,7 +3653,7 @@
      },
      {
       "id": "wa-e2026-09-19-2",
-      "exId": "wa-squeeze",
+      "exId": "chest-dumbbell-squeeze-press-upper-chest",
       "name": "Dumbbell Squeeze Press (Upper Chest)",
       "muscle": "Chest",
       "settingLabel": "Machine setting",
@@ -3700,7 +3700,7 @@
      },
      {
       "id": "wa-e2026-09-19-3",
-      "exId": "wa-chest-press",
+      "exId": "chest-chest-press-machine",
       "name": "Chest Press Machine",
       "muscle": "Chest",
       "settingLabel": "Machine setting",
@@ -3752,8 +3752,8 @@
      },
      {
       "id": "wa-e2026-09-19-4",
-      "exId": "wa-pec-deck",
-      "name": "Pec Deck Fly",
+      "exId": "chest-pec-deck",
+      "name": "Pec Deck",
       "muscle": "Chest",
       "settingLabel": "Machine setting",
       "setting": null,
@@ -3815,7 +3815,7 @@
     "entries": [
      {
       "id": "wa-e2026-09-22-0",
-      "exId": "wa-lat-raise",
+      "exId": "shoulders-dumbbell-lateral-raise",
       "name": "Dumbbell Lateral Raise",
       "muscle": "Shoulders",
       "settingLabel": "Machine setting",
@@ -3862,8 +3862,8 @@
      },
      {
       "id": "wa-e2026-09-22-1",
-      "exId": "wa-rev-fly",
-      "name": "Reverse Pec Deck (Rear Delt Fly)",
+      "exId": "shoulders-reverse-pec-deck",
+      "name": "Reverse Pec Deck",
       "muscle": "Shoulders",
       "settingLabel": "Height",
       "setting": "6",
@@ -3936,8 +3936,8 @@
      },
      {
       "id": "wa-e2026-09-22-2",
-      "exId": "wa-upright-row",
-      "name": "Cable Upright Row (EZ bar)",
+      "exId": "shoulders-upright-row",
+      "name": "Upright Row",
       "muscle": "Shoulders",
       "settingLabel": "Machine setting",
       "setting": null,
@@ -3978,8 +3978,8 @@
      },
      {
       "id": "wa-e2026-09-22-3",
-      "exId": "wa-front-raise",
-      "name": "Dumbbell Front Raise",
+      "exId": "shoulders-front-raise",
+      "name": "Front Raise",
       "muscle": "Shoulders",
       "settingLabel": "Machine setting",
       "setting": null,
@@ -4025,7 +4025,7 @@
      },
      {
       "id": "wa-e2026-09-22-4",
-      "exId": "wa-sh-press",
+      "exId": "shoulders-shoulder-press-machine",
       "name": "Shoulder Press Machine",
       "muscle": "Shoulders",
       "settingLabel": "Machine setting",
@@ -4076,8 +4076,8 @@
      },
      {
       "id": "wa-e2026-09-22-5",
-      "exId": "wa-shrug",
-      "name": "Shrugs",
+      "exId": "traps-dumbbell-shrug",
+      "name": "Dumbbell Shrug",
       "muscle": "Traps",
       "settingLabel": "Machine setting",
       "setting": null,
@@ -4130,7 +4130,7 @@
     "entries": [
      {
       "id": "wa-e2026-09-25-0",
-      "exId": "wa-inc-press",
+      "exId": "chest-incline-dumbbell-press",
       "name": "Incline Dumbbell Press",
       "muscle": "Chest",
       "settingLabel": "Machine setting",
@@ -4174,7 +4174,7 @@
      },
      {
       "id": "wa-e2026-09-25-1",
-      "exId": "wa-inc-fly",
+      "exId": "chest-incline-dumbbell-fly",
       "name": "Incline Dumbbell Fly",
       "muscle": "Chest",
       "settingLabel": "Machine setting",
@@ -4216,7 +4216,7 @@
      },
      {
       "id": "wa-e2026-09-25-2",
-      "exId": "wa-squeeze",
+      "exId": "chest-dumbbell-squeeze-press-upper-chest",
       "name": "Dumbbell Squeeze Press (Upper Chest)",
       "muscle": "Chest",
       "settingLabel": "Machine setting",
@@ -4267,7 +4267,7 @@
      },
      {
       "id": "wa-e2026-09-25-3",
-      "exId": "wa-chest-press",
+      "exId": "chest-chest-press-machine",
       "name": "Chest Press Machine",
       "muscle": "Chest",
       "settingLabel": "Machine setting",
@@ -4318,8 +4318,8 @@
      },
      {
       "id": "wa-e2026-09-25-4",
-      "exId": "wa-pec-deck",
-      "name": "Pec Deck Fly",
+      "exId": "chest-pec-deck",
+      "name": "Pec Deck",
       "muscle": "Chest",
       "settingLabel": "Machine setting",
       "setting": null,
@@ -4369,8 +4369,8 @@
      },
      {
       "id": "wa-e2026-09-25-5",
-      "exId": "wa-pushdown",
-      "name": "Cable Tricep Pushdown",
+      "exId": "triceps-rope-pushdown",
+      "name": "Rope Pushdown",
       "muscle": "Triceps",
       "settingLabel": "Machine setting",
       "setting": null,
@@ -4416,8 +4416,8 @@
      },
      {
       "id": "wa-e2026-09-25-6",
-      "exId": "wa-oh-ext",
-      "name": "Overhead Cable Tricep Extension",
+      "exId": "triceps-cable-overhead-rope-extension",
+      "name": "Cable Overhead Rope Extension",
       "muscle": "Triceps",
       "settingLabel": "Machine setting",
       "setting": null,
@@ -4461,7 +4461,7 @@
     "entries": [
      {
       "id": "wa-e2026-09-26-0",
-      "exId": "wa-tbar",
+      "exId": "back-t-bar-row",
       "name": "T-Bar Row",
       "muscle": "Back",
       "settingLabel": "Machine setting",
@@ -4503,8 +4503,8 @@
      },
      {
       "id": "wa-e2026-09-26-1",
-      "exId": "wa-rev-fly",
-      "name": "Reverse Pec Deck (Rear Delt Fly)",
+      "exId": "shoulders-reverse-pec-deck",
+      "name": "Reverse Pec Deck",
       "muscle": "Shoulders",
       "settingLabel": "Height",
       "setting": "6",
@@ -4554,8 +4554,8 @@
      },
      {
       "id": "wa-e2026-09-26-2",
-      "exId": "wa-curl",
-      "name": "Dumbbell Bicep Curl",
+      "exId": "biceps-alternating-dumbbell-curl",
+      "name": "Alternating Dumbbell Curl",
       "muscle": "Biceps",
       "settingLabel": "Machine setting",
       "setting": null,
@@ -4608,7 +4608,7 @@
      },
      {
       "id": "wa-e2026-09-26-3",
-      "exId": "wa-cs-row",
+      "exId": "back-chest-supported-dumbbell-row",
       "name": "Chest-Supported Dumbbell Row",
       "muscle": "Back",
       "settingLabel": "Machine setting",
@@ -4662,7 +4662,7 @@
     "entries": [
      {
       "id": "wa-e2026-09-27-0",
-      "exId": "wa-lat-raise",
+      "exId": "shoulders-dumbbell-lateral-raise",
       "name": "Dumbbell Lateral Raise",
       "muscle": "Shoulders",
       "settingLabel": "Machine setting",
@@ -4709,8 +4709,8 @@
      },
      {
       "id": "wa-e2026-09-27-1",
-      "exId": "wa-upright-row",
-      "name": "Cable Upright Row (EZ bar)",
+      "exId": "shoulders-upright-row",
+      "name": "Upright Row",
       "muscle": "Shoulders",
       "settingLabel": "Machine setting",
       "setting": null,
@@ -4751,8 +4751,8 @@
      },
      {
       "id": "wa-e2026-09-27-2",
-      "exId": "wa-front-raise",
-      "name": "Dumbbell Front Raise",
+      "exId": "shoulders-front-raise",
+      "name": "Front Raise",
       "muscle": "Shoulders",
       "settingLabel": "Machine setting",
       "setting": null,
@@ -4798,7 +4798,7 @@
      },
      {
       "id": "wa-e2026-09-27-3",
-      "exId": "wa-sh-press",
+      "exId": "shoulders-shoulder-press-machine",
       "name": "Shoulder Press Machine",
       "muscle": "Shoulders",
       "settingLabel": "Machine setting",
@@ -4861,8 +4861,8 @@
     "entries": [
      {
       "id": "wa-e2026-09-28-0",
-      "exId": "wa-curl",
-      "name": "Dumbbell Bicep Curl",
+      "exId": "biceps-alternating-dumbbell-curl",
+      "name": "Alternating Dumbbell Curl",
       "muscle": "Biceps",
       "settingLabel": "Machine setting",
       "setting": null,
@@ -4908,7 +4908,7 @@
      },
      {
       "id": "wa-e2026-09-28-1",
-      "exId": "wa-hammer",
+      "exId": "biceps-hammer-curl",
       "name": "Hammer Curl",
       "muscle": "Biceps",
       "settingLabel": "Machine setting",
@@ -4959,8 +4959,8 @@
      },
      {
       "id": "wa-e2026-09-28-2",
-      "exId": "wa-curl",
-      "name": "Dumbbell Bicep Curl",
+      "exId": "biceps-alternating-dumbbell-curl",
+      "name": "Alternating Dumbbell Curl",
       "muscle": "Biceps",
       "settingLabel": "Machine setting",
       "setting": null,
@@ -4992,8 +4992,8 @@
      },
      {
       "id": "wa-e2026-09-28-3",
-      "exId": "wa-pushdown",
-      "name": "Cable Tricep Pushdown",
+      "exId": "triceps-rope-pushdown",
+      "name": "Rope Pushdown",
       "muscle": "Triceps",
       "settingLabel": "Machine setting",
       "setting": null,
@@ -5039,8 +5039,8 @@
      },
      {
       "id": "wa-e2026-09-28-4",
-      "exId": "wa-oh-ext",
-      "name": "Overhead Cable Tricep Extension",
+      "exId": "triceps-cable-overhead-rope-extension",
+      "name": "Cable Overhead Rope Extension",
       "muscle": "Triceps",
       "settingLabel": "Machine setting",
       "setting": null,
@@ -5093,7 +5093,7 @@
     "entries": [
      {
       "id": "wa-e2026-09-29-0",
-      "exId": "wa-leg-ext",
+      "exId": "quads-leg-extension",
       "name": "Leg Extension",
       "muscle": "Legs",
       "settingLabel": "Machine setting",
@@ -5153,8 +5153,8 @@
      },
      {
       "id": "wa-e2026-09-29-1",
-      "exId": "wa-leg-curl",
-      "name": "Leg Curl Machine",
+      "exId": "hamstrings-seated-leg-curl",
+      "name": "Seated Leg Curl",
       "muscle": "Legs",
       "settingLabel": "Machine setting",
       "setting": null,
@@ -5207,7 +5207,7 @@
     "entries": [
      {
       "id": "wa-e2026-10-05-0",
-      "exId": "wa-lat-raise",
+      "exId": "shoulders-dumbbell-lateral-raise",
       "name": "Dumbbell Lateral Raise",
       "muscle": "Shoulders",
       "settingLabel": "Machine setting",
@@ -5254,8 +5254,8 @@
      },
      {
       "id": "wa-e2026-10-05-1",
-      "exId": "wa-upright-row",
-      "name": "Cable Upright Row (EZ bar)",
+      "exId": "shoulders-upright-row",
+      "name": "Upright Row",
       "muscle": "Shoulders",
       "settingLabel": "Machine setting",
       "setting": null,
@@ -5296,8 +5296,8 @@
      },
      {
       "id": "wa-e2026-10-05-2",
-      "exId": "wa-rev-fly",
-      "name": "Reverse Pec Deck (Rear Delt Fly)",
+      "exId": "shoulders-reverse-pec-deck",
+      "name": "Reverse Pec Deck",
       "muscle": "Shoulders",
       "settingLabel": "Height",
       "setting": "6",
@@ -5338,7 +5338,7 @@
      },
      {
       "id": "wa-e2026-10-05-3",
-      "exId": "wa-face-pull",
+      "exId": "shoulders-face-pull",
       "name": "Face Pull",
       "muscle": "Shoulders",
       "settingLabel": "Machine setting",
@@ -5352,8 +5352,8 @@
      },
      {
       "id": "wa-e2026-10-05-4",
-      "exId": "wa-front-raise",
-      "name": "Dumbbell Front Raise",
+      "exId": "shoulders-front-raise",
+      "name": "Front Raise",
       "muscle": "Shoulders",
       "settingLabel": "Machine setting",
       "setting": null,
@@ -5385,7 +5385,7 @@
      },
      {
       "id": "wa-e2026-10-05-5",
-      "exId": "wa-sh-press",
+      "exId": "shoulders-shoulder-press-machine",
       "name": "Shoulder Press Machine",
       "muscle": "Shoulders",
       "settingLabel": "Machine setting",
@@ -5432,8 +5432,8 @@
      },
      {
       "id": "wa-e2026-10-05-6",
-      "exId": "wa-rev-fly",
-      "name": "Reverse Pec Deck (Rear Delt Fly)",
+      "exId": "shoulders-reverse-pec-deck",
+      "name": "Reverse Pec Deck",
       "muscle": "Shoulders",
       "settingLabel": "Height",
       "setting": "6",
@@ -5473,7 +5473,7 @@
     "entries": [
      {
       "id": "wa-e2026-10-06-0",
-      "exId": "wa-lat-pd",
+      "exId": "back-lat-pulldown",
       "name": "Lat Pulldown",
       "muscle": "Back",
       "settingLabel": "Machine setting",
@@ -5533,8 +5533,8 @@
      },
      {
       "id": "wa-e2026-10-06-1",
-      "exId": "wa-sa-row",
-      "name": "Single-Arm Row",
+      "exId": "back-single-arm-cable-row",
+      "name": "Single-Arm Cable Row",
       "muscle": "Back",
       "settingLabel": "Machine setting",
       "setting": null,
@@ -5623,7 +5623,7 @@
     "entries": [
      {
       "id": "wa-e2026-10-20-0",
-      "exId": "wa-chest-press",
+      "exId": "chest-chest-press-machine",
       "name": "Chest Press Machine",
       "muscle": "Chest",
       "settingLabel": "Machine setting",
@@ -5676,7 +5676,7 @@
      },
      {
       "id": "wa-e2026-10-20-1",
-      "exId": "wa-inc-press",
+      "exId": "chest-incline-dumbbell-press",
       "name": "Incline Dumbbell Press",
       "muscle": "Chest",
       "settingLabel": "Machine setting",
@@ -5718,7 +5718,7 @@
      },
      {
       "id": "wa-e2026-10-20-2",
-      "exId": "wa-squeeze",
+      "exId": "chest-dumbbell-squeeze-press-upper-chest",
       "name": "Dumbbell Squeeze Press (Upper Chest)",
       "muscle": "Chest",
       "settingLabel": "Machine setting",
@@ -5760,7 +5760,7 @@
      },
      {
       "id": "wa-e2026-10-20-3",
-      "exId": "wa-inc-fly",
+      "exId": "chest-incline-dumbbell-fly",
       "name": "Incline Dumbbell Fly",
       "muscle": "Chest",
       "settingLabel": "Machine setting",
@@ -5802,8 +5802,8 @@
      },
      {
       "id": "wa-e2026-10-20-4",
-      "exId": "wa-pushdown",
-      "name": "Cable Tricep Pushdown",
+      "exId": "triceps-rope-pushdown",
+      "name": "Rope Pushdown",
       "muscle": "Triceps",
       "settingLabel": "Machine setting",
       "setting": null,
@@ -5844,8 +5844,8 @@
      },
      {
       "id": "wa-e2026-10-20-5",
-      "exId": "wa-oh-ext",
-      "name": "Overhead Cable Tricep Extension",
+      "exId": "triceps-cable-overhead-rope-extension",
+      "name": "Cable Overhead Rope Extension",
       "muscle": "Triceps",
       "settingLabel": "Machine setting",
       "setting": null,
@@ -5886,8 +5886,8 @@
      },
      {
       "id": "wa-e2026-10-20-6",
-      "exId": "wa-pec-deck",
-      "name": "Pec Deck Fly",
+      "exId": "chest-pec-deck",
+      "name": "Pec Deck",
       "muscle": "Chest",
       "settingLabel": "Machine setting",
       "setting": null,
@@ -5940,7 +5940,7 @@
     "entries": [
      {
       "id": "wa-e2026-10-22-0",
-      "exId": "wa-lat-pd",
+      "exId": "back-lat-pulldown",
       "name": "Lat Pulldown",
       "muscle": "Back",
       "settingLabel": "Machine setting",
@@ -5993,8 +5993,8 @@
      },
      {
       "id": "wa-e2026-10-22-1",
-      "exId": "wa-sa-row",
-      "name": "Single-Arm Row",
+      "exId": "back-single-arm-cable-row",
+      "name": "Single-Arm Cable Row",
       "muscle": "Back",
       "settingLabel": "Machine setting",
       "setting": null,
@@ -7128,400 +7128,468 @@
    }
   },
   "body": {
-   "wa-b0": {
-    "id": "wa-b0",
-    "date": "2026-08-12",
-    "ts": 1786505400000,
+   "wa-b-2026-06-01": {
+    "id": "wa-b-2026-06-01",
+    "date": "2026-06-01",
+    "ts": 1780281000000,
+    "weight": 126.0,
+    "bf": null,
+    "muscle": null,
+    "protein": null,
+    "water": null,
+    "note": "Starting weight (approximate)",
+    "photo": null,
+    "createdAt": 1780281000000
+   },
+   "wa-b-2026-10-01-0": {
+    "id": "wa-b-2026-10-01-0",
+    "date": "2026-10-01",
+    "ts": 1790821800000,
+    "weight": 110.0,
+    "bf": 29.3,
+    "muscle": 72.5,
+    "water": 51.8,
+    "protein": 14.0,
+    "note": "Cult.fit scale \u00b7 BMI 31.4 \u00b7 muscle/water/protein read from the trend chart",
+    "photo": null,
+    "createdAt": 1790821800000
+   },
+   "wa-b-2026-09-29-0": {
+    "id": "wa-b-2026-09-29-0",
+    "date": "2026-09-29",
+    "ts": 1790649000000,
+    "weight": 111.2,
+    "bf": 30.1,
+    "muscle": 72.5,
+    "water": 51.2,
+    "protein": 13.9,
+    "note": "Cult.fit scale \u00b7 BMI 31.7 \u00b7 muscle/water/protein read from the trend chart",
+    "photo": null,
+    "createdAt": 1790649000000
+   },
+   "wa-b-2026-09-27-0": {
+    "id": "wa-b-2026-09-27-0",
+    "date": "2026-09-27",
+    "ts": 1790476200000,
+    "weight": 109.5,
+    "bf": 29.0,
+    "muscle": 72.5,
+    "water": 52.0,
+    "protein": 14.1,
+    "note": "Cult.fit scale \u00b7 BMI 31.3 \u00b7 muscle/water/protein read from the trend chart",
+    "photo": null,
+    "createdAt": 1790476200000
+   },
+   "wa-b-2026-09-25-0": {
+    "id": "wa-b-2026-09-25-0",
+    "date": "2026-09-25",
+    "ts": 1790303400000,
+    "weight": 111.3,
+    "bf": 30.4,
+    "muscle": 72.1,
+    "water": 50.9,
+    "protein": 13.8,
+    "note": "Cult.fit scale \u00b7 BMI 31.8 \u00b7 muscle/water/protein read from the trend chart",
+    "photo": null,
+    "createdAt": 1790303400000
+   },
+   "wa-b-2026-09-23-0": {
+    "id": "wa-b-2026-09-23-0",
+    "date": "2026-09-23",
+    "ts": 1790130600000,
+    "weight": 110.8,
+    "bf": 30.7,
+    "muscle": 71.5,
+    "water": 50.7,
+    "protein": 13.8,
+    "note": "Cult.fit scale \u00b7 BMI 31.6 \u00b7 muscle/water/protein read from the trend chart",
+    "photo": null,
+    "createdAt": 1790130600000
+   },
+   "wa-b-2026-09-22-0": {
+    "id": "wa-b-2026-09-22-0",
+    "date": "2026-09-22",
+    "ts": 1790044200000,
+    "weight": 111.2,
+    "bf": 29.6,
+    "muscle": 72.9,
+    "water": 51.5,
+    "protein": 14.0,
+    "note": "Cult.fit scale \u00b7 BMI 31.7 \u00b7 muscle/water/protein read from the trend chart",
+    "photo": null,
+    "createdAt": 1790044200000
+   },
+   "wa-b-2026-09-19-0": {
+    "id": "wa-b-2026-09-19-0",
+    "date": "2026-09-19",
+    "ts": 1789785000000,
+    "weight": 111.6,
+    "bf": 30.1,
+    "muscle": 72.7,
+    "water": 51.2,
+    "protein": 13.8,
+    "note": "Cult.fit scale \u00b7 BMI 31.9 \u00b7 muscle/water/protein read from the trend chart",
+    "photo": null,
+    "createdAt": 1789785000000
+   },
+   "wa-b-2026-09-18-0": {
+    "id": "wa-b-2026-09-18-0",
+    "date": "2026-09-18",
+    "ts": 1789698600000,
+    "weight": 112.1,
+    "bf": 31.7,
+    "muscle": 71.2,
+    "water": 49.9,
+    "protein": 13.5,
+    "note": "Cult.fit scale \u00b7 BMI 32.0 \u00b7 muscle/water/protein read from the trend chart",
+    "photo": null,
+    "createdAt": 1789698600000
+   },
+   "wa-b-2026-08-25-0": {
+    "id": "wa-b-2026-08-25-0",
+    "date": "2026-08-25",
+    "ts": 1787625000000,
+    "weight": 114.1,
+    "bf": 32.5,
+    "muscle": 71.7,
+    "water": 49.5,
+    "protein": 13.4,
+    "note": "Cult.fit scale \u00b7 BMI 32.6 \u00b7 muscle/water/protein read from the trend chart",
+    "photo": null,
+    "createdAt": 1787625000000
+   },
+   "wa-b-2026-08-24-0": {
+    "id": "wa-b-2026-08-24-0",
+    "date": "2026-08-24",
+    "ts": 1787538600000,
+    "weight": 113.9,
+    "bf": 32.3,
+    "muscle": 71.7,
+    "water": 49.6,
+    "protein": 13.4,
+    "note": "Cult.fit scale \u00b7 BMI 32.5 \u00b7 muscle/water/protein read from the trend chart",
+    "photo": null,
+    "createdAt": 1787538600000
+   },
+   "wa-b-2026-08-22-0": {
+    "id": "wa-b-2026-08-22-0",
+    "date": "2026-08-22",
+    "ts": 1787365800000,
+    "weight": 112.8,
+    "bf": 33.4,
+    "muscle": 69.9,
+    "water": 48.7,
+    "protein": 13.2,
+    "note": "Cult.fit scale \u00b7 BMI 32.2 \u00b7 muscle/water/protein read from the trend chart",
+    "photo": null,
+    "createdAt": 1787365800000
+   },
+   "wa-b-2026-08-21-0": {
+    "id": "wa-b-2026-08-21-0",
+    "date": "2026-08-21",
+    "ts": 1787279400000,
+    "weight": 114.2,
+    "bf": 28.8,
+    "muscle": null,
+    "water": null,
+    "protein": null,
+    "note": "Cult.fit scale \u00b7 BMI 32.6",
+    "photo": null,
+    "createdAt": 1787279400000
+   },
+   "wa-b-2026-08-21-1": {
+    "id": "wa-b-2026-08-21-1",
+    "date": "2026-08-21",
+    "ts": 1787281200000,
+    "weight": 113.1,
+    "bf": 32.8,
+    "muscle": null,
+    "water": null,
+    "protein": null,
+    "note": "Cult.fit scale \u00b7 BMI 32.3",
+    "photo": null,
+    "createdAt": 1787281200000
+   },
+   "wa-b-2026-08-21-2": {
+    "id": "wa-b-2026-08-21-2",
+    "date": "2026-08-21",
+    "ts": 1787283000000,
+    "weight": 113.1,
+    "bf": 32.7,
+    "muscle": 70.9,
+    "water": 49.3,
+    "protein": 13.3,
+    "note": "Cult.fit scale \u00b7 BMI 32.3 \u00b7 muscle/water/protein read from the trend chart",
+    "photo": null,
+    "createdAt": 1787283000000
+   },
+   "wa-b-2026-08-20-0": {
+    "id": "wa-b-2026-08-20-0",
+    "date": "2026-08-20",
+    "ts": 1787193000000,
     "weight": 114.7,
-    "bf": 31.9,
-    "muscle": null,
-    "protein": null,
-    "water": null,
-    "note": "Time of day not recorded",
+    "bf": 31.6,
+    "muscle": 73.1,
+    "water": 50.1,
+    "protein": 13.6,
+    "note": "Cult.fit scale \u00b7 BMI 32.8 \u00b7 muscle/water/protein read from the trend chart",
     "photo": null,
-    "createdAt": 1786505400000
+    "createdAt": 1787193000000
    },
-   "wa-b1": {
-    "id": "wa-b1",
-    "date": "2026-08-14",
-    "ts": 1786678200000,
-    "weight": 115.1,
+   "wa-b-2026-08-17-0": {
+    "id": "wa-b-2026-08-17-0",
+    "date": "2026-08-17",
+    "ts": 1786933800000,
+    "weight": 115.0,
     "bf": 31.1,
-    "muscle": null,
-    "protein": null,
-    "water": null,
-    "note": "Time of day not recorded",
+    "muscle": 73.9,
+    "water": 50.5,
+    "protein": 13.7,
+    "note": "Cult.fit scale \u00b7 BMI 32.8 \u00b7 muscle/water/protein read from the trend chart",
     "photo": null,
-    "createdAt": 1786678200000
+    "createdAt": 1786933800000
    },
-   "wa-b2": {
-    "id": "wa-b2",
+   "wa-b-2026-08-15-0": {
+    "id": "wa-b-2026-08-15-0",
     "date": "2026-08-15",
-    "ts": 1786764600000,
+    "ts": 1786761000000,
     "weight": 114.9,
     "bf": 33.4,
     "muscle": null,
-    "protein": null,
     "water": null,
-    "note": "Time of day not recorded",
+    "protein": null,
+    "note": "Cult.fit scale \u00b7 BMI 32.8",
     "photo": null,
-    "createdAt": 1786764600000
+    "createdAt": 1786761000000
    },
-   "wa-b3": {
-    "id": "wa-b3",
+   "wa-b-2026-08-15-1": {
+    "id": "wa-b-2026-08-15-1",
     "date": "2026-08-15",
-    "ts": 1786811400000,
+    "ts": 1786762800000,
     "weight": 113.9,
     "bf": 31.6,
+    "muscle": 72.5,
+    "water": 50.0,
+    "protein": 13.6,
+    "note": "Cult.fit scale \u00b7 BMI 32.5 \u00b7 muscle/water/protein read from the trend chart",
+    "photo": null,
+    "createdAt": 1786762800000
+   },
+   "wa-b-2026-08-14-0": {
+    "id": "wa-b-2026-08-14-0",
+    "date": "2026-08-14",
+    "ts": 1786674600000,
+    "weight": 115.1,
+    "bf": 31.1,
+    "muscle": 73.9,
+    "water": 50.5,
+    "protein": 13.7,
+    "note": "Cult.fit scale \u00b7 BMI 32.9 \u00b7 muscle/water/protein read from the trend chart",
+    "photo": null,
+    "createdAt": 1786674600000
+   },
+   "wa-b-2026-08-12-0": {
+    "id": "wa-b-2026-08-12-0",
+    "date": "2026-08-12",
+    "ts": 1786501800000,
+    "weight": 114.7,
+    "bf": 31.9,
+    "muscle": 72.9,
+    "water": 49.9,
+    "protein": 13.6,
+    "note": "Cult.fit scale \u00b7 BMI 32.8 \u00b7 muscle/water/protein read from the trend chart",
+    "photo": null,
+    "createdAt": 1786501800000
+   },
+   "wa-b-2026-08-11-0": {
+    "id": "wa-b-2026-08-11-0",
+    "date": "2026-08-11",
+    "ts": 1786415400000,
+    "weight": 114.9,
+    "bf": 30.8,
+    "muscle": 74.1,
+    "water": 50.7,
+    "protein": 13.7,
+    "note": "Cult.fit scale \u00b7 BMI 32.8 \u00b7 muscle/water/protein read from the trend chart",
+    "photo": null,
+    "createdAt": 1786415400000
+   },
+   "wa-b-2026-08-10-0": {
+    "id": "wa-b-2026-08-10-0",
+    "date": "2026-08-10",
+    "ts": 1786329000000,
+    "weight": 115.2,
+    "bf": 34.6,
     "muscle": null,
-    "protein": null,
     "water": null,
-    "note": "Time of day not recorded. BMI 32.5 on the scale app",
-    "photo": "data/photos/img_4856.jpg",
-    "createdAt": 1786811400000
+    "protein": null,
+    "note": "Cult.fit scale \u00b7 BMI 32.9",
+    "photo": null,
+    "createdAt": 1786329000000
+   },
+   "wa-b-2026-08-10-1": {
+    "id": "wa-b-2026-08-10-1",
+    "date": "2026-08-10",
+    "ts": 1786330800000,
+    "weight": 115.0,
+    "bf": 32.5,
+    "muscle": 72.2,
+    "water": 49.4,
+    "protein": 13.3,
+    "note": "Cult.fit scale \u00b7 BMI 32.8 \u00b7 muscle/water/protein read from the trend chart",
+    "photo": null,
+    "createdAt": 1786330800000
+   },
+   "wa-b-2026-08-02-0": {
+    "id": "wa-b-2026-08-02-0",
+    "date": "2026-08-02",
+    "ts": 1785637800000,
+    "weight": 114.4,
+    "bf": 33.3,
+    "muscle": 71.1,
+    "water": 48.8,
+    "protein": 13.2,
+    "note": "Cult.fit scale \u00b7 BMI 32.7",
+    "photo": null,
+    "createdAt": 1785637800000
+   },
+   "wa-b-2026-07-23-0": {
+    "id": "wa-b-2026-07-23-0",
+    "date": "2026-07-23",
+    "ts": 1784773800000,
+    "weight": 117.1,
+    "bf": 32.7,
+    "muscle": null,
+    "water": null,
+    "protein": null,
+    "note": "Cult.fit scale \u00b7 BMI 33.4",
+    "photo": null,
+    "createdAt": 1784773800000
+   },
+   "wa-b-2026-07-10-0": {
+    "id": "wa-b-2026-07-10-0",
+    "date": "2026-07-10",
+    "ts": 1783650600000,
+    "weight": 116.2,
+    "bf": 36.2,
+    "muscle": null,
+    "water": null,
+    "protein": null,
+    "note": "Cult.fit scale \u00b7 BMI 33.2",
+    "photo": null,
+    "createdAt": 1783650600000
+   },
+   "wa-b-2026-07-02-0": {
+    "id": "wa-b-2026-07-02-0",
+    "date": "2026-07-02",
+    "ts": 1782959400000,
+    "weight": 117.4,
+    "bf": 35.8,
+    "muscle": null,
+    "water": null,
+    "protein": null,
+    "note": "Cult.fit scale \u00b7 BMI 33.5",
+    "photo": null,
+    "createdAt": 1782959400000
+   },
+   "wa-b-2026-06-29-0": {
+    "id": "wa-b-2026-06-29-0",
+    "date": "2026-06-29",
+    "ts": 1782700200000,
+    "weight": 117.1,
+    "bf": 35.5,
+    "muscle": null,
+    "water": null,
+    "protein": null,
+    "note": "Cult.fit scale \u00b7 BMI 33.4",
+    "photo": null,
+    "createdAt": 1782700200000
+   },
+   "wa-b-2026-06-28-0": {
+    "id": "wa-b-2026-06-28-0",
+    "date": "2026-06-28",
+    "ts": 1782613800000,
+    "weight": 117.2,
+    "bf": 35.8,
+    "muscle": null,
+    "water": null,
+    "protein": null,
+    "note": "Cult.fit scale \u00b7 BMI 33.5",
+    "photo": null,
+    "createdAt": 1782613800000
+   },
+   "wa-b-2026-06-27-0": {
+    "id": "wa-b-2026-06-27-0",
+    "date": "2026-06-27",
+    "ts": 1782527400000,
+    "weight": 118.1,
+    "bf": 34.0,
+    "muscle": null,
+    "water": null,
+    "protein": null,
+    "note": "Cult.fit scale \u00b7 BMI 33.7",
+    "photo": null,
+    "createdAt": 1782527400000
+   },
+   "wa-b-2026-06-27-1": {
+    "id": "wa-b-2026-06-27-1",
+    "date": "2026-06-27",
+    "ts": 1782529200000,
+    "weight": 117.7,
+    "bf": 33.7,
+    "muscle": null,
+    "water": null,
+    "protein": null,
+    "note": "Cult.fit scale \u00b7 BMI 33.6",
+    "photo": null,
+    "createdAt": 1782529200000
+   },
+   "wa-b-2026-06-26-0": {
+    "id": "wa-b-2026-06-26-0",
+    "date": "2026-06-26",
+    "ts": 1782441000000,
+    "weight": 118.9,
+    "bf": null,
+    "muscle": null,
+    "water": null,
+    "protein": null,
+    "note": "Cult.fit scale \u00b7 BMI 34.0",
+    "photo": null,
+    "createdAt": 1782441000000
+   },
+   "wa-b-2026-06-26-1": {
+    "id": "wa-b-2026-06-26-1",
+    "date": "2026-06-26",
+    "ts": 1782442800000,
+    "weight": 118.7,
+    "bf": 35.6,
+    "muscle": null,
+    "water": null,
+    "protein": null,
+    "note": "Cult.fit scale \u00b7 BMI 33.9",
+    "photo": null,
+    "createdAt": 1782442800000
+   },
+   "wa-b-2026-06-26-2": {
+    "id": "wa-b-2026-06-26-2",
+    "date": "2026-06-26",
+    "ts": 1782444600000,
+    "weight": 119.2,
+    "bf": 35.7,
+    "muscle": null,
+    "water": null,
+    "protein": null,
+    "note": "Cult.fit scale \u00b7 BMI 34.0",
+    "photo": null,
+    "createdAt": 1782444600000
    }
   },
   "food": {},
   "exercises": {
-   "wa-lat-raise": {
-    "id": "wa-lat-raise",
-    "name": "Dumbbell Lateral Raise",
-    "muscle": "Shoulders",
-    "settingLabel": "Machine setting",
-    "setting": null,
-    "photo": null,
-    "note": "You logged this as: Lateral raises",
-    "createdAt": 1786372200000
-   },
-   "wa-rev-fly": {
-    "id": "wa-rev-fly",
-    "name": "Reverse Pec Deck (Rear Delt Fly)",
-    "muscle": "Shoulders",
-    "settingLabel": "Height",
+   "shoulders-reverse-pec-deck": {
+    "id": "shoulders-reverse-pec-deck",
     "setting": "6",
-    "photo": null,
-    "note": "You logged this as: Reverse flies rear delts / Rear delts / Pec dec rear delts",
-    "createdAt": 1786372200000
-   },
-   "wa-rev-cable": {
-    "id": "wa-rev-cable",
-    "name": "Reverse Cable Fly (Rear Delts)",
-    "muscle": "Shoulders",
-    "settingLabel": "Machine setting",
-    "setting": null,
-    "photo": null,
-    "note": "You logged this as: Reverse cable flies for rear delts",
-    "createdAt": 1786372200000
-   },
-   "wa-upright-row": {
-    "id": "wa-upright-row",
-    "name": "Cable Upright Row (EZ bar)",
-    "muscle": "Shoulders",
-    "settingLabel": "Machine setting",
-    "setting": null,
-    "photo": null,
-    "note": "You logged this as: Arch bar pull / Arch bar side delts pull / Archbar lateral delts pull",
-    "createdAt": 1786372200000
-   },
-   "wa-front-raise": {
-    "id": "wa-front-raise",
-    "name": "Dumbbell Front Raise",
-    "muscle": "Shoulders",
-    "settingLabel": "Machine setting",
-    "setting": null,
-    "photo": null,
-    "note": "You logged this as: Front raises / Fromt raises",
-    "createdAt": 1786372200000
-   },
-   "wa-sh-press": {
-    "id": "wa-sh-press",
-    "name": "Shoulder Press Machine",
-    "muscle": "Shoulders",
-    "settingLabel": "Machine setting",
-    "setting": null,
-    "photo": null,
-    "note": "You logged this as: Shoulder press machine / Shoulder press front delts",
-    "createdAt": 1786372200000
-   },
-   "wa-db-sh-press": {
-    "id": "wa-db-sh-press",
-    "name": "Dumbbell Shoulder Press",
-    "muscle": "Shoulders",
-    "settingLabel": "Machine setting",
-    "setting": null,
-    "photo": null,
-    "note": "You logged this as: Shoulder press",
-    "createdAt": 1786372200000
-   },
-   "wa-face-pull": {
-    "id": "wa-face-pull",
-    "name": "Face Pull",
-    "muscle": "Shoulders",
-    "settingLabel": "Machine setting",
-    "setting": null,
-    "photo": null,
-    "note": "You logged this as: Face pull rear delts / Face pull rod / Face pull bar",
-    "createdAt": 1786372200000
-   },
-   "wa-shrug": {
-    "id": "wa-shrug",
-    "name": "Shrugs",
-    "muscle": "Traps",
-    "settingLabel": "Machine setting",
-    "setting": null,
-    "photo": null,
-    "note": "You logged this as: Shrugs",
-    "createdAt": 1786372200000
-   },
-   "wa-inc-press": {
-    "id": "wa-inc-press",
-    "name": "Incline Dumbbell Press",
-    "muscle": "Chest",
-    "settingLabel": "Machine setting",
-    "setting": null,
-    "photo": null,
-    "note": "You logged this as: Incline dumbbell press / Inclined press / Inclined",
-    "createdAt": 1786372200000
-   },
-   "wa-inc-fly": {
-    "id": "wa-inc-fly",
-    "name": "Incline Dumbbell Fly",
-    "muscle": "Chest",
-    "settingLabel": "Machine setting",
-    "setting": null,
-    "photo": null,
-    "note": "You logged this as: Incline flies / Inclined flies / DB incline flies",
-    "createdAt": 1786372200000
-   },
-   "wa-squeeze": {
-    "id": "wa-squeeze",
-    "name": "Dumbbell Squeeze Press (Upper Chest)",
-    "muscle": "Chest",
-    "settingLabel": "Machine setting",
-    "setting": null,
-    "photo": null,
-    "note": "You logged this as: Upper chest dumbbell forward push / Dumbbell pulls upperchest / DB upper chest pull",
-    "createdAt": 1786372200000
-   },
-   "wa-chest-press": {
-    "id": "wa-chest-press",
-    "name": "Chest Press Machine",
-    "muscle": "Chest",
-    "settingLabel": "Machine setting",
-    "setting": null,
-    "photo": null,
-    "note": "You logged this as: Chest press",
-    "createdAt": 1786372200000
-   },
-   "wa-pec-deck": {
-    "id": "wa-pec-deck",
-    "name": "Pec Deck Fly",
-    "muscle": "Chest",
-    "settingLabel": "Machine setting",
-    "setting": null,
-    "photo": null,
-    "note": "You logged this as: Pecdeck flies / Chest flies pec deck / Pec deck chest",
-    "createdAt": 1786372200000
-   },
-   "wa-kneel-fly": {
-    "id": "wa-kneel-fly",
-    "name": "Kneeling Cable Fly (Lower Chest)",
-    "muscle": "Chest",
-    "settingLabel": "Machine setting",
-    "setting": null,
-    "photo": null,
-    "note": "You logged this as: Cable lower chest knees",
-    "createdAt": 1786372200000
-   },
-   "wa-pushdown": {
-    "id": "wa-pushdown",
-    "name": "Cable Tricep Pushdown",
-    "muscle": "Triceps",
-    "settingLabel": "Machine setting",
-    "setting": null,
-    "photo": null,
-    "note": "You logged this as: Tricep pushdown",
-    "createdAt": 1786372200000
-   },
-   "wa-oh-ext": {
-    "id": "wa-oh-ext",
-    "name": "Overhead Cable Tricep Extension",
-    "muscle": "Triceps",
-    "settingLabel": "Machine setting",
-    "setting": null,
-    "photo": null,
-    "note": "You logged this as: Overhead / Tricep overhead",
-    "createdAt": 1786372200000
-   },
-   "wa-curl": {
-    "id": "wa-curl",
-    "name": "Dumbbell Bicep Curl",
-    "muscle": "Biceps",
-    "settingLabel": "Machine setting",
-    "setting": null,
-    "photo": null,
-    "note": "You logged this as: Bicep curls / Curls",
-    "createdAt": 1786372200000
-   },
-   "wa-bb-curl": {
-    "id": "wa-bb-curl",
-    "name": "Barbell Bicep Curl",
-    "muscle": "Biceps",
-    "settingLabel": "Machine setting",
-    "setting": null,
-    "photo": null,
-    "note": "You logged this as: Bicep curls barbell / Bicep barbell curls",
-    "createdAt": 1786372200000
-   },
-   "wa-cg-curl": {
-    "id": "wa-cg-curl",
-    "name": "Close-Grip Barbell Curl",
-    "muscle": "Biceps",
-    "settingLabel": "Machine setting",
-    "setting": null,
-    "photo": null,
-    "note": "You logged this as: Barbell close grip",
-    "createdAt": 1786372200000
-   },
-   "wa-wg-curl": {
-    "id": "wa-wg-curl",
-    "name": "Wide-Grip Barbell Curl",
-    "muscle": "Biceps",
-    "settingLabel": "Machine setting",
-    "setting": null,
-    "photo": null,
-    "note": "You logged this as: Barbell wide grip",
-    "createdAt": 1786372200000
-   },
-   "wa-hammer": {
-    "id": "wa-hammer",
-    "name": "Hammer Curl",
-    "muscle": "Biceps",
-    "settingLabel": "Machine setting",
-    "setting": null,
-    "photo": null,
-    "note": "You logged this as: Hammers / Hammer curls",
-    "createdAt": 1786372200000
-   },
-   "wa-rope-hammer": {
-    "id": "wa-rope-hammer",
-    "name": "Cable Rope Hammer Curl",
-    "muscle": "Biceps",
-    "settingLabel": "Machine setting",
-    "setting": null,
-    "photo": null,
-    "note": "You logged this as: Rope / Other accessory",
-    "createdAt": 1786372200000
-   },
-   "wa-preacher": {
-    "id": "wa-preacher",
-    "name": "Dumbbell Preacher Curl",
-    "muscle": "Biceps",
-    "settingLabel": "Machine setting",
-    "setting": null,
-    "photo": null,
-    "note": "You logged this as: Preacher / Preacher dumbbells",
-    "createdAt": 1786372200000
-   },
-   "wa-tbar": {
-    "id": "wa-tbar",
-    "name": "T-Bar Row",
-    "muscle": "Back",
-    "settingLabel": "Machine setting",
-    "setting": null,
-    "photo": null,
-    "note": "You logged this as: T bar / T barbell pulls",
-    "createdAt": 1786372200000
-   },
-   "wa-cs-row": {
-    "id": "wa-cs-row",
-    "name": "Chest-Supported Dumbbell Row",
-    "muscle": "Back",
-    "settingLabel": "Machine setting",
-    "setting": null,
-    "photo": null,
-    "note": "You logged this as: Chest supported dumbbell pull T / t pulls",
-    "createdAt": 1786372200000
-   },
-   "wa-lat-pd": {
-    "id": "wa-lat-pd",
-    "name": "Lat Pulldown",
-    "muscle": "Back",
-    "settingLabel": "Machine setting",
-    "setting": null,
-    "photo": null,
-    "note": "You logged this as: Lat pull down",
-    "createdAt": 1786372200000
-   },
-   "wa-sa-row": {
-    "id": "wa-sa-row",
-    "name": "Single-Arm Row",
-    "muscle": "Back",
-    "settingLabel": "Machine setting",
-    "setting": null,
-    "photo": null,
-    "note": "You logged this as: Single hand machine rows / Single hand cable rows / Single arm cable rows",
-    "createdAt": 1786372200000
-   },
-   "wa-leg-ext": {
-    "id": "wa-leg-ext",
-    "name": "Leg Extension",
-    "muscle": "Legs",
-    "settingLabel": "Machine setting",
-    "setting": null,
-    "photo": "data/photos/img_5457.jpg",
-    "note": "You logged this as: Leg extensions",
-    "createdAt": 1786372200000
-   },
-   "wa-leg-curl": {
-    "id": "wa-leg-curl",
-    "name": "Leg Curl Machine",
-    "muscle": "Legs",
-    "settingLabel": "Machine setting",
-    "setting": null,
-    "photo": null,
-    "note": "You logged this as: Leg curls",
-    "createdAt": 1786372200000
-   },
-   "wa-leg-press": {
-    "id": "wa-leg-press",
-    "name": "Leg Press",
-    "muscle": "Legs",
-    "settingLabel": "Machine setting",
-    "setting": null,
-    "photo": null,
-    "note": "You logged this as: Leg press / Leg press quads",
-    "createdAt": 1786372200000
-   },
-   "wa-sumo": {
-    "id": "wa-sumo",
-    "name": "Dumbbell Sumo Squat",
-    "muscle": "Legs",
-    "settingLabel": "Machine setting",
-    "setting": null,
-    "photo": null,
-    "note": "You logged this as: Sumo squats",
-    "createdAt": 1786372200000
-   },
-   "wa-front-squat": {
-    "id": "wa-front-squat",
-    "name": "Front Squat",
-    "muscle": "Legs",
-    "settingLabel": "Machine setting",
-    "setting": null,
-    "photo": null,
-    "note": "You logged this as: Front squats",
-    "createdAt": 1786372200000
-   },
-   "wa-bw-squat": {
-    "id": "wa-bw-squat",
-    "name": "Bodyweight Squat",
-    "muscle": "Legs",
-    "settingLabel": "Machine setting",
-    "setting": null,
-    "photo": null,
-    "note": "You logged this as: Squats / Free squats",
-    "createdAt": 1786372200000
+    "settingLabel": "Height"
    }
   },
   "meta": {
@@ -7531,17 +7599,129 @@
     "carbs": 200,
     "fat": 60,
     "goalWeight": null,
-    "splits": [
-     "Chest + Tri",
-     "Back + Bi",
-     "Shoulders",
-     "Arms",
-     "Legs",
-     "Push",
-     "Pull",
-     "Full body"
+    "xrDiv": 10
+   },
+   "favs": {
+    "id": "favs",
+    "ids": [
+     "back-chest-supported-dumbbell-row",
+     "back-lat-pulldown",
+     "back-single-arm-cable-row",
+     "back-t-bar-row",
+     "biceps-alternating-dumbbell-curl",
+     "biceps-barbell-curl",
+     "biceps-cable-rope-hammer-curl",
+     "biceps-close-grip-barbell-curl",
+     "biceps-hammer-curl",
+     "biceps-single-arm-preacher-curl",
+     "biceps-wide-grip-barbell-curl",
+     "chest-chest-press-machine",
+     "chest-dumbbell-squeeze-press-upper-chest",
+     "chest-incline-dumbbell-fly",
+     "chest-incline-dumbbell-press",
+     "chest-kneeling-cable-fly-lower-chest",
+     "chest-pec-deck",
+     "glutes-dumbbell-sumo-squat",
+     "hamstrings-seated-leg-curl",
+     "quads-bodyweight-squat",
+     "quads-front-squat",
+     "quads-leg-extension",
+     "quads-leg-press",
+     "shoulders-dumbbell-lateral-raise",
+     "shoulders-face-pull",
+     "shoulders-front-raise",
+     "shoulders-reverse-cable-fly-rear-delts",
+     "shoulders-reverse-pec-deck",
+     "shoulders-seated-dumbbell-press",
+     "shoulders-shoulder-press-machine",
+     "shoulders-upright-row",
+     "traps-dumbbell-shrug",
+     "triceps-cable-overhead-rope-extension",
+     "triceps-rope-pushdown"
     ]
    }
+  }
+ },
+ "migrate": {
+  "exMap": {
+   "wa-lat-raise": "shoulders-dumbbell-lateral-raise",
+   "wa-rev-fly": "shoulders-reverse-pec-deck",
+   "wa-rev-cable": "shoulders-reverse-cable-fly-rear-delts",
+   "wa-upright-row": "shoulders-upright-row",
+   "wa-front-raise": "shoulders-front-raise",
+   "wa-sh-press": "shoulders-shoulder-press-machine",
+   "wa-db-sh-press": "shoulders-seated-dumbbell-press",
+   "wa-face-pull": "shoulders-face-pull",
+   "wa-shrug": "traps-dumbbell-shrug",
+   "wa-inc-press": "chest-incline-dumbbell-press",
+   "wa-inc-fly": "chest-incline-dumbbell-fly",
+   "wa-squeeze": "chest-dumbbell-squeeze-press-upper-chest",
+   "wa-chest-press": "chest-chest-press-machine",
+   "wa-pec-deck": "chest-pec-deck",
+   "wa-kneel-fly": "chest-kneeling-cable-fly-lower-chest",
+   "wa-pushdown": "triceps-rope-pushdown",
+   "wa-oh-ext": "triceps-cable-overhead-rope-extension",
+   "wa-curl": "biceps-alternating-dumbbell-curl",
+   "wa-bb-curl": "biceps-barbell-curl",
+   "wa-cg-curl": "biceps-close-grip-barbell-curl",
+   "wa-wg-curl": "biceps-wide-grip-barbell-curl",
+   "wa-hammer": "biceps-hammer-curl",
+   "wa-rope-hammer": "biceps-cable-rope-hammer-curl",
+   "wa-preacher": "biceps-single-arm-preacher-curl",
+   "wa-tbar": "back-t-bar-row",
+   "wa-cs-row": "back-chest-supported-dumbbell-row",
+   "wa-lat-pd": "back-lat-pulldown",
+   "wa-sa-row": "back-single-arm-cable-row",
+   "wa-leg-ext": "quads-leg-extension",
+   "wa-leg-curl": "hamstrings-seated-leg-curl",
+   "wa-leg-press": "quads-leg-press",
+   "wa-sumo": "glutes-dumbbell-sumo-squat",
+   "wa-front-squat": "quads-front-squat",
+   "wa-bw-squat": "quads-bodyweight-squat"
+  },
+  "remove": {
+   "exercises": [
+    "wa-lat-raise",
+    "wa-rev-fly",
+    "wa-rev-cable",
+    "wa-upright-row",
+    "wa-front-raise",
+    "wa-sh-press",
+    "wa-db-sh-press",
+    "wa-face-pull",
+    "wa-shrug",
+    "wa-inc-press",
+    "wa-inc-fly",
+    "wa-squeeze",
+    "wa-chest-press",
+    "wa-pec-deck",
+    "wa-kneel-fly",
+    "wa-pushdown",
+    "wa-oh-ext",
+    "wa-curl",
+    "wa-bb-curl",
+    "wa-cg-curl",
+    "wa-wg-curl",
+    "wa-hammer",
+    "wa-rope-hammer",
+    "wa-preacher",
+    "wa-tbar",
+    "wa-cs-row",
+    "wa-lat-pd",
+    "wa-sa-row",
+    "wa-leg-ext",
+    "wa-leg-curl",
+    "wa-leg-press",
+    "wa-sumo",
+    "wa-front-squat",
+    "wa-bw-squat"
+   ],
+   "body": [
+    "wa-b0",
+    "wa-b1",
+    "wa-b2",
+    "wa-b3"
+   ]
   }
  }
 }
