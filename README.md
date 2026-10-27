@@ -19,19 +19,20 @@ Open it from the home-screen icon from then on. On iPhone the home-screen app ke
 ## Your data
 
 - Everything you log is stored on the phone (IndexedDB), including photos.
-- On first open, the app imports `data/seed.json`: 27 workouts (10 Aug to 22 Oct 2026), 64 cardio sessions with machine photos, and 35 Cult.fit scale readings. If you already opened an older version, the import updates only the imported records (ids starting with `wa-`) and keeps everything you logged yourself.
+- On first open, the app imports `data/seed.json`: 27 workouts (10 Aug to 22 Oct 2026), 64 cardio sessions with machine photos, 35 Cult.fit scale readings, and one starter preset per split ("Chest + Tri v1" etc.). Starter presets are added once; edit or delete them freely. If you already opened an older version, the import updates only the imported records (ids starting with `wa-`) and keeps everything you logged yourself.
 - **Back up regularly:** Setup → Export backup creates one `.json` file with all entries and photos. Save it to Files or Google Drive. Setup → Import backup restores it, for example on a new phone.
 - If your repository is public, `data/seed.json` (your past workouts) is public too. Anything you log in the app afterwards never leaves your phone.
 
 ## Updating the app
 
-Replace `index.html` (and anything else that changed), then bump `VERSION` in `sw.js` (e.g. `ftf-v4`) so phones fetch the new copy. Close and reopen the app twice to see it.
+Replace `index.html` (and anything else that changed), then bump `VERSION` in `sw.js` (e.g. `ftf-v7`) so phones fetch the new copy. Close and reopen the app twice to see it.
 
 ## Files
 
 | Path | What it is |
 |---|---|
 | `index.html` | The whole app |
+| `form-notes.js` | Form guide text (how it works, cues, mistakes, tips) and form videos |
 | `guide-data.js` | Exercise directory from the Strength Floor Guide (exercises, muscles, drawings, machine photos) |
 | `data/seed.json` | Past workouts extracted from the WhatsApp log |
 | `sw.js` | Offline support |

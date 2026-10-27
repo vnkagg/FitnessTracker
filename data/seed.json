@@ -1,5 +1,5 @@
 {
- "version": "seed-2026-10-24",
+ "version": "seed-2026-10-27",
  "data": {
   "gym": {
    "wa-2026-08-10": {
@@ -2894,15 +2894,15 @@
       "muscle": "Biceps",
       "settingLabel": "Machine setting",
       "setting": null,
-      "note": "Set 3 started with a 20 kg barbell",
+      "note": "",
       "photo": null,
-      "startedAt": 1789489440000,
-      "doneAt": 1789490070000.0,
+      "startedAt": 1789489140000,
+      "doneAt": 1789489590000.0,
       "group": null,
       "sets": [
        {
         "id": "s12-3-0",
-        "ts": 1789489630909,
+        "ts": 1789489335652,
         "w": 10,
         "reps": 8,
         "drops": [
@@ -2916,7 +2916,7 @@
        },
        {
         "id": "s12-3-1",
-        "ts": 1789489821818,
+        "ts": 1789489531304,
         "w": 10,
         "reps": 6,
         "drops": [
@@ -2927,10 +2927,25 @@
         ],
         "dur": null,
         "tags": []
-       },
+       }
+      ]
+     },
+     {
+      "id": "wa-e2026-09-15-4",
+      "exId": "biceps-barbell-curl",
+      "name": "Barbell Curl",
+      "muscle": "Biceps",
+      "settingLabel": "Machine setting",
+      "setting": null,
+      "note": "20 kg barbell, then dropped to 7.5 kg dumbbells",
+      "photo": null,
+      "startedAt": 1789489650000.0,
+      "doneAt": 1789490070000.0,
+      "group": null,
+      "sets": [
        {
-        "id": "s12-3-2",
-        "ts": 1789490012727,
+        "id": "s12-4-0",
+        "ts": 1789489973076,
         "w": 20,
         "reps": 8,
         "drops": [
@@ -2945,7 +2960,7 @@
       ]
      },
      {
-      "id": "wa-e2026-09-15-4",
+      "id": "wa-e2026-09-15-5",
       "exId": "biceps-hammer-curl",
       "name": "Hammer Curl",
       "muscle": "Biceps",
@@ -2958,7 +2973,7 @@
       "group": null,
       "sets": [
        {
-        "id": "s12-4-0",
+        "id": "s12-5-0",
         "ts": 1789490302727,
         "w": 10,
         "reps": 10,
@@ -2972,7 +2987,7 @@
         "tags": []
        },
        {
-        "id": "s12-4-1",
+        "id": "s12-5-1",
         "ts": 1789490475454,
         "w": 7.5,
         "reps": 15,
@@ -2981,7 +2996,7 @@
         "tags": []
        },
        {
-        "id": "s12-4-2",
+        "id": "s12-5-2",
         "ts": 1789490648181,
         "w": 10,
         "reps": 15,
@@ -2997,7 +3012,7 @@
       ]
      },
      {
-      "id": "wa-e2026-09-15-5",
+      "id": "wa-e2026-09-15-6",
       "exId": "biceps-alternating-dumbbell-curl",
       "name": "Alternating Dumbbell Curl",
       "muscle": "Biceps",
@@ -3010,7 +3025,7 @@
       "group": null,
       "sets": [
        {
-        "id": "s12-5-0",
+        "id": "s12-6-0",
         "ts": 1789491429230,
         "w": 10,
         "reps": 5,
@@ -6909,7 +6924,7 @@
     "id": "wa-c51",
     "date": "2026-09-13",
     "ts": 1789294140000,
-    "type": "Treadmill",
+    "type": "Running",
     "dur": 1460,
     "dist": 3.13,
     "kcal": 258,
@@ -6926,7 +6941,7 @@
     "id": "wa-c52",
     "date": "2026-09-15",
     "ts": 1789494480000,
-    "type": "Treadmill",
+    "type": "Running",
     "dur": 1853,
     "dist": 4.09,
     "kcal": 340,
@@ -6943,7 +6958,7 @@
     "id": "wa-c53",
     "date": "2026-09-16",
     "ts": 1789581660000,
-    "type": "Treadmill",
+    "type": "Running",
     "dur": 2334,
     "dist": 5.07,
     "kcal": 420,
@@ -6960,7 +6975,7 @@
     "id": "wa-c54",
     "date": "2026-09-17",
     "ts": 1789668540000,
-    "type": "Treadmill",
+    "type": "Running",
     "dur": 2204,
     "dist": 5.11,
     "kcal": 420,
@@ -6977,7 +6992,7 @@
     "id": "wa-c55",
     "date": "2026-09-18",
     "ts": 1789756260000,
-    "type": "Treadmill",
+    "type": "Running",
     "dur": 600,
     "dist": 1.42,
     "kcal": 112,
@@ -6994,7 +7009,7 @@
     "id": "wa-c56",
     "date": "2026-09-19",
     "ts": 1789843860000,
-    "type": "Treadmill",
+    "type": "Running",
     "dur": 2258,
     "dist": 5.0,
     "kcal": 417,
@@ -7011,7 +7026,7 @@
     "id": "wa-c57",
     "date": "2026-09-22",
     "ts": 1790097720000,
-    "type": "Treadmill",
+    "type": "Running",
     "dur": 2125,
     "dist": 5.0,
     "kcal": 414,
@@ -7028,7 +7043,7 @@
     "id": "wa-c58",
     "date": "2026-09-25",
     "ts": 1790361540000,
-    "type": "Treadmill",
+    "type": "Running",
     "dur": 2148,
     "dist": 5.0,
     "kcal": 414,
@@ -7045,7 +7060,7 @@
     "id": "wa-c59",
     "date": "2026-09-27",
     "ts": 1790497680000,
-    "type": "Treadmill",
+    "type": "Running",
     "dur": 2099,
     "dist": 5.0,
     "kcal": 413,
@@ -7062,7 +7077,7 @@
     "id": "wa-c60",
     "date": "2026-09-28",
     "ts": 1790620740000,
-    "type": "Treadmill",
+    "type": "Running",
     "dur": 1500,
     "dist": 3.29,
     "kcal": 275,
@@ -7079,7 +7094,7 @@
     "id": "wa-c61",
     "date": "2026-10-05",
     "ts": 1791203700000,
-    "type": "Treadmill",
+    "type": "Running",
     "dur": 2018,
     "dist": 5.0,
     "kcal": 411,
@@ -7096,7 +7111,7 @@
     "id": "wa-c62",
     "date": "2026-10-06",
     "ts": 1791310080000,
-    "type": "Treadmill",
+    "type": "Running",
     "dur": 1981,
     "dist": 5.0,
     "kcal": 659,
@@ -7113,7 +7128,7 @@
     "id": "wa-c63",
     "date": "2026-10-22",
     "ts": 1792673580000,
-    "type": "Treadmill",
+    "type": "Running",
     "dur": 2410,
     "dist": 4.97,
     "kcal": 611,
@@ -7598,6 +7613,7 @@
     "protein": 140,
     "carbs": 200,
     "fat": 60,
+    "fiber": 30,
     "goalWeight": null,
     "xrDiv": 10
    },
@@ -7640,7 +7656,215 @@
      "triceps-rope-pushdown"
     ]
    }
-  }
+  },
+  "presets": {
+   "wa-p-shoulders": {
+    "id": "wa-p-shoulders",
+    "name": "Shoulders v1",
+    "items": [
+     {
+      "exId": "shoulders-face-pull",
+      "sets": 4,
+      "reps": "15\u201318"
+     },
+     {
+      "exId": "shoulders-reverse-cable-fly-rear-delts",
+      "sets": 3,
+      "reps": "8\u201315"
+     },
+     {
+      "exId": "shoulders-dumbbell-lateral-raise",
+      "sets": 3,
+      "reps": "8\u201315"
+     },
+     {
+      "exId": "shoulders-upright-row",
+      "sets": 3,
+      "reps": "15"
+     },
+     {
+      "exId": "shoulders-seated-dumbbell-press",
+      "sets": 3,
+      "reps": "9\u201315"
+     },
+     {
+      "exId": "shoulders-shoulder-press-machine",
+      "sets": 3,
+      "reps": "10\u201311"
+     },
+     {
+      "exId": "shoulders-front-raise",
+      "sets": 3,
+      "reps": "15"
+     },
+     {
+      "exId": "traps-dumbbell-shrug",
+      "sets": 3,
+      "reps": "15"
+     }
+    ],
+    "createdAt": 1786377030000,
+    "from": "2026-08-10"
+   },
+   "wa-p-arms": {
+    "id": "wa-p-arms",
+    "name": "Arms v1",
+    "items": [
+     {
+      "exId": "biceps-barbell-curl",
+      "sets": 3,
+      "reps": "10\u201315"
+     },
+     {
+      "exId": "biceps-hammer-curl",
+      "sets": 2,
+      "reps": "7\u201315"
+     },
+     {
+      "exId": "biceps-single-arm-preacher-curl",
+      "sets": 3,
+      "reps": "7\u201320"
+     },
+     {
+      "exId": "biceps-close-grip-barbell-curl",
+      "sets": 3,
+      "reps": "12\u201320"
+     },
+     {
+      "exId": "biceps-wide-grip-barbell-curl",
+      "sets": 2,
+      "reps": "8\u201312"
+     }
+    ],
+    "createdAt": 1786463970000,
+    "from": "2026-08-11"
+   },
+   "wa-p-chest-tri": {
+    "id": "wa-p-chest-tri",
+    "name": "Chest + Tri v1",
+    "items": [
+     {
+      "exId": "chest-chest-press-machine",
+      "sets": 3,
+      "reps": "5\u20138"
+     },
+     {
+      "exId": "chest-incline-dumbbell-press",
+      "sets": 3,
+      "reps": "8"
+     },
+     {
+      "exId": "chest-dumbbell-squeeze-press-upper-chest",
+      "sets": 3,
+      "reps": "8"
+     },
+     {
+      "exId": "chest-incline-dumbbell-fly",
+      "sets": 3,
+      "reps": "6\u20138"
+     },
+     {
+      "exId": "triceps-rope-pushdown",
+      "sets": 3,
+      "reps": "7\u20138"
+     },
+     {
+      "exId": "triceps-cable-overhead-rope-extension",
+      "sets": 3,
+      "reps": "7\u20138"
+     },
+     {
+      "exId": "chest-pec-deck",
+      "sets": 3,
+      "reps": "7\u20138"
+     }
+    ],
+    "createdAt": 1792511970000,
+    "from": "2026-10-20"
+   },
+   "wa-p-back-bi": {
+    "id": "wa-p-back-bi",
+    "name": "Back + Bi v1",
+    "items": [
+     {
+      "exId": "back-lat-pulldown",
+      "sets": 3,
+      "reps": "14\u201315"
+     },
+     {
+      "exId": "shoulders-face-pull",
+      "sets": 4,
+      "reps": "15\u201318"
+     },
+     {
+      "exId": "back-single-arm-cable-row",
+      "sets": 3,
+      "reps": "10\u201315"
+     },
+     {
+      "exId": "back-chest-supported-dumbbell-row",
+      "sets": 3,
+      "reps": "15"
+     },
+     {
+      "exId": "back-t-bar-row",
+      "sets": 3,
+      "reps": "10\u201315"
+     },
+     {
+      "exId": "biceps-hammer-curl",
+      "sets": 2,
+      "reps": "10\u201315"
+     },
+     {
+      "exId": "biceps-cable-rope-hammer-curl",
+      "sets": 2,
+      "reps": "8\u201310"
+     },
+     {
+      "exId": "biceps-single-arm-preacher-curl",
+      "sets": 5,
+      "reps": "6\u201312"
+     }
+    ],
+    "createdAt": 1786888170000,
+    "from": "2026-08-16"
+   },
+   "wa-p-legs": {
+    "id": "wa-p-legs",
+    "name": "Legs v1",
+    "items": [
+     {
+      "exId": "glutes-dumbbell-sumo-squat",
+      "sets": 3,
+      "reps": "15"
+     },
+     {
+      "exId": "quads-bodyweight-squat",
+      "sets": 2,
+      "reps": "15"
+     },
+     {
+      "exId": "quads-leg-extension",
+      "sets": 3,
+      "reps": "14\u201315"
+     },
+     {
+      "exId": "hamstrings-seated-leg-curl",
+      "sets": 3,
+      "reps": "10\u201315"
+     },
+     {
+      "exId": "quads-leg-press",
+      "sets": 3,
+      "reps": "6\u201315"
+     }
+    ],
+    "createdAt": 1788364080000,
+    "from": "2026-09-02"
+   }
+  },
+  "foodpresets": {}
  },
  "migrate": {
   "exMap": {
